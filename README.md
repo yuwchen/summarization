@@ -56,7 +56,12 @@ python cross_domain_mts.py
 - [Evaluation_scores](https://drive.google.com/drive/folders/1VTri9HjcTR0w2O3MdpLUT9c0_7xO6Ljx?usp=sharing) #evaluation scores
 
 
-
+------
+### Fine-tuned FLAN-T5
+```
+python reformat_data.py          #reformat the data into hugging face dataset format
+python finetune_t5large_mts.py   #fine-tuned flan-t5 model
+```
 
 
 
