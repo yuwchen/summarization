@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5490628445424476,
+    0.2967741935483871,
+    0.6910994764397905,
+    0.5392670157068062
+  ],
+  "rouge2": [
+    0.2806629834254144,
+    0.07792207792207792,
+    0.4867724867724868,
+    0.29473684210526313
+  ],
+  "rougeL": [
+    0.32635060639470775,
+    0.15483870967741933,
+    0.4502617801047121,
+    0.3717277486910995
+  ],
+  "rougeLsum": [
+    0.4696802646085998,
+    0.18064516129032257,
+    0.6178010471204188,
+    0.4083769633507853
+  ],
+  "bertscore_precision": [
+    0.6687790751457214,
+    0.6474770307540894,
+    0.8283304572105408,
+    0.7768619060516357
+  ],
+  "bertscore_recall": [
+    0.6305454969406128,
+    0.5302155017852783,
+    0.7231671214103699,
+    0.6791875958442688
+  ],
+  "bertscore_f1": [
+    0.6490997672080994,
+    0.5830084681510925,
+    0.7721847295761108,
+    0.7247487306594849
+  ],
+  "bleurt": [
+    0.3676522374153137,
+    0.41671139001846313,
+    0.5322472453117371,
+    0.6143239140510559
+  ],
+  "pred_note": [
+    " \nHISTORY OF PRESENT ILLNESS\n Wayne presents with a sore on his right foot, which has not healed for the past two to three weeks after developing a blister from wearing new shoes while traveling. The wound did not improve despite being on antibiotics for a course of time. Patient has no fever or chills, and it does not hurt as he is experiencing neuropathy. The wound sticks to the sock when taken off, and there is no surrounding erythema or cellulitis.    \nPHYSICAL EXAM\n The patient has a one by two inch circular wound on the dorsal aspect of the lateral right foot, proximal to the right fifth to the fifth mtp joint. There is some yellow slough present, minimal granulation tissue with no surrounding erythema or cellulitis, and no fluid collection or necrosis. On vascular exam, there are palpable bilateral femoral and popliteal pulses with no palpable dp or pt pulses, although doppler signs are present.    \nRESULTS\n The right foot x-ray shows no evidence of osteomyelitis, which indicates no bone infection.   \nASSESSMENT AND PLAN\n An ankle brachial index ABI will be ordered to determine the blood supply to the foot for wound healing. A debridement in the office to remove some of the dead tissue, followed by prescription of collagenase ointment to be applied once daily to the wound, covering it with a sterile dressing will be conducted. The patient will be advised to wear a surgical shoe to relieve pressure on the area. The wound will be monitored for improvement of healing with the appearance of pink tissue, and if not optimal, the patient will be referred to a vascular specialist. No further antibiotics are required at present. The patient's diabetes will also be controlled with dietary modifications, to bring down his hemoglobin a1c to a better level, and a diabetic consult will be arranged. A follow-up in two weeks will be scheduled.",
+    "Wayne presents with a sore on his right foot, which has not healed for the past two to three weeks after developing a blister from wearing new shoes while traveling. The wound did not improve despite being on antibiotics for a course of time. Patient has no fever or chills, and it does not hurt as he is experiencing neuropathy. The wound sticks to the sock when taken off, and there is no surrounding erythema or cellulitis. ",
+    "The patient has a one by two inch circular wound on the dorsal aspect of the lateral right foot, proximal to the right fifth to the fifth mtp joint. There is some yellow slough present, minimal granulation tissue with no surrounding erythema or cellulitis, and no fluid collection or necrosis. On vascular exam, there are palpable bilateral femoral and popliteal pulses with no palpable dp or pt pulses, although doppler signs are present. The right foot x-ray shows no evidence of osteomyelitis, which indicates no bone infection. ",
+    "An ankle brachial index ABI will be ordered to determine the blood supply to the foot for wound healing. A debridement in the office to remove some of the dead tissue, followed by prescription of collagenase ointment to be applied once daily to the wound, covering it with a sterile dressing will be conducted. The patient will be advised to wear a surgical shoe to relieve pressure on the area. The wound will be monitored for improvement of healing with the appearance of pink tissue, and if not optimal, the patient will be referred to a vascular specialist. No further antibiotics are required at present. The patient's diabetes will also be controlled with dietary modifications, to bring down his hemoglobin a1c to a better level, and a diabetic consult will be arranged. A follow-up in two weeks will be scheduled. "
+  ],
+  "gt_note": [
+    "HISTORY OF PRESENT ILLNESS\n\nWayne Jenkins is a pleasant 43-year-old male who presents to the clinic today for the evaluation of a right foot wound, onset 2 to 3 weeks ago. He was seen by his primary care physician who referred him to our office. His last visit with a podiatrist was 2 years ago, however they moved, and he has been unable to get another podiatrist. He denies any specific injury.\n\nThe patient purchased a new pair of shoes and was breaking them in prior to traveling. Initially, he did not feel that the shoes were too tight, however a blister formed on his right foot. The patient does have neuropathy and notes this might be why he did not notice the tightness. His blister soon became a wound and he was seen by his PCP. He was placed on a round of antibiotics, which he completed yesterday. He denies any changes to the appearance of the wound. The patient denies pain or drainage. His sock will occasionally stick to his wound, regardless of if he has a Band-Aid covering it. The patient has discontinued the use of these shoes. Occasionally, he has issues with stability, which was a primary purpose of purchasing these shoes. He denies any fever or chills.\n\nRegarding his diabetes, his last hemoglobin A1C was 8.\n\nREVIEW OF SYSTEMS\n\nConstitutional: Denies fever and chills.\nSkin: Reports right foot wound.\nNeurological: Reports neuropathy.\n\nVITALS\n\nTemperature: 98.1.\nHeart rate: 72.\nRespiration: 16.\nBlood pressure: 110/65 mm Hg.\n\nPHYSICAL EXAM\n\nCV: Palpable bilateral femoral and popliteal pulses. No palpable DP or PT pulses but Doppler signs are present. No evidence of fluid collection.\nSKIN: On the right foot, there is a 1 x 2 inch circular wound on the dorsal aspect of the lateral right foot that is just proximal to the 5th MTP joint. There is some yellow slough present with minimal granulation tissue. No surrounding erythema or cellulitis. No necrosis. No odor.\n\nRESULTS\n\n3 views of the right foot were taken today. These reveal no evidence of osteomyelitis.\n\nASSESSMENT\n\n1. Right foot diabetic ulcer.\n2. Diabetes.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient regarding his current symptoms. I have explained to him that his x-rays did not reveal any evidence of osteomyelitis. At this time, I have recommended that we obtain an ankle brachial index ABI to determine the blood supply to his foot to see if he can heal this wound. I have also performed a debridement in the office to remove some of the dead tissue. I have prescribed a collagenase ointment to be applied to the wound 1 time daily and instructed him to cover with a dry sterile dressing. He will continue this until we see the wound shrinking and the nice pink tissue is present. I have also recommended that the patient be placed in a surgical shoe to take pressure off the area. I do not think that antibiotics are needed at this time. He may need to see a vascular specialist if the ABI indicates that his blood supply is not optimal for wound healing.\n\nRegarding his diabetes, I explained the need for controlling his diabetes and the effects this will have on wound healing. I have recommended a diabetic consultation to discuss diet modifications to bring his hemoglobin A1c to a better level.\n\nINSTRUCTIONS\n\nThe patient will follow up with me in 2 weeks to check on his progress.",
+    "Wayne Jenkins is a pleasant 43-year-old male who presents to the clinic today for the evaluation of a right foot wound, onset 2 to 3 weeks ago. He was seen by his primary care physician who referred him to our office. His last visit with a podiatrist was 2 years ago, however they moved, and he has been unable to get another podiatrist. He denies any specific injury.\n\nThe patient purchased a new pair of shoes and was breaking them in prior to traveling. Initially, he did not feel that the shoes were too tight, however a blister formed on his right foot. The patient does have neuropathy and notes this might be why he did not notice the tightness. His blister soon became a wound and he was seen by his PCP. He was placed on a round of antibiotics, which he completed yesterday. He denies any changes to the appearance of the wound. The patient denies pain or drainage. His sock will occasionally stick to his wound, regardless of if he has a Band-Aid covering it. The patient has discontinued the use of these shoes. Occasionally, he has issues with stability, which was a primary purpose of purchasing these shoes. He denies any fever or chills.\n\nRegarding his diabetes, his last hemoglobin A1C was 8. Constitutional: Denies fever and chills.\nSkin: Reports right foot wound.\nNeurological: Reports neuropathy. ",
+    "Temperature: 98.1.\nHeart rate: 72.\nRespiration: 16.\nBlood pressure: 110/65 mm Hg. CV: Palpable bilateral femoral and popliteal pulses. No palpable DP or PT pulses but Doppler signs are present. No evidence of fluid collection.\nSKIN: On the right foot, there is a 1 x 2 inch circular wound on the dorsal aspect of the lateral right foot that is just proximal to the 5th MTP joint. There is some yellow slough present with minimal granulation tissue. No surrounding erythema or cellulitis. No necrosis. No odor. 3 views of the right foot were taken today. These reveal no evidence of osteomyelitis. ",
+    "1. Right foot diabetic ulcer.\n2. Diabetes. After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient regarding his current symptoms. I have explained to him that his x-rays did not reveal any evidence of osteomyelitis. At this time, I have recommended that we obtain an ankle brachial index ABI to determine the blood supply to his foot to see if he can heal this wound. I have also performed a debridement in the office to remove some of the dead tissue. I have prescribed a collagenase ointment to be applied to the wound 1 time daily and instructed him to cover with a dry sterile dressing. He will continue this until we see the wound shrinking and the nice pink tissue is present. I have also recommended that the patient be placed in a surgical shoe to take pressure off the area. I do not think that antibiotics are needed at this time. He may need to see a vascular specialist if the ABI indicates that his blood supply is not optimal for wound healing.\n\nRegarding his diabetes, I explained the need for controlling his diabetes and the effects this will have on wound healing. I have recommended a diabetic consultation to discuss diet modifications to bring his hemoglobin A1c to a better level. The patient will follow up with me in 2 weeks to check on his progress. "
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5033112582781457,
+    0.339943342776204,
+    0.5227272727272728,
+    0.37755102040816324
+  ],
+  "rouge2": [
+    0.1806108897742364,
+    0.12535612535612536,
+    0.26436781609195403,
+    0.07216494845360825
+  ],
+  "rougeL": [
+    0.2754966887417219,
+    0.22096317280453256,
+    0.4204545454545454,
+    0.1836734693877551
+  ],
+  "rougeLsum": [
+    0.4450331125827815,
+    0.22096317280453256,
+    0.4431818181818181,
+    0.1836734693877551
+  ],
+  "bertscore_precision": [
+    0.6601665019989014,
+    0.7260202765464783,
+    0.7068734169006348,
+    0.6914722919464111
+  ],
+  "bertscore_recall": [
+    0.6253056526184082,
+    0.5597132444381714,
+    0.7096895575523376,
+    0.6813539266586304
+  ],
+  "bertscore_f1": [
+    0.6422634124755859,
+    0.6321110129356384,
+    0.7082787156105042,
+    0.6863758563995361
+  ],
+  "bleurt": [
+    0.39656972885131836,
+    0.46369868516921997,
+    0.5498037338256836,
+    0.5703158974647522
+  ],
+  "pred_note": [
+    "\nHISTORY OF PRESENT ILLNESS\n The patient, who is generally healthy, injured her right knee while skiing. She caught her ski coming off the lift and fell, feeling her knee pop. She was unable to bear weight on her knee, so the ski patrol took her down the hill. The patient is experiencing pain on the outside of her knee and feels like it won't hold her weight. She has limited bending and straightening of the knee, and there is pain upon palpation.  \nPHYSICAL EXAM\n On a heart exam, heart sounds were in a nice, regular rate and rhythm, and there were no murmurs. The lungs were clear to auscultation. The right knee examination revealed edema and an effusion over the right knee, and pain to palpation of the right lateral knee. There is decreased flexion and extension, a positive Lachman sign, and palpable dorsalis pedis and posterior tibial pulses. There is no leg edema in the ankle.  \nRESULTS\n The x-ray did not show any bony abnormality; however, due to the physical exam results, the patient will undergo an MRI to confirm the presence of a torn ACL or any other structural damage.  \nASSESSMENT AND PLAN\n Given the results of the physical exam, there is concern that the patient has ruptured her ACL. The plan is to order a knee MRI to confirm the diagnosis and assess the extent of the damage. The patient will continue to take ibuprofen and will be fitted with a brace to support her knee. It is hoped that the MRI can be completed within the next few days so that a treatment plan can be formulated. The patient has been advised to limit her activity until the extent of the injury can be determined.",
+    "The patient, who is generally healthy, injured her right knee while skiing. She caught her ski coming off the lift and fell, feeling her knee pop. She was unable to bear weight on her knee, so the ski patrol took her down the hill. The patient is experiencing pain on the outside of her knee and feels like it won't hold her weight. She has limited bending and straightening of the knee, and there is pain upon palpation. ",
+    "On a heart exam, heart sounds were in a nice, regular rate and rhythm, and there were no murmurs. The lungs were clear to auscultation. The right knee examination revealed edema and an effusion over the right knee, and pain to palpation of the right lateral knee. There is decreased flexion and extension, a positive Lachman sign, and palpable dorsalis pedis and posterior tibial pulses. There is no leg edema in the ankle. The x-ray did not show any bony abnormality; however, due to the physical exam results, the patient will undergo an MRI to confirm the presence of a torn ACL or any other structural damage. ",
+    "Given the results of the physical exam, there is concern that the patient has ruptured her ACL. The plan is to order a knee MRI to confirm the diagnosis and assess the extent of the damage. The patient will continue to take ibuprofen and will be fitted with a brace to support her knee. It is hoped that the MRI can be completed within the next few days so that a treatment plan can be formulated. The patient has been advised to limit her activity until the extent of the injury can be determined. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nRight knee injury\n\nHISTORY OF PRESENT ILLNESS\n\nMichelle King is a pleasant 44-year-old male who presents to the clinic today for the evaluation of a right knee injury. Her injury was sustained while skiing in Vermont last weekend after she caught her ski when coming off of the lift and fell. She reports a pop in her knee at the time of injury and has been experiencing pain since that time. Due to her fall she was unable to weight bear and had to be taken down by the ski patrol. She locates her pain to the lateral aspect of her knee and also describes the feeling of instability as well as buckling. At this time she is experiencing difficulty with knee flexion; however, she states this was not a problem immediately after the injury. Full knee extension is also quite painful for her. The patient denies any numbness or tingling in her toes. She is currently utilizing crutches for ambulation which were provided to her by the ski patrol. In terms of pain control, she is taking ibuprofen which is providing some relief.\n\nMEDICAL HISTORY\n\nPatient reports she is otherwise healthy and denies a history of high blood pressure or diabetes.\n\nSOCIAL HISTORY\n\nPatient reports she is very active with skiing and taking care of her 4-year-old twins. She mentions that she would like to get back into running at some point. She states that her husband is home with her, but he also works a job where he has gone quite a bit.\n\nMEDICATIONS\n\nPatient reports she is taking ibuprofen.\n\nREVIEW OF SYSTEMS\n\nMusculoskeletal: Reports right knee pain and limited range of motion.\nNeurological: Denies numbness or tingling in toes.\n\nPHYSICAL EXAM\n\nGAIT: The patient is ambulating with crutches.\nCV: Regular rate and rhythm. No murmur.\nRESPIRATORY: Lungs are clear to auscultation.\nMSK: Examination of the right knee: Edema and effusion noted. Pain with palpation of the lateral knee. Decreased flexion and extension. Positive Lachman's. Palpable dorsalis pedis and posterior tibial pulse. No ankle edema.\n\nRESULTS\n\n4 views of the right knee were taken today. These reveal no bony abnormalities.\n\nASSESSMENT\n\nRight knee pain, possible ACL tear.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to her current symptoms. I have recommended that we obtain an MRI of the right knee to evaluate for a possible ACL tear. In the meantime, I have advised her to continue taking ibuprofen 600 to 800 mg every 8 hours as needed for pain. She will also be placed into a brace for increased knee support.\n\nINSTRUCTIONS\n\nThe patient will follow up with me once the MRI results are available for review and further discussion.",
+    "Right knee injury Michelle King is a pleasant 44-year-old male who presents to the clinic today for the evaluation of a right knee injury. Her injury was sustained while skiing in Vermont last weekend after she caught her ski when coming off of the lift and fell. She reports a pop in her knee at the time of injury and has been experiencing pain since that time. Due to her fall she was unable to weight bear and had to be taken down by the ski patrol. She locates her pain to the lateral aspect of her knee and also describes the feeling of instability as well as buckling. At this time she is experiencing difficulty with knee flexion; however, she states this was not a problem immediately after the injury. Full knee extension is also quite painful for her. The patient denies any numbness or tingling in her toes. She is currently utilizing crutches for ambulation which were provided to her by the ski patrol. In terms of pain control, she is taking ibuprofen which is providing some relief. Patient reports she is otherwise healthy and denies a history of high blood pressure or diabetes. Patient reports she is very active with skiing and taking care of her 4-year-old twins. She mentions that she would like to get back into running at some point. She states that her husband is home with her, but he also works a job where he has gone quite a bit. Patient reports she is taking ibuprofen. Musculoskeletal: Reports right knee pain and limited range of motion.\nNeurological: Denies numbness or tingling in toes. ",
+    "GAIT: The patient is ambulating with crutches.\nCV: Regular rate and rhythm. No murmur.\nRESPIRATORY: Lungs are clear to auscultation.\nMSK: Examination of the right knee: Edema and effusion noted. Pain with palpation of the lateral knee. Decreased flexion and extension. Positive Lachman's. Palpable dorsalis pedis and posterior tibial pulse. No ankle edema. 4 views of the right knee were taken today. These reveal no bony abnormalities. ",
+    "Right knee pain, possible ACL tear. After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to her current symptoms. I have recommended that we obtain an MRI of the right knee to evaluate for a possible ACL tear. In the meantime, I have advised her to continue taking ibuprofen 600 to 800 mg every 8 hours as needed for pain. She will also be placed into a brace for increased knee support. The patient will follow up with me once the MRI results are available for review and further discussion. "
+  ]
+}

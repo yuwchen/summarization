@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.31603773584905664,
+    0.21727019498607242,
+    0.3218390804597701,
+    0.22068965517241382
+  ],
+  "rouge2": [
+    0.08037825059101654,
+    0.08403361344537816,
+    0.08139534883720931,
+    0.027777777777777776
+  ],
+  "rougeL": [
+    0.1650943396226415,
+    0.17270194986072424,
+    0.14942528735632182,
+    0.09655172413793105
+  ],
+  "rougeLsum": [
+    0.28773584905660377,
+    0.19498607242339833,
+    0.2758620689655172,
+    0.1724137931034483
+  ],
+  "bertscore_precision": [
+    0.6019386053085327,
+    0.7160627245903015,
+    0.5874418616294861,
+    0.6362942457199097
+  ],
+  "bertscore_recall": [
+    0.5776067972183228,
+    0.48454350233078003,
+    0.5491305589675903,
+    0.4847175180912018
+  ],
+  "bertscore_f1": [
+    0.5895217061042786,
+    0.5779805779457092,
+    0.5676405429840088,
+    0.550258219242096
+  ],
+  "bleurt": [
+    0.4206436276435852,
+    0.5022005438804626,
+    0.4099946618080139,
+    0.544032871723175
+  ],
+  "pred_note": [
+    " \nHISTORY OF PRESENT ILLNESS\n  Tyler is a 56-year-old male who presents with a complaint of difficulty swallowing over the past four to five weeks. He reports feeling like something is stuck in his throat and a little painful, though not associated with coughing, and only affecting him with solids, not liquids. No blood, vomiting or weight loss reported.   \nPHYSICAL EXAM\n  Normal neck and thyroid with no masses, no lymph nodes. Exam of the throat appears normal with no masses or redness, though there is some epigastric tenderness. Lung exam is clear, and heart exam is normal, with no murmurs. Belly exam reveals tenderness at the epigastric region, though no masses are palpable. Neurological exam is unremarkable.   \nRESULTS\n  A referral for gastroenterology is recommended due to the concern of esophageal stricture. Prilosec is also recommended as reflux can exacerbate this issue. Norvasc is continued for high blood pressure.   \nASSESSMENT AND PLAN\n  Repeat hemoglobin A1c is ordered, and blood work is ordered to check kidney function. An eye referral for ophthalmology is given for checking the eyes for diabetic retinopathy. Metformin is continued, with no changes recommended at this time. Tyler is to return in one month for follow-up, and a refill for Norvasc will be sent to the pharmacy.",
+    "Tyler is a 56-year-old male who presents with a complaint of difficulty swallowing over the past four to five weeks. He reports feeling like something is stuck in his throat and a little painful, though not associated with coughing, and only affecting him with solids, not liquids. No blood, vomiting or weight loss reported. ",
+    "Normal neck and thyroid with no masses, no lymph nodes. Exam of the throat appears normal with no masses or redness, though there is some epigastric tenderness. Lung exam is clear, and heart exam is normal, with no murmurs. Belly exam reveals tenderness at the epigastric region, though no masses are palpable. Neurological exam is unremarkable. A referral for gastroenterology is recommended due to the concern of esophageal stricture. Prilosec is also recommended as reflux can exacerbate this issue. Norvasc is continued for high blood pressure. ",
+    "Repeat hemoglobin A1c is ordered, and blood work is ordered to check kidney function. An eye referral for ophthalmology is given for checking the eyes for diabetic retinopathy. Metformin is continued, with no changes recommended at this time. Tyler is to return in one month for follow-up, and a refill for Norvasc will be sent to the pharmacy. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nDifficulty swallowing\n\nMEDICAL HISTORY\n\n Tyler Green is a 56-year-old male who presents today complaining of difficulty swallowing.\n\nThe patient noticed the difficulty swallowing approximately 4 to 5 weeks ago. He describes it as something stuck in his throat. He states that it bothers him a little bit throughout the day as sometimes it becomes painful. The patient states that occasionally when he tries to eat something relatively solid it seems to get stuck and he will have to wash it down with a drink. He states that he has never fully choked before, but has recently thought about potentially choking. He denies having to cough. Denies having this issue with liquids, hot or cold. Denies hematochezia, vomiting blood, coughing up blood, any weight changes, chest pain, or shortness of breath.\n\nRegarding his diabetes, the patient states he is doing well. He states that he checks his blood sugars most of the time, but sometimes he is in a hurry and will forget. However, he does note that when he checks his blood sugar, they are within range. He is compliant with his metformin 500 mg twice a day. He denies any side effects of the metformin such as nausea, vomiting, or diarrhea. His last hemoglobin A1c was 7.4.\n\nIn regards to his blood pressure, the patient states that he is doing okay. He notes that occasionally he will have a lower blood pressure and then other days it will be elevated. However, he states they usually close in range. He is still taking Norvasc.\n\n\n\nPatient reports a history of diabetes and hypertension.\n\nMEDICATIONS\n\nPatient reports that he take metformin 500 mg twice a day and Norvasc.\n\nREVIEW OF SYSTEMS\n\nConstitutional: Denies weight changes.\nHENT: Reports dysphagia.\nCardiovascular: Denies chest pain.\nRespiratory: Denies cough, shortness of breath, or hemoptysis.\nGastrointestinal: Denies hematochezia, hematemesis, vomiting, nausea, or diarrhea.\n\nVITALS\n\nBlood pressure in office today is 120/50.\n\nPHYSICAL EXAM\n\nNeck\n- General Examination: Neck is supple without thyromegaly or lymphadenopathy. No swelling. No masses noted. No carotid bruits. No redness noted.\n\nRespiratory\n- Assessment of Respiratory Effort: Normal respiratory effort.\n- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.\n\nCardiovascular\n- Auscultation of Heart: Regular rate and rhythm. No murmurs, gallops or rubs.\n\nGastrointestinal\n- Examination of Abdomen: No masses or swelling. Epigastric tenderness noted.\n\nMusculoskeletal\n- Normal back examination.\n- Normal capillary refill and perfusion.\n\nHematology/Lymphatic/Immunology\n- Palpation: No enlarged lymph nodes.\n\nASSESSMENT AND PLAN\n\n1. Difficulty swallowing.\n- Medical Reasoning: The patient describes difficulty swallowing when he eats solid foods.\n- Patient Education and Counseling: We discussed that I am concerned he has a narrowing in his throat that is causing this. I advised the patient the gastroenterology will do a scope. I recommended Prilosec as he might be experiencing reflux. We discussed that he should eat his food slowly and chew his food frequently. I advised the patient to call our office if his symptoms worsen.\n- Medical Treatment: I referred the patient to gastroenterology. I prescribed Prilosec 20 mg once a day.\n\n2. Diabetes.\n- Medical Reasoning: This seems well-controlled.\n- Patient Education and Counseling: The patient will continue with his metformin as he seems to be doing well. I advised the patient to follow up in 1 month for results and any adjustments that may be needed.\n- Medical Treatment: Continue metformin 500 mg twice a day. I ordered another hemoglobin A1c, as well as a kidney function test. I referred the patient to ophthalmology for retinopathy.\n\n3. High blood pressure.\n- Medical Reasoning: This seems well-controlled.\n- Patient Education and Counseling: I advised the patient to continue his current medication, Norvasc.\n- Medical Treatment: I refilled the Norvasc.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n\nINSTRUCTIONS\n\nThe patient will follow-up in 1 month for his diabetic lab results and any modifications needed.\n",
+    "Difficulty swallowing Tyler Green is a 56-year-old male who presents today complaining of difficulty swallowing.\n\nThe patient noticed the difficulty swallowing approximately 4 to 5 weeks ago. He describes it as something stuck in his throat. He states that it bothers him a little bit throughout the day as sometimes it becomes painful. The patient states that occasionally when he tries to eat something relatively solid it seems to get stuck and he will have to wash it down with a drink. He states that he has never fully choked before, but has recently thought about potentially choking. He denies having to cough. Denies having this issue with liquids, hot or cold. Denies hematochezia, vomiting blood, coughing up blood, any weight changes, chest pain, or shortness of breath.\n\nRegarding his diabetes, the patient states he is doing well. He states that he checks his blood sugars most of the time, but sometimes he is in a hurry and will forget. However, he does note that when he checks his blood sugar, they are within range. He is compliant with his metformin 500 mg twice a day. He denies any side effects of the metformin such as nausea, vomiting, or diarrhea. His last hemoglobin A1c was 7.4.\n\nIn regards to his blood pressure, the patient states that he is doing okay. He notes that occasionally he will have a lower blood pressure and then other days it will be elevated. However, he states they usually close in range. He is still taking Norvasc.\n\n\n\nPatient reports a history of diabetes and hypertension. Patient reports that he take metformin 500 mg twice a day and Norvasc. Constitutional: Denies weight changes.\nHENT: Reports dysphagia.\nCardiovascular: Denies chest pain.\nRespiratory: Denies cough, shortness of breath, or hemoptysis.\nGastrointestinal: Denies hematochezia, hematemesis, vomiting, nausea, or diarrhea. ",
+    "Blood pressure in office today is 120/50. Neck\n- General Examination: Neck is supple without thyromegaly or lymphadenopathy. No swelling. No masses noted. No carotid bruits. No redness noted.\n\nRespiratory\n- Assessment of Respiratory Effort: Normal respiratory effort.\n- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.\n\nCardiovascular\n- Auscultation of Heart: Regular rate and rhythm. No murmurs, gallops or rubs.\n\nGastrointestinal\n- Examination of Abdomen: No masses or swelling. Epigastric tenderness noted.\n\nMusculoskeletal\n- Normal back examination.\n- Normal capillary refill and perfusion.\n\nHematology/Lymphatic/Immunology\n- Palpation: No enlarged lymph nodes. ",
+    "1. Difficulty swallowing.\n- Medical Reasoning: The patient describes difficulty swallowing when he eats solid foods.\n- Patient Education and Counseling: We discussed that I am concerned he has a narrowing in his throat that is causing this. I advised the patient the gastroenterology will do a scope. I recommended Prilosec as he might be experiencing reflux. We discussed that he should eat his food slowly and chew his food frequently. I advised the patient to call our office if his symptoms worsen.\n- Medical Treatment: I referred the patient to gastroenterology. I prescribed Prilosec 20 mg once a day.\n\n2. Diabetes.\n- Medical Reasoning: This seems well-controlled.\n- Patient Education and Counseling: The patient will continue with his metformin as he seems to be doing well. I advised the patient to follow up in 1 month for results and any adjustments that may be needed.\n- Medical Treatment: Continue metformin 500 mg twice a day. I ordered another hemoglobin A1c, as well as a kidney function test. I referred the patient to ophthalmology for retinopathy.\n\n3. High blood pressure.\n- Medical Reasoning: This seems well-controlled.\n- Patient Education and Counseling: I advised the patient to continue his current medication, Norvasc.\n- Medical Treatment: I refilled the Norvasc.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. The patient will follow-up in 1 month for his diabetic lab results and any modifications needed. "
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5481727574750831,
+    0.22972972972972974,
+    0.6951219512195123,
+    0.44787644787644787
+  ],
+  "rouge2": [
+    0.26,
+    0.04109589041095891,
+    0.45679012345679015,
+    0.21011673151750973
+  ],
+  "rougeL": [
+    0.3056478405315614,
+    0.13513513513513514,
+    0.426829268292683,
+    0.3166023166023166
+  ],
+  "rougeLsum": [
+    0.5215946843853821,
+    0.13513513513513514,
+    0.646341463414634,
+    0.39382239382239387
+  ],
+  "bertscore_precision": [
+    0.6856549978256226,
+    0.5986496806144714,
+    0.7881619930267334,
+    0.7672041058540344
+  ],
+  "bertscore_recall": [
+    0.656815767288208,
+    0.6212419867515564,
+    0.6586359739303589,
+    0.6274861693382263
+  ],
+  "bertscore_f1": [
+    0.6709256172180176,
+    0.6097366213798523,
+    0.71760094165802,
+    0.6903467774391174
+  ],
+  "bleurt": [
+    0.35415172576904297,
+    0.4609209895133972,
+    0.5004357099533081,
+    0.5724484920501709
+  ],
+  "pred_note": [
+    " Clinical note   \nHISTORY OF PRESENT ILLNESS\n The patient Betty reports she has had recurring coughing and wheezing. She experiences asthma symptoms triggered mainly by colds and cats, which can flare-up almost every month or every other month. She has sought treatment in urgent care and primary care doctor. She usually takes antibiotics or steroids. Betty uses ventolin inhaler for relief, which helps her sleep at night, and a few times a week, she wakes up needing to use her inhaler. She admits to smoking and air-borne particulates in bars irritate her.   \nPHYSICAL EXAM\n Vitals BP 128/82, respiratory rate 16, oxygen saturation 99% on room air. Heart regular rate and rhythm, with no ectopic beats, rubs, murmurs, or gallops.  Lungs diminished lung sounds throughout with the occasional slight expiratory wheeze bilaterally.  Neck supple trachea is midline, no lymphadenopathy or carotid bruit.  Hands no clubbing, strong bilateral pulses, brisk capillary refill.   \nRESULTS\n The results of the patient's pulmonary function test indicate that the patient has asthma.   \nASSESSMENT AND PLAN\n The patient is diagnosed with moderate intermittent asthma. The patient will be started on flovent 110 micrograms one puff twice a day, which can prevent daily symptoms and reduce albuterol inhaler use. Betty can continue using ventolin inhaler two puffs every four to six hours as needed. The doctor plans to set up an asthma action plan with the patient to determine their symptoms and pain points. Betty will return to see the doctor in a month or sooner if she has any worsening symptoms.",
+    "The patient Betty reports she has had recurring coughing and wheezing. She experiences asthma symptoms triggered mainly by colds and cats, which can flare-up almost every month or every other month. She has sought treatment in urgent care and primary care doctor. She usually takes antibiotics or steroids. Betty uses ventolin inhaler for relief, which helps her sleep at night, and a few times a week, she wakes up needing to use her inhaler. She admits to smoking and air-borne particulates in bars irritate her. ",
+    "Vitals BP 128/82, respiratory rate 16, oxygen saturation 99% on room air. Heart regular rate and rhythm, with no ectopic beats, rubs, murmurs, or gallops.  Lungs diminished lung sounds throughout with the occasional slight expiratory wheeze bilaterally.  Neck supple trachea is midline, no lymphadenopathy or carotid bruit.  Hands no clubbing, strong bilateral pulses, brisk capillary refill. The results of the patient's pulmonary function test indicate that the patient has asthma. ",
+    "The patient is diagnosed with moderate intermittent asthma. The patient will be started on flovent 110 micrograms one puff twice a day, which can prevent daily symptoms and reduce albuterol inhaler use. Betty can continue using ventolin inhaler two puffs every four to six hours as needed. The doctor plans to set up an asthma action plan with the patient to determine their symptoms and pain points. Betty will return to see the doctor in a month or sooner if she has any worsening symptoms. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nAsthma.\n\nMEDICAL HISTORY\n\nPatient reports history of asthma.\n\nSOCIAL HISTORY\n\nThe patient denies the use of any type of cigarette or tobacco product, as well as marijuana. Occasionally, she will be at a bar that allows smoking inside, which does bother the patient. She enjoys being outside and hiking.\n\nALLERGIES\n\nDenies seasonal allergies.\n\nMEDICATIONS\n\nPatient reports using an albuterol inhaler, 2 puffs.\n\nREVIEW OF SYSTEMS\n\nRespiratory: Reports coughing and wheezing.\n\nVITALS\n\nBlood pressure: 128/82 mm Hg.\nRespiratory rate: 16\nO2 saturation: 99% on room air.\n\nPHYSICAL EXAM\n\nNeck\n- General Examination: Neck is supple without lymphadenopathy. Trachea is midline. No carotid bruit.\n\nRespiratory\n- Auscultation of Lungs: Diminished lung sounds throughout with the occasional slight expiratory wheeze, bilaterally.\nCardiovascular\n- Auscultation of Heart: Regular rate and rhythm. No ectopic beats. No rubs, murmurs, or gallops.\n\nMusculoskeletal\n- Examination: Strong bilateral radial pulses. No clubbing. Brisk capillary refill.\n\nHematology/Lymphatic/Immunology\n- Palpation: No enlarged lymph nodes.\n\nRESULTS\n\nPulmonary function test obtained today is reviewed and findings are consistent with asthma.\n\nASSESSMENT AND PLAN\n\n1. Moderate intermittent asthma.\n- Medical Reasoning: The patient's symptoms and results of her PFT are consistent with moderate intermittent asthma.\n- Patient Education and Counseling: I explained the importance of consistency with her daily inhaler as this will help prevent daily symptoms and the need to use the albuterol inhaler as frequently. My hope is that she has less acute exacerbations as she continues to use her inhaled steroid.\n- Medical Treatment: Prescribed provided for Flovent 110 mcg 1 puff twice per day. She can continue using her Ventolin inhaler 2 puffs every 4 to 6 hours as needed. I have recommended using her albuterol inhaler 1 to 2 puffs and then monitor her breathing prior to taking an additional 1 to 2 puffs. I am also going to put together an asthma action plan for her so we know what to do based on her symptoms.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n\nINSTRUCTIONS\n\nThe patient will follow up in 1 month for reevaluation or sooner for worsening symptoms.\n",
+    "Asthma. Patient reports history of asthma. The patient denies the use of any type of cigarette or tobacco product, as well as marijuana. Occasionally, she will be at a bar that allows smoking inside, which does bother the patient. She enjoys being outside and hiking. Denies seasonal allergies. Patient reports using an albuterol inhaler, 2 puffs. Respiratory: Reports coughing and wheezing. ",
+    "Blood pressure: 128/82 mm Hg.\nRespiratory rate: 16\nO2 saturation: 99% on room air. Neck\n- General Examination: Neck is supple without lymphadenopathy. Trachea is midline. No carotid bruit.\n\nRespiratory\n- Auscultation of Lungs: Diminished lung sounds throughout with the occasional slight expiratory wheeze, bilaterally.\nCardiovascular\n- Auscultation of Heart: Regular rate and rhythm. No ectopic beats. No rubs, murmurs, or gallops.\n\nMusculoskeletal\n- Examination: Strong bilateral radial pulses. No clubbing. Brisk capillary refill.\n\nHematology/Lymphatic/Immunology\n- Palpation: No enlarged lymph nodes. Pulmonary function test obtained today is reviewed and findings are consistent with asthma. ",
+    "1. Moderate intermittent asthma.\n- Medical Reasoning: The patient's symptoms and results of her PFT are consistent with moderate intermittent asthma.\n- Patient Education and Counseling: I explained the importance of consistency with her daily inhaler as this will help prevent daily symptoms and the need to use the albuterol inhaler as frequently. My hope is that she has less acute exacerbations as she continues to use her inhaled steroid.\n- Medical Treatment: Prescribed provided for Flovent 110 mcg 1 puff twice per day. She can continue using her Ventolin inhaler 2 puffs every 4 to 6 hours as needed. I have recommended using her albuterol inhaler 1 to 2 puffs and then monitor her breathing prior to taking an additional 1 to 2 puffs. I am also going to put together an asthma action plan for her so we know what to do based on her symptoms.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. The patient will follow up in 1 month for reevaluation or sooner for worsening symptoms. "
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.379381443298969,
+    0.44680851063829785,
+    0.2764976958525346,
+    0.3253968253968254
+  ],
+  "rouge2": [
+    0.13250517598343686,
+    0.12142857142857143,
+    0.12093023255813953,
+    0.032
+  ],
+  "rougeL": [
+    0.2515463917525773,
+    0.2553191489361702,
+    0.15668202764976957,
+    0.18253968253968253
+  ],
+  "rougeLsum": [
+    0.3175257731958763,
+    0.2978723404255319,
+    0.15668202764976957,
+    0.19841269841269843
+  ],
+  "bertscore_precision": [
+    0.7071234583854675,
+    0.6421706676483154,
+    0.5595071911811829,
+    0.6324104070663452
+  ],
+  "bertscore_recall": [
+    0.5773277282714844,
+    0.6566769480705261,
+    0.6118077635765076,
+    0.6501808762550354
+  ],
+  "bertscore_f1": [
+    0.6356675624847412,
+    0.6493427753448486,
+    0.5844898223876953,
+    0.6411725282669067
+  ],
+  "bleurt": [
+    0.3391672372817993,
+    0.498435914516449,
+    0.43853485584259033,
+    0.47939038276672363
+  ],
+  "pred_note": [
+    "Summary:\nJerry, a 45-year-old male, visited the doctor with an ankle injury. He explains that he hurt his ankle while playing basketball with his son. The ankle is bruised and swollen, and Jerry is experiencing difficulty walking and instability. He mentions that he recently got back into working out and does not want to disrupt his routine. The doctor examines Jerry's ankle and finds exquisite tenderness on the lateral side and some tenderness over the medial deltoid region. An x-ray reveals a displaced lateral malleolus fracture, which is causing the instability. The doctor recommends surgery to repair the fracture and informs Jerry that he will need to rest for about three months. However, he can still coach starting in April. The doctor prescribes meloxicam for swelling and advises Jerry to ice the ankle and elevate it regularly.",
+    "Summary:\nJerry, a 45-year-old male, visited the doctor with an ankle injury. He explains that he hurt his ankle while playing basketball with his son. The ankle is bruised and swollen, and Jerry is experiencing difficulty walking and instability. He mentions that he recently got back into working out and does not want to disrupt his routine. The doctor examines Jerry's ankle and finds exquisite tenderness on the lateral side and some tenderness over the medial deltoid region. An x-ray reveals a displaced lateral malleolus fracture, which is causing the instability. The doctor recommends surgery to repair the fracture and informs Jerry that he will need to rest for about three months. However, he can still coach starting in April. The doctor prescribes meloxicam for swelling and advises Jerry to ice the ankle and elevate it regularly.",
+    "Summary:\nJerry, a 45-year-old male, visited the doctor with an ankle injury. He explains that he hurt his ankle while playing basketball with his son. The ankle is bruised and swollen, and Jerry is experiencing difficulty walking and instability. He mentions that he recently got back into working out and does not want to disrupt his routine. The doctor examines Jerry's ankle and finds exquisite tenderness on the lateral side and some tenderness over the medial deltoid region. An x-ray reveals a displaced lateral malleolus fracture, which is causing the instability. The doctor recommends surgery to repair the fracture and informs Jerry that he will need to rest for about three months. However, he can still coach starting in April. The doctor prescribes meloxicam for swelling and advises Jerry to ice the ankle and elevate it regularly.",
+    "Summary:\nJerry, a 45-year-old male, visited the doctor with an ankle injury. He explains that he hurt his ankle while playing basketball with his son. The ankle is bruised and swollen, and Jerry is experiencing difficulty walking and instability. He mentions that he recently got back into working out and does not want to disrupt his routine. The doctor examines Jerry's ankle and finds exquisite tenderness on the lateral side and some tenderness over the medial deltoid region. An x-ray reveals a displaced lateral malleolus fracture, which is causing the instability. The doctor recommends surgery to repair the fracture and informs Jerry that he will need to rest for about three months. However, he can still coach starting in April. The doctor prescribes meloxicam for swelling and advises Jerry to ice the ankle and elevate it regularly."
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nRight ankle injury.\n\nHISTORY OF PRESENT ILLNESS\n\nJerry Cook is a 45-year-old male who presents today with a right ankle injury.\n\nThe patient sustained an injury to the right ankle while playing basketball with his son. He reports he landed awkwardly and twisted his right ankle after jumping to make a layup. His pain is primarily located along the lateral aspect of the right ankle. He notes bruising and swelling. The patient is able to weight-bear while standing. He experiences pain and feelings of instability within the ankle while ambulating and is concerned for further injury.\n\nSOCIAL HISTORY\n\nThe patient works from home and plans to coach his son\u2019s basketball team in 04/2022. He enjoys working out and reports he recently resumed engaging in a consistent gym routine.\n\nREVIEW OF SYSTEMS\n\nMusculoskeletal: Reports right ankle pain and instability.\nSkin: Reports right ankle bruising and swelling.\n\nPHYSICAL EXAM\n\nCV: Brisk capillary refill.\nSKIN: No epidermolysis. Intact.\nMSK: Examination of the right ankle: Exquisite tenderness laterally. Mild tenderness over the medial deltoid region. Swelling on the lateral side of the ankle. No horrible malalignment.\n\nRESULTS\n\nX-rays, including AP, lateral, and oblique views of the right ankle, were obtained in the office and reviewed today. These demonstrate a displaced lateral malleolus at the Weber C level. There is no evidence of medial or posterior malleolar fractures.\n\nASSESSMENT\n\nRight lateral malleolar fracture.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with him regarding treatment options. Recommendation was made for an open reduction internal fixation of the right ankle. We discussed the risks and benefits of the procedure as well as the postoperative recovery period following surgery. I advised that it will be 3 months before he can resume his exercise routine. In the meantime, I will prescribe meloxicam to reduce swelling. I recommended he ice and elevate the ankle as well. He will be given crutches to assist with ambulation.\n\nThe patient understands and agrees with the recommended medical treatment plan.",
+    "Right ankle injury. Jerry Cook is a 45-year-old male who presents today with a right ankle injury.\n\nThe patient sustained an injury to the right ankle while playing basketball with his son. He reports he landed awkwardly and twisted his right ankle after jumping to make a layup. His pain is primarily located along the lateral aspect of the right ankle. He notes bruising and swelling. The patient is able to weight-bear while standing. He experiences pain and feelings of instability within the ankle while ambulating and is concerned for further injury. The patient works from home and plans to coach his son\u2019s basketball team in 04/2022. He enjoys working out and reports he recently resumed engaging in a consistent gym routine. Musculoskeletal: Reports right ankle pain and instability.\nSkin: Reports right ankle bruising and swelling. ",
+    "CV: Brisk capillary refill.\nSKIN: No epidermolysis. Intact.\nMSK: Examination of the right ankle: Exquisite tenderness laterally. Mild tenderness over the medial deltoid region. Swelling on the lateral side of the ankle. No horrible malalignment. X-rays, including AP, lateral, and oblique views of the right ankle, were obtained in the office and reviewed today. These demonstrate a displaced lateral malleolus at the Weber C level. There is no evidence of medial or posterior malleolar fractures. ",
+    "Right lateral malleolar fracture. After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with him regarding treatment options. Recommendation was made for an open reduction internal fixation of the right ankle. We discussed the risks and benefits of the procedure as well as the postoperative recovery period following surgery. I advised that it will be 3 months before he can resume his exercise routine. In the meantime, I will prescribe meloxicam to reduce swelling. I recommended he ice and elevate the ankle as well. He will be given crutches to assist with ambulation.\n\nThe patient understands and agrees with the recommended medical treatment plan. "
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.43327556325823224,
+    0.35359116022099446,
+    0.28099173553719003,
+    0.3446153846153846
+  ],
+  "rouge2": [
+    0.12869565217391307,
+    0.07777777777777778,
+    0.1,
+    0.08668730650154799
+  ],
+  "rougeL": [
+    0.2357019064124783,
+    0.1712707182320442,
+    0.17355371900826444,
+    0.16615384615384615
+  ],
+  "rougeLsum": [
+    0.30849220103986136,
+    0.1933701657458564,
+    0.19008264462809918,
+    0.16615384615384615
+  ],
+  "bertscore_precision": [
+    0.6669960021972656,
+    0.6398651599884033,
+    0.5610665082931519,
+    0.628041684627533
+  ],
+  "bertscore_recall": [
+    0.5741419792175293,
+    0.6238689422607422,
+    0.6573761701583862,
+    0.6428928375244141
+  ],
+  "bertscore_f1": [
+    0.6170955896377563,
+    0.6317658424377441,
+    0.6054150462150574,
+    0.6353804469108582
+  ],
+  "bleurt": [
+    0.3930257558822632,
+    0.4652402400970459,
+    0.45789939165115356,
+    0.530292272567749
+  ],
+  "pred_note": [
+    "Summary:\nThe patient, Jack, presents to the doctor with neck pain following a car accident. The accident occurred a week ago and the pain is rated as a seven on a scale of one to ten. The pain is experienced when moving the head and is located in the back of the neck. Ibuprofen provided minimal relief. The patient has had some headaches but no other symptoms such as hearing or visual disturbances. There is no swelling or bruising on the neck. During the physical examination, pressing on the side of the neck and flexion and extension of the neck caused pain. There is also pain with rotation and lateral bending. X-ray results showed no fractures or bony abnormalities. The doctor diagnoses the patient with neck strain or whiplash. Treatment involves anti-inflammatories (Motrin), a muscle relaxant (Flexeril), and conservative neck movement. An MRI is ordered to rule out a concussion and assess for nerve impingement. Referral to physical rehab or a chiropractor is considered. The patient expresses concerns about chiropractic treatment, but other options are discussed. The patient has no further questions.",
+    "Summary:\nThe patient, Jack, presents to the doctor with neck pain following a car accident. The accident occurred a week ago and the pain is rated as a seven on a scale of one to ten. The pain is experienced when moving the head and is located in the back of the neck. Ibuprofen provided minimal relief. The patient has had some headaches but no other symptoms such as hearing or visual disturbances. There is no swelling or bruising on the neck. During the physical examination, pressing on the side of the neck and flexion and extension of the neck caused pain. There is also pain with rotation and lateral bending. X-ray results showed no fractures or bony abnormalities. The doctor diagnoses the patient with neck strain or whiplash. Treatment involves anti-inflammatories (Motrin), a muscle relaxant (Flexeril), and conservative neck movement. An MRI is ordered to rule out a concussion and assess for nerve impingement. Referral to physical rehab or a chiropractor is considered. The patient expresses concerns about chiropractic treatment, but other options are discussed. The patient has no further questions.",
+    "Summary:\nThe patient, Jack, presents to the doctor with neck pain following a car accident. The accident occurred a week ago and the pain is rated as a seven on a scale of one to ten. The pain is experienced when moving the head and is located in the back of the neck. Ibuprofen provided minimal relief. The patient has had some headaches but no other symptoms such as hearing or visual disturbances. There is no swelling or bruising on the neck. During the physical examination, pressing on the side of the neck and flexion and extension of the neck caused pain. There is also pain with rotation and lateral bending. X-ray results showed no fractures or bony abnormalities. The doctor diagnoses the patient with neck strain or whiplash. Treatment involves anti-inflammatories (Motrin), a muscle relaxant (Flexeril), and conservative neck movement. An MRI is ordered to rule out a concussion and assess for nerve impingement. Referral to physical rehab or a chiropractor is considered. The patient expresses concerns about chiropractic treatment, but other options are discussed. The patient has no further questions.",
+    "Summary:\nThe patient, Jack, presents to the doctor with neck pain following a car accident. The accident occurred a week ago and the pain is rated as a seven on a scale of one to ten. The pain is experienced when moving the head and is located in the back of the neck. Ibuprofen provided minimal relief. The patient has had some headaches but no other symptoms such as hearing or visual disturbances. There is no swelling or bruising on the neck. During the physical examination, pressing on the side of the neck and flexion and extension of the neck caused pain. There is also pain with rotation and lateral bending. X-ray results showed no fractures or bony abnormalities. The doctor diagnoses the patient with neck strain or whiplash. Treatment involves anti-inflammatories (Motrin), a muscle relaxant (Flexeril), and conservative neck movement. An MRI is ordered to rule out a concussion and assess for nerve impingement. Referral to physical rehab or a chiropractor is considered. The patient expresses concerns about chiropractic treatment, but other options are discussed. The patient has no further questions."
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nNeck pain\n\nHISTORY OF PRESENT ILLNESS\n\nJack Torres is a pleasant 40-year-old male who presents to the clinic today for the evaluation of neck pain. The onset of his pain began 1 week ago after he was involved in a motor vehicle accident. He states that he was hit in the back and experienced whiplash. Following the accident he did not present to the emergency room and he does not recall having any swelling or bruising at the neck. He localizes his pain to the posterior aspect of his neck. His pain level is rated at 7 out of 10. When taking ibuprofen he states his pain improves to 5 out of 10. He finds that neck range of motion exacerbates his pain. Initially after the accident he reports that he experienced a couple of headaches, but he states he has not had any recently. He denies any hearing problems or visual disturbances.\n\nSOCIAL HISTORY\n\nPatient reports that he played football years ago without any neck issues.\n\nREVIEW OF SYSTEMS\n\nEyes: Denies visual disturbances.\nHENT: Denies hearing loss.\nMusculoskeletal: Reports neck pain.\nNeurological: Denies headaches.\n\nPHYSICAL EXAM\n\nNECK: No swelling noted\nMSK: Examination of the cervical spine: Positive pain to palpation of the soft tissues of the neck. Shoulders and back are nontender to palpation. Positive pain with flexion, rotation, and lateral bending. Severe pain with extension.\n\nRESULTS\n\n3 views of the cervical spine were taken. These reveal no evidence of any fractures or bony abnormalities.\n\nASSESSMENT\n\nNeck strain.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. We discussed his x-rays did not reveal any signs of a fracture or bony abnormalities. Treatment options were discussed and conservative treatment has been recommended. He will begin taking Motrin 600 mg every 6 to 8 hours. A prescription for Flexeril 10 mg every 12 hours as needed was also provided. He was advised to be mindful of how he moves his neck and to be conservative to avoid straining his neck. I have also recommended that we obtain an MRI for further evaluation as the patient did not go to the emergency room following his accident. He will also be referred to either physical rehab or a chiropractor pending his MRI results.\n",
+    "Neck pain Jack Torres is a pleasant 40-year-old male who presents to the clinic today for the evaluation of neck pain. The onset of his pain began 1 week ago after he was involved in a motor vehicle accident. He states that he was hit in the back and experienced whiplash. Following the accident he did not present to the emergency room and he does not recall having any swelling or bruising at the neck. He localizes his pain to the posterior aspect of his neck. His pain level is rated at 7 out of 10. When taking ibuprofen he states his pain improves to 5 out of 10. He finds that neck range of motion exacerbates his pain. Initially after the accident he reports that he experienced a couple of headaches, but he states he has not had any recently. He denies any hearing problems or visual disturbances. Patient reports that he played football years ago without any neck issues. Eyes: Denies visual disturbances.\nHENT: Denies hearing loss.\nMusculoskeletal: Reports neck pain.\nNeurological: Denies headaches. ",
+    "NECK: No swelling noted\nMSK: Examination of the cervical spine: Positive pain to palpation of the soft tissues of the neck. Shoulders and back are nontender to palpation. Positive pain with flexion, rotation, and lateral bending. Severe pain with extension. 3 views of the cervical spine were taken. These reveal no evidence of any fractures or bony abnormalities. ",
+    "Neck strain. After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. We discussed his x-rays did not reveal any signs of a fracture or bony abnormalities. Treatment options were discussed and conservative treatment has been recommended. He will begin taking Motrin 600 mg every 6 to 8 hours. A prescription for Flexeril 10 mg every 12 hours as needed was also provided. He was advised to be mindful of how he moves his neck and to be conservative to avoid straining his neck. I have also recommended that we obtain an MRI for further evaluation as the patient did not go to the emergency room following his accident. He will also be referred to either physical rehab or a chiropractor pending his MRI results. "
+  ]
+}

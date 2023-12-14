@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.4210526315789474,
+    0.29718875502008035,
+    0.16289592760180996,
+    0.22127659574468087
+  ],
+  "rouge2": [
+    0.09999999999999999,
+    0.06477732793522267,
+    0.0,
+    0.07725321888412018
+  ],
+  "rougeL": [
+    0.2514619883040936,
+    0.14457831325301204,
+    0.10859728506787332,
+    0.1446808510638298
+  ],
+  "rougeLsum": [
+    0.2748538011695907,
+    0.1606425702811245,
+    0.10859728506787332,
+    0.1446808510638298
+  ],
+  "bertscore_precision": [
+    0.6704787611961365,
+    0.6029673218727112,
+    0.5469259023666382,
+    0.569180965423584
+  ],
+  "bertscore_recall": [
+    0.6590744256973267,
+    0.720510721206665,
+    0.7064471244812012,
+    0.7176476716995239
+  ],
+  "bertscore_f1": [
+    0.6647276878356934,
+    0.6565192937850952,
+    0.6165351271629333,
+    0.6348497271537781
+  ],
+  "bleurt": [
+    0.5292716026306152,
+    0.5254611372947693,
+    0.5102358460426331,
+    0.5318422317504883
+  ],
+  "pred_note": [
+    "Summary: \n\nThe patient, Mrs. Martinez, visits Dr. Gomez with complaints of pain in her arm near her wrist. She explains to the doctor that the pain occurred while playing tennis and hitting a backhand shot, causing her arm to jar. The doctor asks if there was any swelling or numbness, to which Mrs. Martinez responds that there was minimal swelling and no numbness. The doctor then inquires about her medical history and she mentions having allergies and taking Flonase. She also mentions a past trauma of falling onto a rake while doing lawn work. The doctor examines her arm and finds tenderness when pressing and bending the arm, especially around the thumb. Based on the examination and x-ray, the doctor concludes that there is no fracture but suspects a strain and contusion in the muscle. The doctor recommends conservative treatment with ice and anti-inflammatory medication (Motrin, 800mg three times a day with food). If the symptoms do not improve within a week, the patient is instructed to follow up. The doctor orders the necessary procedures and medications, and the patient expresses her gratitude.",
+    "Summary: \n\nThe patient, Mrs. Martinez, visits Dr. Gomez with complaints of pain in her arm near her wrist. She explains to the doctor that the pain occurred while playing tennis and hitting a backhand shot, causing her arm to jar. The doctor asks if there was any swelling or numbness, to which Mrs. Martinez responds that there was minimal swelling and no numbness. The doctor then inquires about her medical history and she mentions having allergies and taking Flonase. She also mentions a past trauma of falling onto a rake while doing lawn work. The doctor examines her arm and finds tenderness when pressing and bending the arm, especially around the thumb. Based on the examination and x-ray, the doctor concludes that there is no fracture but suspects a strain and contusion in the muscle. The doctor recommends conservative treatment with ice and anti-inflammatory medication (Motrin, 800mg three times a day with food). If the symptoms do not improve within a week, the patient is instructed to follow up. The doctor orders the necessary procedures and medications, and the patient expresses her gratitude.",
+    "Summary: \n\nThe patient, Mrs. Martinez, visits Dr. Gomez with complaints of pain in her arm near her wrist. She explains to the doctor that the pain occurred while playing tennis and hitting a backhand shot, causing her arm to jar. The doctor asks if there was any swelling or numbness, to which Mrs. Martinez responds that there was minimal swelling and no numbness. The doctor then inquires about her medical history and she mentions having allergies and taking Flonase. She also mentions a past trauma of falling onto a rake while doing lawn work. The doctor examines her arm and finds tenderness when pressing and bending the arm, especially around the thumb. Based on the examination and x-ray, the doctor concludes that there is no fracture but suspects a strain and contusion in the muscle. The doctor recommends conservative treatment with ice and anti-inflammatory medication (Motrin, 800mg three times a day with food). If the symptoms do not improve within a week, the patient is instructed to follow up. The doctor orders the necessary procedures and medications, and the patient expresses her gratitude.",
+    "Summary: \n\nThe patient, Mrs. Martinez, visits Dr. Gomez with complaints of pain in her arm near her wrist. She explains to the doctor that the pain occurred while playing tennis and hitting a backhand shot, causing her arm to jar. The doctor asks if there was any swelling or numbness, to which Mrs. Martinez responds that there was minimal swelling and no numbness. The doctor then inquires about her medical history and she mentions having allergies and taking Flonase. She also mentions a past trauma of falling onto a rake while doing lawn work. The doctor examines her arm and finds tenderness when pressing and bending the arm, especially around the thumb. Based on the examination and x-ray, the doctor concludes that there is no fracture but suspects a strain and contusion in the muscle. The doctor recommends conservative treatment with ice and anti-inflammatory medication (Motrin, 800mg three times a day with food). If the symptoms do not improve within a week, the patient is instructed to follow up. The doctor orders the necessary procedures and medications, and the patient expresses her gratitude."
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT:\n\nRight arm pain.\n\nHPI:\n\nMs. Martinez is a 43-year-old female who presents today for an evaluation of right arm pain after she hitting her arm on a pole while playing tennis. She had mild swelling at the time. There is pain with motion. She denies any numbness or tingling in her hand. She has a past medical history of allergies and takes Flonase.\n\nEXAM\n\nExamination of the left wrist shows tenderness over the distal radius and pain with flexion of the wrist and thumb.\n\nRESULTS\n\nX-rays of the left wrist show no obvious signs of acute fracture or other abnormality.\n\nIMPRESSION\n\nRight wrist sprain.\n\nPLAN\n\nAt this point, I discussed the diagnosis and treatment options with the patient. I have recommended ice and anti-inflammatory medications. I am prescribing Motrin, 800 mg to take 3 times a day with food. She will follow up with me in 1 week or as needed.\n",
+    ":\n\nRight arm pain. :\n\nMs. Martinez is a 43-year-old female who presents today for an evaluation of right arm pain after she hitting her arm on a pole while playing tennis. She had mild swelling at the time. There is pain with motion. She denies any numbness or tingling in her hand. She has a past medical history of allergies and takes Flonase. ",
+    "Examination of the left wrist shows tenderness over the distal radius and pain with flexion of the wrist and thumb. X-rays of the left wrist show no obvious signs of acute fracture or other abnormality. ",
+    "Right wrist sprain. At this point, I discussed the diagnosis and treatment options with the patient. I have recommended ice and anti-inflammatory medications. I am prescribing Motrin, 800 mg to take 3 times a day with food. She will follow up with me in 1 week or as needed. "
+  ]
+}

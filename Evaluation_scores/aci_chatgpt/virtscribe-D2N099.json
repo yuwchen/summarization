@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.39705882352941185,
+    0.2723404255319149,
+    0.13043478260869565,
+    0.3865546218487395
+  ],
+  "rouge2": [
+    0.11808118081180811,
+    0.060085836909871244,
+    0.04545454545454545,
+    0.1016949152542373
+  ],
+  "rougeL": [
+    0.22058823529411764,
+    0.1702127659574468,
+    0.13043478260869565,
+    0.22689075630252103
+  ],
+  "rougeLsum": [
+    0.34191176470588236,
+    0.21276595744680854,
+    0.13043478260869565,
+    0.2773109243697479
+  ],
+  "bertscore_precision": [
+    0.6567567586898804,
+    0.683505654335022,
+    0.5826939940452576,
+    0.6767781376838684
+  ],
+  "bertscore_recall": [
+    0.6015527844429016,
+    0.5712933540344238,
+    0.5355087518692017,
+    0.5843232274055481
+  ],
+  "bertscore_f1": [
+    0.6279438138008118,
+    0.6223821640014648,
+    0.5581058859825134,
+    0.6271616220474243
+  ],
+  "bleurt": [
+    0.3637995719909668,
+    0.37781602144241333,
+    0.36873382329940796,
+    0.405218243598938
+  ],
+  "pred_note": [
+    " \nHISTORY OF PRESENT ILLNESS\n Randy Gutierrez is a 1-week-old baby presenting with a one day history of runny nose, stuffiness, cough, fever, and irritability. He was started on saline mist and baby Vicks but has had a variable appetite since yesterday evening. Randy's older sister and his nephew who had a sinus infection have been sick.    \nPHYSICAL EXAM\n Randy's breathing sounds and lung examination were normal. Ear examination was also normal.    \nRESULTS\n Temperature was 100.3 F rectally.    \nASSESSMENT AND PLAN\n Viral respiratory infection is suspected for Randy. Fluids, rest, and watching carefully for a barking cough are advised. Half a teaspoon of his sister's medicine should be given in case of a barky cough. Zarbee's can be used for the stuffy nose. No honey, but agave can be given if needed. For the cradle cap, he can use Head & Shoulders, Selsun Blue or Nizoral A-D twice a week for the next six weeks, avoiding his eyes. We will see him back in one week.",
+    "Randy Gutierrez is a 1-week-old baby presenting with a one day history of runny nose, stuffiness, cough, fever, and irritability. He was started on saline mist and baby Vicks but has had a variable appetite since yesterday evening. Randy's older sister and his nephew who had a sinus infection have been sick. ",
+    "Randy's breathing sounds and lung examination were normal. Ear examination was also normal. Temperature was 100.3 F rectally. ",
+    "Viral respiratory infection is suspected for Randy. Fluids, rest, and watching carefully for a barking cough are advised. Half a teaspoon of his sister's medicine should be given in case of a barky cough. Zarbee's can be used for the stuffy nose. No honey, but agave can be given if needed. For the cradle cap, he can use Head & Shoulders, Selsun Blue or Nizoral A-D twice a week for the next six weeks, avoiding his eyes. We will see him back in one week. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nCough, nasal congestion, and rhinorrhea.\n\nHISTORY OF PRESENT ILLNESS\n\nRandy Gutierrez is a 9-month-old male who is being evaluated today for a cough, nasal congestion, and rhinorrhea. He is accompanied by his mother.\n\nSymptoms began yesterday around dinnertime with clear nasal drainage, pulling on his ears bilaterally, and rubbing his nose frequently. He does not have a barky cough or a sore throat. His rectal temperature was 100.3 degrees. The patient did consume a 7 ounce bottle this morning, but mostly denied the next offered bottle and declined cereal. He is irritable and having trouble falling asleep, described \u201clike he is fighting it\u201d.\n\nThe patient has been exposed to an older sister who is sick and a cousin who has a sinus infection.\n\nTreatment has included saline nasal spray, Tylenol, baby Vick's, and a humidifier. When the patient aroused this morning, he was warm to the touch. When his sleeper was removed, he was quite sweaty despite the air conditioner being on.\n\nThe patient's dandruff is also worsening. The only tried treatment is Aveeno shampoo.\n\nSOCIAL HISTORY\n\nOlder sister.\n\nCURRENT MEDICATIONS\n\nTylenol PRN.\n\nPHYSICAL EXAM\n\nTemperature 100.3 degrees.\n\nEars, Eyes, Nose, Throat\nNasal congestion, clear mucus, rhinorrhea. Bilateral pulling of ears, no sore throat or hoarseness.\n\nRespiratory\nPositive for cough.\n\nASSESSMENT\n\n\u2022 Viral infection\n\u2022 Dandruff\n\nPLAN\n\nViral infection\nThe patient presents with a viral infection and does not need antibiotics currently. I advised continuation of fluids, rest. Additionally, I suggested trying Zarbee\u2019s for children under 1 years old. If a croup cough develops, the patient will receive a 0.5 teaspoon.\n\nI also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.\n\nDandruff\nThe patient is experiencing worsening symptoms of dandruff. I recommended Head and Shoulders shampoo, Selsun Blue, or Nizoral A-D 2 times per week, combined with his usual shampoo. I counseled the mother that she should be careful not to get the shampoo in the patient eyes and to not use the extra strength shampoos. Additionally, he may also use baby oil and a soft brush on the area.\n\nINSTRUCTIONS\n\nReturn in one week for a re-check.\n",
+    "Cough, nasal congestion, and rhinorrhea. Randy Gutierrez is a 9-month-old male who is being evaluated today for a cough, nasal congestion, and rhinorrhea. He is accompanied by his mother.\n\nSymptoms began yesterday around dinnertime with clear nasal drainage, pulling on his ears bilaterally, and rubbing his nose frequently. He does not have a barky cough or a sore throat. His rectal temperature was 100.3 degrees. The patient did consume a 7 ounce bottle this morning, but mostly denied the next offered bottle and declined cereal. He is irritable and having trouble falling asleep, described \u201clike he is fighting it\u201d.\n\nThe patient has been exposed to an older sister who is sick and a cousin who has a sinus infection.\n\nTreatment has included saline nasal spray, Tylenol, baby Vick's, and a humidifier. When the patient aroused this morning, he was warm to the touch. When his sleeper was removed, he was quite sweaty despite the air conditioner being on.\n\nThe patient's dandruff is also worsening. The only tried treatment is Aveeno shampoo. Older sister. Tylenol PRN. ",
+    "Temperature 100.3 degrees.\n\nEars, Eyes, Nose, Throat\nNasal congestion, clear mucus, rhinorrhea. Bilateral pulling of ears, no sore throat or hoarseness.\n\nRespiratory\nPositive for cough. ",
+    "\u2022 Viral infection\n\u2022 Dandruff Viral infection\nThe patient presents with a viral infection and does not need antibiotics currently. I advised continuation of fluids, rest. Additionally, I suggested trying Zarbee\u2019s for children under 1 years old. If a croup cough develops, the patient will receive a 0.5 teaspoon.\n\nI also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.\n\nDandruff\nThe patient is experiencing worsening symptoms of dandruff. I recommended Head and Shoulders shampoo, Selsun Blue, or Nizoral A-D 2 times per week, combined with his usual shampoo. I counseled the mother that she should be careful not to get the shampoo in the patient eyes and to not use the extra strength shampoos. Additionally, he may also use baby oil and a soft brush on the area. Return in one week for a re-check. "
+  ]
+}

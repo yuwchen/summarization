@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.4975609756097561,
+    0.32380952380952377,
+    0.37777777777777777,
+    0.3255813953488372
+  ],
+  "rouge2": [
+    0.1598694942903752,
+    0.09708737864077671,
+    0.12359550561797752,
+    0.1137123745819398
+  ],
+  "rougeL": [
+    0.21788617886178863,
+    0.17142857142857143,
+    0.23333333333333336,
+    0.2059800664451827
+  ],
+  "rougeLsum": [
+    0.4617886178861788,
+    0.20952380952380956,
+    0.2777777777777778,
+    0.29235880398671094
+  ],
+  "bertscore_precision": [
+    0.6618602871894836,
+    0.5936046838760376,
+    0.6332389116287231,
+    0.7081969976425171
+  ],
+  "bertscore_recall": [
+    0.6168757677078247,
+    0.5634715557098389,
+    0.600587010383606,
+    0.5462921261787415
+  ],
+  "bertscore_f1": [
+    0.6385767459869385,
+    0.5781457424163818,
+    0.6164808869361877,
+    0.6167967915534973
+  ],
+  "bleurt": [
+    0.34492743015289307,
+    0.3686768412590027,
+    0.47685039043426514,
+    0.46893948316574097
+  ],
+  "pred_note": [
+    " \nHISTORY OF PRESENT ILLNESS\n The patient reports that he twisted his right knee after landing from a jump while water skiing. He felt like something had stretched and then his knee swelled up. He reports pain that has lasted for about five days. He reports that this is the first time he has injured this knee.    \nPHYSICAL EXAM\n The patient's blood pressure is 125/80. On a neck exam, there is no lymphadenopathy. On a heart exam, the patient's heart is regular. On a lung exam, lungs are clear to auscultation bilaterally. There is edema, some ecchymosis, and an effusion present on the right knee. The patient has decreased range of motion, pain when pressure is applied to the right medial knee, and decreased varus and valgus tests. The patient reports pain when their knee is bent.   \nRESULTS\n An x-ray of the right knee is ordered to ensure that no bones are broken. An a lipid panel is also ordered.   \nASSESSMENT AND PLAN\n The patient is assessed to have a medial collateral ligament strain. Physical therapy is recommended to strengthen the muscles around the knee. Meloxicam 15mg is prescribed once daily to take down swelling and assist with pain. The patient is also due for a tetanus shot. It is recommended that the patient rest his knee and not participate in water skiing at least until the x-ray results are returned.",
+    "The patient reports that he twisted his right knee after landing from a jump while water skiing. He felt like something had stretched and then his knee swelled up. He reports pain that has lasted for about five days. He reports that this is the first time he has injured this knee. ",
+    "The patient's blood pressure is 125/80. On a neck exam, there is no lymphadenopathy. On a heart exam, the patient's heart is regular. On a lung exam, lungs are clear to auscultation bilaterally. There is edema, some ecchymosis, and an effusion present on the right knee. The patient has decreased range of motion, pain when pressure is applied to the right medial knee, and decreased varus and valgus tests. The patient reports pain when their knee is bent. An x-ray of the right knee is ordered to ensure that no bones are broken. An a lipid panel is also ordered. ",
+    "The patient is assessed to have a medial collateral ligament strain. Physical therapy is recommended to strengthen the muscles around the knee. Meloxicam 15mg is prescribed once daily to take down swelling and assist with pain. The patient is also due for a tetanus shot. It is recommended that the patient rest his knee and not participate in water skiing at least until the x-ray results are returned. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nRight knee pain.\n\nMEDICAL HISTORY\n\nPatient reports history of hypertension.\n\nSURGICAL HISTORY\n\nPatient reports history of tonsillectomy.\n\nSOCIAL HISTORY\n\nPatient reports that he has a boat on Lake Martin. He is frequent water skier.\n\nMEDICATIONS\n\nPatient reports taking lisinopril 20 mg once a day.\n\nREVIEW OF SYSTEMS\n\nMusculoskeletal: Reports right knee pain and swelling.\nNeurological: Denies numbness or tingling in the right foot.\n\nVITALS\n\nBlood pressure: 120/77\n\nPHYSICAL EXAM\n\nNeck\n- General Examination: Neck is supple without lymphadenopathy.\n\nRespiratory\n- Auscultation of Lungs: Clear bilaterally.\n\nCardiovascular\n- Auscultation of Heart: Regular rate and rhythm. No murmurs.\n\nMusculoskeletal\n- Examination of the right knee: Ecchymosis noted. Effusion present. Pain to palpation medially. Decreased range of motion. Negative varus and valgus test. Negative Lachman sign. Palpable dorsalis pedis and posterior tibial pulse. There is otherwise no lower extremity edema.\n\nHematology/Lymphatic/Immunology\n- Palpation: No enlarged lymph nodes.\n\nASSESSMENT AND PLAN\n\n1. Right knee pain.\n- Medical Reasoning: Based on the patient's symptoms and exam, I believe he has a medial collateral ligament strain.\n- Patient Education and Counseling: We discussed the nature of this injury as well as the expected recovery outcome. He was advised surgery is typically not needed and that physical therapy will be beneficial for strengthening to prevent future injuries. He was also counseled to rest his knee until we at least receive his x-ray results in order to prevent further injury and to allow for a quicker recovery.\n- Medical Treatment: X-ray of the right knee was ordered for further evaluation. Referral to physical therapy was provided for strengthening. A prescription for meloxicam 15 mg once a day for pain and swelling was also provided.\n\n2. Hypertension.\n- Medical Reasoning: The patient is doing well on his current medication regimen. He is monitoring his blood pressure at home and has not had any elevated readings.\n- Medical Treatment: He will continue taking lisinopril 20 mg a day. Lipid panel was ordered today.\n\n3. Health Maintenance.\n- Patient Education and Counseling: I advised the patient that his records indicate that he is due for a tetanus vaccine.\n- Medical Treatment: The patient will receive his tetanus vaccine in office today.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n\nINSTRUCTIONS\n\nThe patient will follow-up for his x-ray results.",
+    "Right knee pain. Patient reports history of hypertension. Patient reports history of tonsillectomy. Patient reports that he has a boat on Lake Martin. He is frequent water skier. Patient reports taking lisinopril 20 mg once a day. Musculoskeletal: Reports right knee pain and swelling.\nNeurological: Denies numbness or tingling in the right foot. ",
+    "Blood pressure: 120/77 Neck\n- General Examination: Neck is supple without lymphadenopathy.\n\nRespiratory\n- Auscultation of Lungs: Clear bilaterally.\n\nCardiovascular\n- Auscultation of Heart: Regular rate and rhythm. No murmurs.\n\nMusculoskeletal\n- Examination of the right knee: Ecchymosis noted. Effusion present. Pain to palpation medially. Decreased range of motion. Negative varus and valgus test. Negative Lachman sign. Palpable dorsalis pedis and posterior tibial pulse. There is otherwise no lower extremity edema.\n\nHematology/Lymphatic/Immunology\n- Palpation: No enlarged lymph nodes. ",
+    "1. Right knee pain.\n- Medical Reasoning: Based on the patient's symptoms and exam, I believe he has a medial collateral ligament strain.\n- Patient Education and Counseling: We discussed the nature of this injury as well as the expected recovery outcome. He was advised surgery is typically not needed and that physical therapy will be beneficial for strengthening to prevent future injuries. He was also counseled to rest his knee until we at least receive his x-ray results in order to prevent further injury and to allow for a quicker recovery.\n- Medical Treatment: X-ray of the right knee was ordered for further evaluation. Referral to physical therapy was provided for strengthening. A prescription for meloxicam 15 mg once a day for pain and swelling was also provided.\n\n2. Hypertension.\n- Medical Reasoning: The patient is doing well on his current medication regimen. He is monitoring his blood pressure at home and has not had any elevated readings.\n- Medical Treatment: He will continue taking lisinopril 20 mg a day. Lipid panel was ordered today.\n\n3. Health Maintenance.\n- Patient Education and Counseling: I advised the patient that his records indicate that he is due for a tetanus vaccine.\n- Medical Treatment: The patient will receive his tetanus vaccine in office today.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. The patient will follow-up for his x-ray results. "
+  ]
+}

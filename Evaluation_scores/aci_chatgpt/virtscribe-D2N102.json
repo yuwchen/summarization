@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5748031496062991,
+    0.3699421965317919,
+    0.6399999999999999,
+    0.40109890109890106
+  ],
+  "rouge2": [
+    0.26842105263157895,
+    0.10526315789473685,
+    0.42424242424242425,
+    0.1767955801104972
+  ],
+  "rougeL": [
+    0.30183727034120733,
+    0.20809248554913296,
+    0.38,
+    0.26373626373626374
+  ],
+  "rougeLsum": [
+    0.5144356955380579,
+    0.21965317919075145,
+    0.59,
+    0.3241758241758242
+  ],
+  "bertscore_precision": [
+    0.6505436897277832,
+    0.6447383165359497,
+    0.7474364638328552,
+    0.6828979849815369
+  ],
+  "bertscore_recall": [
+    0.647386908531189,
+    0.5941625237464905,
+    0.6779561042785645,
+    0.5952513813972473
+  ],
+  "bertscore_f1": [
+    0.6489614248275757,
+    0.6184180378913879,
+    0.7110028862953186,
+    0.6360695958137512
+  ],
+  "bleurt": [
+    0.40131789445877075,
+    0.41287219524383545,
+    0.4788457155227661,
+    0.4576665759086609
+  ],
+  "pred_note": [
+    "\nHISTORY OF PRESENT ILLNESS\n Mrs. Kelly Wood is an established patient here for a renal ultrasound because of hematuria. Her urine dipstick shows a trace amount of blood in the urine and intact. Renal ultrasound impression shows one stone in the left kidney that is not obstructing anything. The patient reports bright red urine and painful urination. She passed two small stones last week. She also reports that things have felt a lot better since then.  \nPHYSICAL EXAM\n The patient does not have any flank pain or tenderness in the lower back. Anti gu is normal. There is no evidence of flank pain on abdominal exam. Primary diagnosis is hematuria. Secondary diagnosis is chronic urolithiasis.  \nRESULTS\n Urine dipstick is negative for leukocytes, nitrates, protein, ketone, bilirubin, and glucose. Color is yellow and clear, urobilinogen 0.2, pH 5.5, and specific gravity 1.020. Renal ultrasound shows the right kidney is 10 cm in length by 5 cm wide with no stones, masses, or hydronephrosis. The left kidney is 10.8 cm in length and 5 cm wide with one non-obstructing, 6 mm left renal stone.  \nASSESSMENT AND PLAN\n The blood in the patient's urine was due to kidney stones, and fortunately, she passed two last week, and the blood has nearly subsided. The patient still has one stone in the left kidney but does not need surgical intervention at this time. The patient should drink half her body weight in ounces of water daily and avoid drinking sugary drinks like Mountain Dew. Ideally, she should consume less than 1,000 milligrams of sodium a day and reduce the amount of beef, poultry, fish, and pork. Foods rich in sodium oxalate and animal protein should be avoided. A handout was provided with more information. The patient should come back next year unless there are any issues like bleeding or pain. In the meantime, if she has any concerns or experiences any severe pain or bright red blood in her urine, she should go to the emergency room.",
+    "Mrs. Kelly Wood is an established patient here for a renal ultrasound because of hematuria. Her urine dipstick shows a trace amount of blood in the urine and intact. Renal ultrasound impression shows one stone in the left kidney that is not obstructing anything. The patient reports bright red urine and painful urination. She passed two small stones last week. She also reports that things have felt a lot better since then. ",
+    "The patient does not have any flank pain or tenderness in the lower back. Anti gu is normal. There is no evidence of flank pain on abdominal exam. Primary diagnosis is hematuria. Secondary diagnosis is chronic urolithiasis. Urine dipstick is negative for leukocytes, nitrates, protein, ketone, bilirubin, and glucose. Color is yellow and clear, urobilinogen 0.2, pH 5.5, and specific gravity 1.020. Renal ultrasound shows the right kidney is 10 cm in length by 5 cm wide with no stones, masses, or hydronephrosis. The left kidney is 10.8 cm in length and 5 cm wide with one non-obstructing, 6 mm left renal stone. ",
+    "The blood in the patient's urine was due to kidney stones, and fortunately, she passed two last week, and the blood has nearly subsided. The patient still has one stone in the left kidney but does not need surgical intervention at this time. The patient should drink half her body weight in ounces of water daily and avoid drinking sugary drinks like Mountain Dew. Ideally, she should consume less than 1,000 milligrams of sodium a day and reduce the amount of beef, poultry, fish, and pork. Foods rich in sodium oxalate and animal protein should be avoided. A handout was provided with more information. The patient should come back next year unless there are any issues like bleeding or pain. In the meantime, if she has any concerns or experiences any severe pain or bright red blood in her urine, she should go to the emergency room. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nHematuria.\nChronic urolithiasis.\n\nHISTORY OF PRESENT ILLNESS\n\nMrs. Kelly Wood is a 41-year-old female established patient with chronic urolithiasis who returns in follow up for renal ultrasound due to hematuria.\n\nThe patient reports having intermittent episodes of gross hematuria over the past several months. she states she had multiple voids in one day where the color of her urine was like cherry Kool-Aid last week; then passed 2 small stone like structures. Pain at the time was 8 out of 10 on a scale of 10. she currently denies any flank pain.\n\nCURRENT MEDICATIONS\n\nAlavert 10 mg tablet once daily.\n\nALLERGIES\n\nNo known drug allergies.\n\nPHYSICAL EXAM\n\nGenitourinary: Normal vaginal exam.\n\nRESULTS\n\nRenal Ultrasound\nImpression: Right kidney is 10 cm in length by 5 cm wide. There are no stones, masses, or hydronephrosis. The left kidney is 10.8 cm in length and 5 cm wide. There is a 6 mm left renal stone, non-obstructing. 533 ml pre void and 0 ml post void.\n\nUrine Dipstick without Micro\nColor: Yellow.\nAppearance: Clear.\nLeukocytes: Negative.\nNitrate: Negative.\nUrobilinogen: 0.2 EU/dL.\nProtein: Negative.\npH: 5.5\nBlood: Trace, intact.\nSpecific gravity: 1.020\nKetone: Negative.\nBilirubin: Negative.\nGlucose: Negative.\n\nASSESSMENT\n\n\u2022 Hematuria.\n\u2022 Chronic urolithiasis.\n\nMrs. Wood presents today for renal ultrasound. The patient has had recurrent episodes of hematuria over the past few months secondary to chronic urolithiasis. Mrs. Wood reports passing two small stone like structures last week. Urinalysis today was notable for only a trace amount of blood and the renal ultrasound revealed a 6 mm non-obstructing renal stone in the left kidney.\n\nPLAN\n\nNo surgical intervention is recommended, and the patient would like to discuss urolithiasis prevention. We had a very lengthy discussion with regards to urolithiasis formation and treating the underlying cause to prevent reoccurrence and associated potential dietary factors that could be involved with urolithiasis formation.\n\nIt is recommended that the patient maintain a healthy diet; limit salt, and animal protein. she should increase fluid consumption; adequate intake is half of her body weight in ounces of water daily and avoid sugary drinks. A copy of the dietary recommendations and avoidances was provided to the patient for reference. We will continue to monitor annually with renal ultrasound unless new symptoms develop. The patient voiced understanding and agreed with the recommended medical treatment plan.\n\nINSTRUCTIONS\n\nFollow up in 1 year with renal ultrasound, sooner should symptoms arise. Should you develop sudden onset of severe pain or gross hematuria go to the emergency room.\n",
+    "Hematuria.\nChronic urolithiasis. Mrs. Kelly Wood is a 41-year-old female established patient with chronic urolithiasis who returns in follow up for renal ultrasound due to hematuria.\n\nThe patient reports having intermittent episodes of gross hematuria over the past several months. she states she had multiple voids in one day where the color of her urine was like cherry Kool-Aid last week; then passed 2 small stone like structures. Pain at the time was 8 out of 10 on a scale of 10. she currently denies any flank pain. Alavert 10 mg tablet once daily. No known drug allergies. ",
+    "Genitourinary: Normal vaginal exam. Renal Ultrasound\nImpression: Right kidney is 10 cm in length by 5 cm wide. There are no stones, masses, or hydronephrosis. The left kidney is 10.8 cm in length and 5 cm wide. There is a 6 mm left renal stone, non-obstructing. 533 ml pre void and 0 ml post void.\n\nUrine Dipstick without Micro\nColor: Yellow.\nAppearance: Clear.\nLeukocytes: Negative.\nNitrate: Negative.\nUrobilinogen: 0.2 EU/dL.\nProtein: Negative.\npH: 5.5\nBlood: Trace, intact.\nSpecific gravity: 1.020\nKetone: Negative.\nBilirubin: Negative.\nGlucose: Negative. ",
+    "\u2022 Hematuria.\n\u2022 Chronic urolithiasis.\n\nMrs. Wood presents today for renal ultrasound. The patient has had recurrent episodes of hematuria over the past few months secondary to chronic urolithiasis. Mrs. Wood reports passing two small stone like structures last week. Urinalysis today was notable for only a trace amount of blood and the renal ultrasound revealed a 6 mm non-obstructing renal stone in the left kidney. No surgical intervention is recommended, and the patient would like to discuss urolithiasis prevention. We had a very lengthy discussion with regards to urolithiasis formation and treating the underlying cause to prevent reoccurrence and associated potential dietary factors that could be involved with urolithiasis formation.\n\nIt is recommended that the patient maintain a healthy diet; limit salt, and animal protein. she should increase fluid consumption; adequate intake is half of her body weight in ounces of water daily and avoid sugary drinks. A copy of the dietary recommendations and avoidances was provided to the patient for reference. We will continue to monitor annually with renal ultrasound unless new symptoms develop. The patient voiced understanding and agreed with the recommended medical treatment plan. Follow up in 1 year with renal ultrasound, sooner should symptoms arise. Should you develop sudden onset of severe pain or gross hematuria go to the emergency room. "
+  ]
+}

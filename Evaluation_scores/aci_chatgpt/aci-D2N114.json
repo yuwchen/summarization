@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.42662116040955633,
+    0.2248062015503876,
+    0.2616822429906542,
+    0.35051546391752575
+  ],
+  "rouge2": [
+    0.1404109589041096,
+    0.06249999999999999,
+    0.03809523809523809,
+    0.14583333333333334
+  ],
+  "rougeL": [
+    0.19795221843003413,
+    0.12403100775193798,
+    0.14953271028037382,
+    0.1958762886597938
+  ],
+  "rougeLsum": [
+    0.35836177474402725,
+    0.14728682170542637,
+    0.205607476635514,
+    0.1958762886597938
+  ],
+  "bertscore_precision": [
+    0.6774690747261047,
+    0.7266711592674255,
+    0.5812333226203918,
+    0.6458192467689514
+  ],
+  "bertscore_recall": [
+    0.6159408688545227,
+    0.5522187352180481,
+    0.6140125393867493,
+    0.569904088973999
+  ],
+  "bertscore_f1": [
+    0.6452414989471436,
+    0.627546489238739,
+    0.5971734523773193,
+    0.6054914593696594
+  ],
+  "bleurt": [
+    0.382473886013031,
+    0.45323359966278076,
+    0.48508334159851074,
+    0.4699661135673523
+  ],
+  "pred_note": [
+    " Clinical Note   \nHISTORY OF PRESENT ILLNESS\n The patient complains of having frequent, severe headaches on the right side, with pulsing sensation behind the eye. These headaches are triggered by stress and exercise, and worsen around menstrual periods. The patient also reports tinnitus and blurred vision that comes and goes.  \nPHYSICAL EXAM\n Vitals were taken, and all seemed normal, including blood pressure. The cardiac exam was normal. Papilledema was observed during funduscopic exam. Cranial nerves, musculoskeletal exam and gait were normal.  \nRESULTS\n The patient might be suffering from idiopathic intracranial hypertension, due to the increase of intracranial pressure. The patient needs to undergo further exams, such as MRI, spinal tap, and be referred to a neuro-ophthalmologist for a complete eye exam.  \nASSESSMENT AND PLAN\n If the diagnosis is confirmed, the patient will receive medication that will help decrease the pressure in the brain. Weight loss and exercise are essential factors of the treatment. The physician's office will get the preapproval from the insurance company to schedule the MRI. Further follow-up will be discussed with the patient in the future.",
+    "The patient complains of having frequent, severe headaches on the right side, with pulsing sensation behind the eye. These headaches are triggered by stress and exercise, and worsen around menstrual periods. The patient also reports tinnitus and blurred vision that comes and goes. ",
+    "Vitals were taken, and all seemed normal, including blood pressure. The cardiac exam was normal. Papilledema was observed during funduscopic exam. Cranial nerves, musculoskeletal exam and gait were normal. The patient might be suffering from idiopathic intracranial hypertension, due to the increase of intracranial pressure. The patient needs to undergo further exams, such as MRI, spinal tap, and be referred to a neuro-ophthalmologist for a complete eye exam. ",
+    "If the diagnosis is confirmed, the patient will receive medication that will help decrease the pressure in the brain. Weight loss and exercise are essential factors of the treatment. The physician's office will get the preapproval from the insurance company to schedule the MRI. Further follow-up will be discussed with the patient in the future. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nHeadaches.\n\nHISTORY OF PRESENT ILLNESS\n\nJulie Jenkins is a pleasant 33-year-old female who presents to the clinic today for the evaluation of headaches. The patient was referred from her primary care physician. The patient states that she was seen by Dr. White a few years ago and was going to obtain an MRI; however, Dr. White wanted her to see me first and urgently.\n\nThe onset of her headaches began when she was a teenager. Initially, her headaches appeared during menses, however she now experiences them more frequently and with more severity. Her pain is aggravated by physical activities. The patient states that she has been trying to exercise more in order to lose weight, however she is unable to exercise for prolonged periods of time secondary to the headaches. The patient locates her pain to the right side of her head and behind her eye. She describes her pain as a pulsing sensation. She also reports intermittent ringing in her ears for the last few months. Additionally, she reports intermittent blurred vision on the lateral aspect of her vision. She denies any numbness or tingling in her hands, feet, or face.\n\nThe patient enjoys running and wears either New Balance or Asics shoes.\n\nREVIEW OF SYSTEMS\n\nNeurological: Reports headaches. Denies numbness or tingling in her hands, feet, or face.\n\nVITALS\n\nVitals are within normal limits.\n\nPHYSICAL EXAM\n\nCV: Normal head rhythm with no murmurs, rubs, or gallops.\nNEURO: Cranial nerves I through XII are intact distally, including a normal cranial reflex.\nMSK: Gait is normal.\nFunduscopic exam: Positive for papilledema.\n\nASSESSMENT\n\nHeadaches, concern for idiopathic intracranial hypertension.\n\nPLAN\n\nAfter reviewing the patient's examination today, I have had a lengthy discussion with the patient in regard to her current symptoms. I have recommended that we obtain an urgent MRI of the brain to evaluate for any other condition that could be contributing to her symptoms. We will contact her to schedule this after approved by insurance. Once the MRI results are available for review and further discussion, I will also perform a spinal tap to evaluate the pressure in the brain. I have also advised her to be seen by a neuro ophthalmologist for a complete eye exam. Questions were invited and answered today. The patient agrees to the treatment plan.\n\nINSTRUCTIONS\n\nThe patient will follow up with me once the MRI results are available for review and further recommendations.",
+    "Headaches. Julie Jenkins is a pleasant 33-year-old female who presents to the clinic today for the evaluation of headaches. The patient was referred from her primary care physician. The patient states that she was seen by Dr. White a few years ago and was going to obtain an MRI; however, Dr. White wanted her to see me first and urgently.\n\nThe onset of her headaches began when she was a teenager. Initially, her headaches appeared during menses, however she now experiences them more frequently and with more severity. Her pain is aggravated by physical activities. The patient states that she has been trying to exercise more in order to lose weight, however she is unable to exercise for prolonged periods of time secondary to the headaches. The patient locates her pain to the right side of her head and behind her eye. She describes her pain as a pulsing sensation. She also reports intermittent ringing in her ears for the last few months. Additionally, she reports intermittent blurred vision on the lateral aspect of her vision. She denies any numbness or tingling in her hands, feet, or face.\n\nThe patient enjoys running and wears either New Balance or Asics shoes. Neurological: Reports headaches. Denies numbness or tingling in her hands, feet, or face. ",
+    "Vitals are within normal limits. CV: Normal head rhythm with no murmurs, rubs, or gallops.\nNEURO: Cranial nerves I through XII are intact distally, including a normal cranial reflex.\nMSK: Gait is normal.\nFunduscopic exam: Positive for papilledema. ",
+    "Headaches, concern for idiopathic intracranial hypertension. After reviewing the patient's examination today, I have had a lengthy discussion with the patient in regard to her current symptoms. I have recommended that we obtain an urgent MRI of the brain to evaluate for any other condition that could be contributing to her symptoms. We will contact her to schedule this after approved by insurance. Once the MRI results are available for review and further discussion, I will also perform a spinal tap to evaluate the pressure in the brain. I have also advised her to be seen by a neuro ophthalmologist for a complete eye exam. Questions were invited and answered today. The patient agrees to the treatment plan. The patient will follow up with me once the MRI results are available for review and further recommendations. "
+  ]
+}

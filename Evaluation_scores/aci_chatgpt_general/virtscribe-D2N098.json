@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.44543429844098,
+    0.40390879478827363,
+    0.10328638497652581,
+    0.3358778625954198
+  ],
+  "rouge2": [
+    0.15659955257270694,
+    0.13114754098360656,
+    0.02843601895734597,
+    0.13076923076923075
+  ],
+  "rougeL": [
+    0.24053452115812918,
+    0.19543973941368079,
+    0.09389671361502348,
+    0.20610687022900764
+  ],
+  "rougeLsum": [
+    0.35634743875278396,
+    0.3061889250814332,
+    0.09389671361502348,
+    0.23664122137404578
+  ],
+  "bertscore_precision": [
+    0.6734656691551208,
+    0.631003201007843,
+    0.46500179171562195,
+    0.6232439279556274
+  ],
+  "bertscore_recall": [
+    0.565819263458252,
+    0.6454263925552368,
+    0.5523731708526611,
+    0.6786620020866394
+  ],
+  "bertscore_f1": [
+    0.6149672865867615,
+    0.6381332874298096,
+    0.5049357414245605,
+    0.6497734785079956
+  ],
+  "bleurt": [
+    0.36383509635925293,
+    0.5307385921478271,
+    0.4030872583389282,
+    0.5417291522026062
+  ],
+  "pred_note": [
+    "Doctor Isabella is seeing a new patient named Jose James, who is experiencing pain in his left shoulder and elbow for the past five months. The pain started after he fell while going up the stairs. Mr. James has been having difficulty lifting weights at the gym and has stopped exercising due to the pain. He and his wife continue to walk daily. He has tried icing but hasn't taken any medication for the pain. There is no numbness or tingling. During the physical examination, the doctor finds tenderness in the left shoulder and elbow and performs several tests which are positive for impingement syndrome of the left shoulder. The doctor recommends starting with physical therapy twice a week and, if that doesn't improve the pain, a cortisone injection can be considered. Mr. James agrees to try physical therapy first and will receive a referral order for therapy. He is advised to continue icing and resting, and to contact the doctor if his symptoms worsen or do not improve with therapy.",
+    "Doctor Isabella is seeing a new patient named Jose James, who is experiencing pain in his left shoulder and elbow for the past five months. The pain started after he fell while going up the stairs. Mr. James has been having difficulty lifting weights at the gym and has stopped exercising due to the pain. He and his wife continue to walk daily. He has tried icing but hasn't taken any medication for the pain. There is no numbness or tingling. During the physical examination, the doctor finds tenderness in the left shoulder and elbow and performs several tests which are positive for impingement syndrome of the left shoulder. The doctor recommends starting with physical therapy twice a week and, if that doesn't improve the pain, a cortisone injection can be considered. Mr. James agrees to try physical therapy first and will receive a referral order for therapy. He is advised to continue icing and resting, and to contact the doctor if his symptoms worsen or do not improve with therapy.",
+    "Doctor Isabella is seeing a new patient named Jose James, who is experiencing pain in his left shoulder and elbow for the past five months. The pain started after he fell while going up the stairs. Mr. James has been having difficulty lifting weights at the gym and has stopped exercising due to the pain. He and his wife continue to walk daily. He has tried icing but hasn't taken any medication for the pain. There is no numbness or tingling. During the physical examination, the doctor finds tenderness in the left shoulder and elbow and performs several tests which are positive for impingement syndrome of the left shoulder. The doctor recommends starting with physical therapy twice a week and, if that doesn't improve the pain, a cortisone injection can be considered. Mr. James agrees to try physical therapy first and will receive a referral order for therapy. He is advised to continue icing and resting, and to contact the doctor if his symptoms worsen or do not improve with therapy.",
+    "Doctor Isabella is seeing a new patient named Jose James, who is experiencing pain in his left shoulder and elbow for the past five months. The pain started after he fell while going up the stairs. Mr. James has been having difficulty lifting weights at the gym and has stopped exercising due to the pain. He and his wife continue to walk daily. He has tried icing but hasn't taken any medication for the pain. There is no numbness or tingling. During the physical examination, the doctor finds tenderness in the left shoulder and elbow and performs several tests which are positive for impingement syndrome of the left shoulder. The doctor recommends starting with physical therapy twice a week and, if that doesn't improve the pain, a cortisone injection can be considered. Mr. James agrees to try physical therapy first and will receive a referral order for therapy. He is advised to continue icing and resting, and to contact the doctor if his symptoms worsen or do not improve with therapy."
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nLeft shoulder and elbow pain.\n\nHISTORY OF PRESENT ILLNESS\n\nMr. Jose James is a 64-year-old male who presents for left shoulder and elbow pain.\n\nThe patient reports falling on his hand while going up stairs 5 months ago and has been experiencing constant pain since. He admits he was continuing to complete strength training exercises at least 2 times per week, however, he was unable to lift more than 15-20 pounds due to the pain.\n\nDuring the past 1-2 weeks, Mr. James has discontinued strength training activities. Additionally, he has iced the inflicted areas, denies taking any pain medications, and reports his pain has slightly improved but it is still rather constant. He denies tingling and numbness.\n\nThe patient walks 30-minutes most days of the week.\n\nSOCIAL HISTORY\n\nRetired last year, was an office worker.\n\nPHYSICAL EXAM\n\nMusculoskeletal\nLeft shoulder and elbow, tender subacromial space. No warmth, erythema, or deformity. Positive Hawkins-Kennedy and Neer\u2019s test. Normal proximal and distal upper extremity strength. Intact median, radial, ulnar sensation. Abduction to 90 degrees. Normal empty can test.\n\nASSESSMENT\n\n\u2022 Impingement syndrome of left shoulder\n\nJose is a 64-year-old male who was seen today for impingement syndrome of his left shoulder, likely related to a fall he incurred 5 months ago.\n\nPLAN\n\nToday I discussed conservative options for left shoulder impingement with the patient, who opted to try physical therapy 2 session per week. Cortisone injection was discussed as an option if the physical therapy does not successfully reduce his pain. Additionally, I recommended continued ice and rest.\n\nINSTRUCTIONS\n\nemail, or call if symptoms worsen or do not resolve.\n",
+    "Left shoulder and elbow pain. Mr. Jose James is a 64-year-old male who presents for left shoulder and elbow pain.\n\nThe patient reports falling on his hand while going up stairs 5 months ago and has been experiencing constant pain since. He admits he was continuing to complete strength training exercises at least 2 times per week, however, he was unable to lift more than 15-20 pounds due to the pain.\n\nDuring the past 1-2 weeks, Mr. James has discontinued strength training activities. Additionally, he has iced the inflicted areas, denies taking any pain medications, and reports his pain has slightly improved but it is still rather constant. He denies tingling and numbness.\n\nThe patient walks 30-minutes most days of the week. Retired last year, was an office worker. ",
+    "Musculoskeletal\nLeft shoulder and elbow, tender subacromial space. No warmth, erythema, or deformity. Positive Hawkins-Kennedy and Neer\u2019s test. Normal proximal and distal upper extremity strength. Intact median, radial, ulnar sensation. Abduction to 90 degrees. Normal empty can test. ",
+    "\u2022 Impingement syndrome of left shoulder\n\nJose is a 64-year-old male who was seen today for impingement syndrome of his left shoulder, likely related to a fall he incurred 5 months ago. Today I discussed conservative options for left shoulder impingement with the patient, who opted to try physical therapy 2 session per week. Cortisone injection was discussed as an option if the physical therapy does not successfully reduce his pain. Additionally, I recommended continued ice and rest. email, or call if symptoms worsen or do not resolve. "
+  ]
+}

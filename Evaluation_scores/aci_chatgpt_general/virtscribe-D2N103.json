@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.4494773519163763,
+    0.3325635103926097,
+    0.2696629213483146,
+    0.13649851632047477
+  ],
+  "rouge2": [
+    0.1748251748251748,
+    0.10672853828306263,
+    0.12429378531073446,
+    0.035820895522388055
+  ],
+  "rougeL": [
+    0.2160278745644599,
+    0.15704387990762125,
+    0.14044943820224717,
+    0.10682492581602375
+  ],
+  "rougeLsum": [
+    0.4146341463414634,
+    0.2863741339491917,
+    0.24157303370786515,
+    0.11869436201780416
+  ],
+  "bertscore_precision": [
+    0.634060263633728,
+    0.5911320447921753,
+    0.5507956147193909,
+    0.48879387974739075
+  ],
+  "bertscore_recall": [
+    0.5976781249046326,
+    0.6287211179733276,
+    0.6652975082397461,
+    0.6326736211776733
+  ],
+  "bertscore_f1": [
+    0.6153318881988525,
+    0.609347403049469,
+    0.6026560664176941,
+    0.5515041351318359
+  ],
+  "bleurt": [
+    0.42435044050216675,
+    0.4643245339393616,
+    0.48232918977737427,
+    0.4848369359970093
+  ],
+  "pred_note": [
+    "In this patient-doctor dialogue, the doctor is seeing Melissa Sanchez for a follow-up after her mitral valve repair. The doctor notes that at her previous appointment, she was doing well from a cardiac standpoint and recommended she continue with the same medication. However, an ECG taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response and t-wave inversion anteriorly. The patient also has a history of mitral regurgitation, atrial fibrillation, diabetes, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. \n\nDuring the appointment, the doctor asks about any new symptoms and the patient reports occasional chest pains and shallow breathing. The symptoms last for a few minutes and then disappear for a couple of weeks. The patient is taking her medications regularly, including coumadin, lasix, and atenolol. She mentions that the atenolol initially made her irritable but she has gotten used to it. \n\nThe doctor performs a physical exam and notes no JVD or abnormal breath sounds in the head and neck and lungs. The patient's heart rhythm is irregularly irregular due to atrial fibrillation. The doctor also checks the patient's belly and extremities, finding no pain or peripheral edema. \n\nBased on the exam and ECG, the doctor determines that the patient's heart valves are working well and she is recovering nicely from the surgery. The atrial fibrillation is well controlled with medication. The doctor recommends continuing with the current medication regimen and encourages the patient to stay active. \n\nThe doctor schedules a follow-up appointment in about six to nine months, as there are no immediate concerns from a cardiac perspective. The patient thanks the doctor and the appointment concludes.",
+    "In this patient-doctor dialogue, the doctor is seeing Melissa Sanchez for a follow-up after her mitral valve repair. The doctor notes that at her previous appointment, she was doing well from a cardiac standpoint and recommended she continue with the same medication. However, an ECG taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response and t-wave inversion anteriorly. The patient also has a history of mitral regurgitation, atrial fibrillation, diabetes, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. \n\nDuring the appointment, the doctor asks about any new symptoms and the patient reports occasional chest pains and shallow breathing. The symptoms last for a few minutes and then disappear for a couple of weeks. The patient is taking her medications regularly, including coumadin, lasix, and atenolol. She mentions that the atenolol initially made her irritable but she has gotten used to it. \n\nThe doctor performs a physical exam and notes no JVD or abnormal breath sounds in the head and neck and lungs. The patient's heart rhythm is irregularly irregular due to atrial fibrillation. The doctor also checks the patient's belly and extremities, finding no pain or peripheral edema. \n\nBased on the exam and ECG, the doctor determines that the patient's heart valves are working well and she is recovering nicely from the surgery. The atrial fibrillation is well controlled with medication. The doctor recommends continuing with the current medication regimen and encourages the patient to stay active. \n\nThe doctor schedules a follow-up appointment in about six to nine months, as there are no immediate concerns from a cardiac perspective. The patient thanks the doctor and the appointment concludes.",
+    "In this patient-doctor dialogue, the doctor is seeing Melissa Sanchez for a follow-up after her mitral valve repair. The doctor notes that at her previous appointment, she was doing well from a cardiac standpoint and recommended she continue with the same medication. However, an ECG taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response and t-wave inversion anteriorly. The patient also has a history of mitral regurgitation, atrial fibrillation, diabetes, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. \n\nDuring the appointment, the doctor asks about any new symptoms and the patient reports occasional chest pains and shallow breathing. The symptoms last for a few minutes and then disappear for a couple of weeks. The patient is taking her medications regularly, including coumadin, lasix, and atenolol. She mentions that the atenolol initially made her irritable but she has gotten used to it. \n\nThe doctor performs a physical exam and notes no JVD or abnormal breath sounds in the head and neck and lungs. The patient's heart rhythm is irregularly irregular due to atrial fibrillation. The doctor also checks the patient's belly and extremities, finding no pain or peripheral edema. \n\nBased on the exam and ECG, the doctor determines that the patient's heart valves are working well and she is recovering nicely from the surgery. The atrial fibrillation is well controlled with medication. The doctor recommends continuing with the current medication regimen and encourages the patient to stay active. \n\nThe doctor schedules a follow-up appointment in about six to nine months, as there are no immediate concerns from a cardiac perspective. The patient thanks the doctor and the appointment concludes.",
+    "In this patient-doctor dialogue, the doctor is seeing Melissa Sanchez for a follow-up after her mitral valve repair. The doctor notes that at her previous appointment, she was doing well from a cardiac standpoint and recommended she continue with the same medication. However, an ECG taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response and t-wave inversion anteriorly. The patient also has a history of mitral regurgitation, atrial fibrillation, diabetes, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. \n\nDuring the appointment, the doctor asks about any new symptoms and the patient reports occasional chest pains and shallow breathing. The symptoms last for a few minutes and then disappear for a couple of weeks. The patient is taking her medications regularly, including coumadin, lasix, and atenolol. She mentions that the atenolol initially made her irritable but she has gotten used to it. \n\nThe doctor performs a physical exam and notes no JVD or abnormal breath sounds in the head and neck and lungs. The patient's heart rhythm is irregularly irregular due to atrial fibrillation. The doctor also checks the patient's belly and extremities, finding no pain or peripheral edema. \n\nBased on the exam and ECG, the doctor determines that the patient's heart valves are working well and she is recovering nicely from the surgery. The atrial fibrillation is well controlled with medication. The doctor recommends continuing with the current medication regimen and encourages the patient to stay active. \n\nThe doctor schedules a follow-up appointment in about six to nine months, as there are no immediate concerns from a cardiac perspective. The patient thanks the doctor and the appointment concludes."
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nStatus post mitral valve repair.\n\nHISTORY OF PRESENT ILLNESS\n\nMrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020.\n\nOn 09/17/20 we saw Mrs. Sanchez in office, and she was doing well and thus we recommended maintaining her current medications, she is using a reminder app to stay compliant with medications.\n\nThe patient reports feeling better and overall, pretty good. She denies experiencing new symptoms. She is still having chest pain intermittently, and her breathing \u201cgets shallow\u201d which results in her \u201cslowing down\u201d and decreasing her exertion. An episode of shortness of breath and chest pains may last a few minutes and will not recur for a few weeks.\n\nPAST HISTORY\n\nMedical\nMitral regurgitation.\nAtrial fibrillation.\nDiabetes Type II.\nAsthma.\n\nSurgical\nMitral valve repair 08/03/2020.\n\nCURRENT MEDICATIONS\n\nCoumadin 4 mg daily.\nLasix 40 mg daily.\nAtenolol 50 mg daily.\n\nPHYSICAL EXAM\n\nHead and Neck\nNo JVD detected.\n\nRespiratory\nLungs have reduced breath, but auscultation and percussion are clear.\n\nCardiovascular\nRhythm is irregularly irregular, S1 slightly accentuated, no S3.\n\nMusculoskeletal\nTrace peripheral edema on extremities.\n\nRESULTS\n\nECG, 12/26/2020.\nImpression: Atrial fibrillation with a controlled ventricular response, t-wave inversion anteriorly. Compared to the previous study, there are no significant changes. I also recommended that the patient continues to be active within her limits.\n\nASSESSMENT\n\n\u2022 Status post mitral valve repair\n\nMrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020.\n\nPLAN\n\nContinue with current medications. Coumadin 4 mg daily, Lasix 40 mg daily, and Atenolol 50 mg daily.\n\nINSTRUCTIONS\n\nReturn to clinic in 6-9 months.",
+    "Status post mitral valve repair. Mrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020.\n\nOn 09/17/20 we saw Mrs. Sanchez in office, and she was doing well and thus we recommended maintaining her current medications, she is using a reminder app to stay compliant with medications.\n\nThe patient reports feeling better and overall, pretty good. She denies experiencing new symptoms. She is still having chest pain intermittently, and her breathing \u201cgets shallow\u201d which results in her \u201cslowing down\u201d and decreasing her exertion. An episode of shortness of breath and chest pains may last a few minutes and will not recur for a few weeks. Medical\nMitral regurgitation.\nAtrial fibrillation.\nDiabetes Type II.\nAsthma.\n\nSurgical\nMitral valve repair 08/03/2020. Coumadin 4 mg daily.\nLasix 40 mg daily.\nAtenolol 50 mg daily. ",
+    "Head and Neck\nNo JVD detected.\n\nRespiratory\nLungs have reduced breath, but auscultation and percussion are clear.\n\nCardiovascular\nRhythm is irregularly irregular, S1 slightly accentuated, no S3.\n\nMusculoskeletal\nTrace peripheral edema on extremities. ECG, 12/26/2020.\nImpression: Atrial fibrillation with a controlled ventricular response, t-wave inversion anteriorly. Compared to the previous study, there are no significant changes. I also recommended that the patient continues to be active within her limits. ",
+    "\u2022 Status post mitral valve repair\n\nMrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020. Continue with current medications. Coumadin 4 mg daily, Lasix 40 mg daily, and Atenolol 50 mg daily. Return to clinic in 6-9 months. "
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5021037868162693,
+    0.423728813559322,
+    0.2923076923076923,
+    0.29411764705882354
+  ],
+  "rouge2": [
+    0.1631504922644163,
+    0.1818181818181818,
+    0.078125,
+    0.039603960396039604
+  ],
+  "rougeL": [
+    0.24964936886395514,
+    0.24293785310734461,
+    0.21538461538461537,
+    0.15686274509803924
+  ],
+  "rougeLsum": [
+    0.426367461430575,
+    0.2711864406779661,
+    0.2307692307692308,
+    0.15686274509803924
+  ],
+  "bertscore_precision": [
+    0.6547987461090088,
+    0.6966050863265991,
+    0.5945017337799072,
+    0.6332076787948608
+  ],
+  "bertscore_recall": [
+    0.6341802477836609,
+    0.5772223472595215,
+    0.6644512414932251,
+    0.5965172052383423
+  ],
+  "bertscore_f1": [
+    0.644324541091919,
+    0.6313194632530212,
+    0.6275332570075989,
+    0.6143150925636292
+  ],
+  "bleurt": [
+    0.40906625986099243,
+    0.5092087388038635,
+    0.5433374047279358,
+    0.4772084355354309
+  ],
+  "pred_note": [
+    " \nHISTORY OF PRESENT ILLNESS\n  Brandon has been experiencing neck pain due to a car crash. He has been in multiple car crashes in the past and has had surgery for the third one. His recent accident occurred in February 2021, and he has been experiencing neck pain ever since. The pain is sharp and debilitating, with a score of 12 on a scale of 1 to 10. Brandon has been prescribed medication from a pain clinic, including fentanyl, which he has not taken in weeks. He is experiencing stiffness, headaches, dizziness, and numbness in his left arm and right leg. He is unable to move his neck from side to side or forward without severe pain.   \nPHYSICAL EXAM\n  The doctor performed a physical examination by palpating Brandon's neck and asking him to move it. Pain was present on palpation of the bony process and the muscle. Brandon had moderate range of movement to swivel his neck from side to side. However, bending his neck forward and backward caused severe pain. The doctor did not observe any swelling, lacerations or bruising.   \nRESULTS\n  An x-ray did not show any fracture, but the doctor is ordering an MRI for further evaluation. The diagnosis for Brandon is a neck sprain that may also be caused by multiple factors.   \nASSESSMENT AND PLAN\n  The doctor wants to treat Brandon's neck pain conservatively with exercise, robaxin medication, and icing his bruising areas. If the medication doesn't work, the doctor may refer him to pain medicine and physical therapy. The doctor also suggests that local injections may be an option to relieve his neck pain. Brandon will be given off for work and wait for the MRI result before taking additional action.",
+    "Brandon has been experiencing neck pain due to a car crash. He has been in multiple car crashes in the past and has had surgery for the third one. His recent accident occurred in February 2021, and he has been experiencing neck pain ever since. The pain is sharp and debilitating, with a score of 12 on a scale of 1 to 10. Brandon has been prescribed medication from a pain clinic, including fentanyl, which he has not taken in weeks. He is experiencing stiffness, headaches, dizziness, and numbness in his left arm and right leg. He is unable to move his neck from side to side or forward without severe pain. ",
+    "The doctor performed a physical examination by palpating Brandon's neck and asking him to move it. Pain was present on palpation of the bony process and the muscle. Brandon had moderate range of movement to swivel his neck from side to side. However, bending his neck forward and backward caused severe pain. The doctor did not observe any swelling, lacerations or bruising. An x-ray did not show any fracture, but the doctor is ordering an MRI for further evaluation. The diagnosis for Brandon is a neck sprain that may also be caused by multiple factors. ",
+    "The doctor wants to treat Brandon's neck pain conservatively with exercise, robaxin medication, and icing his bruising areas. If the medication doesn't work, the doctor may refer him to pain medicine and physical therapy. The doctor also suggests that local injections may be an option to relieve his neck pain. Brandon will be given off for work and wait for the MRI result before taking additional action. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nNeck pain.\n\nHISTORY OF PRESENT ILLNESS\n\nBrandon Green is a pleasant 46-year-old male who presents to the clinic today for the evaluation of neck pain. His pain began when he was involved in a motor vehicle accident in 02/2022 when he was on his way home from a pain clinic. The patient notes that he has been in 4 motor vehicle accidents; however, he notes that he was fine after the first two accidents, but the third motor vehicle accident is when his neck and back pain began. He states that he was in therapy following the second accident and had surgery after his third accident. The patient was seen at a pain clinic secondary to neck and back pain. He was prescribed fentanyl; however, he has not received a prescription for several weeks. Today, he reports that his pain is a 12 out of 10. He describes his pain as sharp and incapacitating with stiffness and pain. The patient also reports headaches, occasional dizziness. He denies any recent visual disturbances. He also reports numbness in his left arm and right leg. The patient also reports spasms throughout his body. He states that he has been experiencing fatigue since the accident. He notes that he is unable to work with this much pain.\n\nREVIEW OF SYSTEMS\n\nConstitutional: Reports fatigue.\nEyes: Denies any recent visual disturbances.\nMusculoskeletal: Reports neck and back pain, and occasional swelling and bruising of the neck.\nNeurological: Reports headaches, dizziness, spasms, and numbness.\n\nPHYSICAL EXAM\n\nSKIN: No lacerations.\nMSK: Examination of the cervical spine: Pain on palpation on the bony process and muscle. Moderate ROM. No bruising or edema noted.\n\nRESULTS\n\nX-rays of the neck reveal no fractures.\n\nASSESSMENT\n\nNeck sprain.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. I have explained to him that his x-rays did not reveal any signs of a fracture. I recommended an MRI for further evaluation. I have also prescribed the patient Robaxin 1500 mg every 6 to 8 hours to treat his pain. I have also advised him to utilize ice, a heating pad, IcyHot, or Biofreeze on his neck as needed. I have also provided him with a home exercise program to work on his range of motion. I advised the patient that he will not be able to work until we have the MRI results.\n\nINSTRUCTIONS\n\nThe patient will follow up with me after his MRI for results.",
+    "Neck pain. Brandon Green is a pleasant 46-year-old male who presents to the clinic today for the evaluation of neck pain. His pain began when he was involved in a motor vehicle accident in 02/2022 when he was on his way home from a pain clinic. The patient notes that he has been in 4 motor vehicle accidents; however, he notes that he was fine after the first two accidents, but the third motor vehicle accident is when his neck and back pain began. He states that he was in therapy following the second accident and had surgery after his third accident. The patient was seen at a pain clinic secondary to neck and back pain. He was prescribed fentanyl; however, he has not received a prescription for several weeks. Today, he reports that his pain is a 12 out of 10. He describes his pain as sharp and incapacitating with stiffness and pain. The patient also reports headaches, occasional dizziness. He denies any recent visual disturbances. He also reports numbness in his left arm and right leg. The patient also reports spasms throughout his body. He states that he has been experiencing fatigue since the accident. He notes that he is unable to work with this much pain. Constitutional: Reports fatigue.\nEyes: Denies any recent visual disturbances.\nMusculoskeletal: Reports neck and back pain, and occasional swelling and bruising of the neck.\nNeurological: Reports headaches, dizziness, spasms, and numbness. ",
+    "SKIN: No lacerations.\nMSK: Examination of the cervical spine: Pain on palpation on the bony process and muscle. Moderate ROM. No bruising or edema noted. X-rays of the neck reveal no fractures. ",
+    "Neck sprain. After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. I have explained to him that his x-rays did not reveal any signs of a fracture. I recommended an MRI for further evaluation. I have also prescribed the patient Robaxin 1500 mg every 6 to 8 hours to treat his pain. I have also advised him to utilize ice, a heating pad, IcyHot, or Biofreeze on his neck as needed. I have also provided him with a home exercise program to work on his range of motion. I advised the patient that he will not be able to work until we have the MRI results. The patient will follow up with me after his MRI for results. "
+  ]
+}

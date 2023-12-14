@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5098039215686275,
+    0.44128113879003555,
+    0.4705882352941176,
+    0.36199095022624433
+  ],
+  "rouge2": [
+    0.26885245901639343,
+    0.3154121863799283,
+    0.3132530120481928,
+    0.091324200913242
+  ],
+  "rougeL": [
+    0.3333333333333333,
+    0.4056939501779359,
+    0.32941176470588235,
+    0.1900452488687783
+  ],
+  "rougeLsum": [
+    0.4934640522875818,
+    0.4341637010676157,
+    0.4235294117647058,
+    0.3438914027149322
+  ],
+  "bertscore_precision": [
+    0.6868268251419067,
+    0.7929235696792603,
+    0.7245383858680725,
+    0.67472904920578
+  ],
+  "bertscore_recall": [
+    0.6136566400527954,
+    0.5861754417419434,
+    0.6555647850036621,
+    0.5447211265563965
+  ],
+  "bertscore_f1": [
+    0.648183286190033,
+    0.6740521192550659,
+    0.6883280277252197,
+    0.602794885635376
+  ],
+  "bleurt": [
+    0.3274201452732086,
+    0.49619460105895996,
+    0.5509647727012634,
+    0.4540729522705078
+  ],
+  "pred_note": [
+    "\nHISTORY OF PRESENT ILLNESS\n Elizabeth is a 66-year-old female with a past medical history of significant for depression and hypertension who presents for her annual exam. She has been going to therapy once a week for the past year and has a support system at home. She has been monitoring her blood pressure and has been taking Lisinopril as prescribed. She reported experiencing no other symptoms other than nasal congestion.  \nPHYSICAL EXAM\n On physical examination, the patient has no carotid bruits in her neck. A slight 2/6 systolic ejection murmur is appreciated in her heart exam. Her lungs are clear, but she has some trace lower extremity edema bilaterally.  \nRESULTS\n An EKG was conducted and showed no abnormal results.  \nASSESSMENT AND PLAN\n The patient's depression is well managed with strategies, and no medication is needed. The Lisinopril, 20 milligrams per day, will continue to be used to manage hypertension. The patient is due for a mammogram. The patient will continue to monitor her blood pressure and will contact her doctor if they start rising. The patient has been instructed that she can take her medication together with an alarm set to remind her.",
+    "Elizabeth is a 66-year-old female with a past medical history of significant for depression and hypertension who presents for her annual exam. She has been going to therapy once a week for the past year and has a support system at home. She has been monitoring her blood pressure and has been taking Lisinopril as prescribed. She reported experiencing no other symptoms other than nasal congestion. ",
+    "On physical examination, the patient has no carotid bruits in her neck. A slight 2/6 systolic ejection murmur is appreciated in her heart exam. Her lungs are clear, but she has some trace lower extremity edema bilaterally. An EKG was conducted and showed no abnormal results. ",
+    "The patient's depression is well managed with strategies, and no medication is needed. The Lisinopril, 20 milligrams per day, will continue to be used to manage hypertension. The patient is due for a mammogram. The patient will continue to monitor her blood pressure and will contact her doctor if they start rising. The patient has been instructed that she can take her medication together with an alarm set to remind her. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nAnnual exam.\n\nHISTORY OF PRESENT ILLNESS\n\nElizabeth Peterson is a 66-year-old female with a past medical history significant for depression and hypertension, who presents for her annual exam. It has been a year since I last saw the patient.\n\nThe patient reports that she is doing well. She has been to multiple events now that she has been able to get vaccinated for COVID-19. She reports that she has been able to see her grandchildren again and attend birthday parties.\n\nRegarding her depression, she has been going to therapy once a week for the past year. She reports that she is starting to go in person rather than virtual, which has helped even more. The patient has a good support system at home with her husband and her children live down the street.\n\nThe patient reports that her blood pressure has been doing well. She has been using the blood pressure cuff once a day and her readings seem normal. She has continued to utilize Lisinopril 20 mg daily, as prescribed.\n\nThe patient endorses nasal congestion. She denies any other symptoms of chest pain, shortness of breath, abdominal pain, nausea, or vomiting.\n\nREVIEW OF SYSTEMS\n\n\u2022 Ears, Nose, Mouth and Throat: Endorses nasal congestion.\n\u2022 Cardiovascular: Denies chest pain or dyspnea.\n\u2022 Respiratory: Denies shortness of breath.\n\u2022 Psychiatric: Endorses depression.\n\nPHYSICAL EXAMINATION\n\n\u2022 Neck: No carotid bruits appreciable.\n\u2022 Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.\n\u2022 Cardiovascular: Slight 2/6 systolic ejection murmur, stable.\n\u2022 Musculoskeletal: Trace lower extremity edema bilaterally.\n\nRESULTS\n\nElectrocardiogram stable in comparison to last year.\n\nASSESSMENT AND PLAN\n\nElizabeth Peterson is a 66-year-old female with a past medical history significant for depression and hypertension. She presents today for her annual exam.\n\nDepression.\n\u2022 Medical Reasoning: She is doing well with weekly therapy. She also has a solid support system at home.\n\u2022 Medical Treatment: Continue with therapy and current management strategies. We will defer medication at this time.\n\nHypertension.\n\u2022 Medical Reasoning: This is well controlled based on daily home monitoring. She has been compliant with lisinopril.\n\u2022 Medical Treatment: Continue lisinopril 20 mg daily.\n\u2022 Patient Education and Counseling: I advised her to continue with daily home monitoring of her blood pressures. She will contact me via the patient portal for any elevation in these readings.\n\nHealthcare maintenance.\n\u2022 Medical Reasoning: She is due for her annual mammogram.\n\u2022 Additional Testing: We will order a mammogram for her.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n",
+    "Annual exam. Elizabeth Peterson is a 66-year-old female with a past medical history significant for depression and hypertension, who presents for her annual exam. It has been a year since I last saw the patient.\n\nThe patient reports that she is doing well. She has been to multiple events now that she has been able to get vaccinated for COVID-19. She reports that she has been able to see her grandchildren again and attend birthday parties.\n\nRegarding her depression, she has been going to therapy once a week for the past year. She reports that she is starting to go in person rather than virtual, which has helped even more. The patient has a good support system at home with her husband and her children live down the street.\n\nThe patient reports that her blood pressure has been doing well. She has been using the blood pressure cuff once a day and her readings seem normal. She has continued to utilize Lisinopril 20 mg daily, as prescribed.\n\nThe patient endorses nasal congestion. She denies any other symptoms of chest pain, shortness of breath, abdominal pain, nausea, or vomiting. \u2022 Ears, Nose, Mouth and Throat: Endorses nasal congestion.\n\u2022 Cardiovascular: Denies chest pain or dyspnea.\n\u2022 Respiratory: Denies shortness of breath.\n\u2022 Psychiatric: Endorses depression. ",
+    "\u2022 Neck: No carotid bruits appreciable.\n\u2022 Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.\n\u2022 Cardiovascular: Slight 2/6 systolic ejection murmur, stable.\n\u2022 Musculoskeletal: Trace lower extremity edema bilaterally. Electrocardiogram stable in comparison to last year. ",
+    "Elizabeth Peterson is a 66-year-old female with a past medical history significant for depression and hypertension. She presents today for her annual exam.\n\nDepression.\n\u2022 Medical Reasoning: She is doing well with weekly therapy. She also has a solid support system at home.\n\u2022 Medical Treatment: Continue with therapy and current management strategies. We will defer medication at this time.\n\nHypertension.\n\u2022 Medical Reasoning: This is well controlled based on daily home monitoring. She has been compliant with lisinopril.\n\u2022 Medical Treatment: Continue lisinopril 20 mg daily.\n\u2022 Patient Education and Counseling: I advised her to continue with daily home monitoring of her blood pressures. She will contact me via the patient portal for any elevation in these readings.\n\nHealthcare maintenance.\n\u2022 Medical Reasoning: She is due for her annual mammogram.\n\u2022 Additional Testing: We will order a mammogram for her.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. "
+  ]
+}

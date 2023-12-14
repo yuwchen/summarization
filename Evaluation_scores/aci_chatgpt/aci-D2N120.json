@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5884146341463415,
+    0.5,
+    0.7000000000000001,
+    0.3829787234042553
+  ],
+  "rouge2": [
+    0.3027522935779816,
+    0.23699421965317924,
+    0.5652173913043479,
+    0.11510791366906475
+  ],
+  "rougeL": [
+    0.3628048780487805,
+    0.3448275862068966,
+    0.3857142857142857,
+    0.2695035460992907
+  ],
+  "rougeLsum": [
+    0.5365853658536586,
+    0.41954022988505746,
+    0.6428571428571429,
+    0.2695035460992907
+  ],
+  "bertscore_precision": [
+    0.7194275259971619,
+    0.7597631216049194,
+    0.8214742541313171,
+    0.6395028233528137
+  ],
+  "bertscore_recall": [
+    0.6917493939399719,
+    0.6309040784835815,
+    0.7586014866828918,
+    0.6688966155052185
+  ],
+  "bertscore_f1": [
+    0.7053170204162598,
+    0.6893635988235474,
+    0.7887869477272034,
+    0.6538695693016052
+  ],
+  "bleurt": [
+    0.43861037492752075,
+    0.5302053689956665,
+    0.614253580570221,
+    0.5339475870132446
+  ],
+  "pred_note": [
+    "\nHISTORY OF PRESENT ILLNESS\n  Larry is a patient experiencing back pain for the last two years. The pain began after he moved furniture one weekend. Larry reports the pain as a sharp, stabbing pain in his back that goes down to his right leg, sometimes even down to his toe. He also reports numbness and tingling to his right leg and foot. Larry has not experienced any weakness, loss of sensation in the genital or rectal area, loss of control of the bladder or bowel, or any family members with spine conditions. Larry has tried physical therapy and has been prescribed strong pain medications in the past, but these only provided temporary relief.  \nPHYSICAL EXAM\n  The patient's vitals are good. Musculoskeletal back exam reveals midline tenderness at the l4 l5 disk space with right-sided lumbar paravertebral tenderness. A supine straight leg test is positive. The neurological examination reveals decreased sensation to light touch at the right lateral thigh at l4 dermatome. Patellar and achilles reflexes are symmetrical.  \nRESULTS\n  The MRI results reveal disk herniation with nerve impingement.  \nASSESSMENT AND PLAN\n  Based on the symptoms, examination, and MRI results, Larry's chronic lumbar back pain is consistent with an l4 l5 herniated disk with radiculopathy. The doctor recommends a spinal injection of corticosteroid, which will help the inflammation that is causing the pain. Larry will be monitored to see how he responds to the injection, and the patient's intervals can be different. The doctor usually does not do more than four injections a year.",
+    "Larry is a patient experiencing back pain for the last two years. The pain began after he moved furniture one weekend. Larry reports the pain as a sharp, stabbing pain in his back that goes down to his right leg, sometimes even down to his toe. He also reports numbness and tingling to his right leg and foot. Larry has not experienced any weakness, loss of sensation in the genital or rectal area, loss of control of the bladder or bowel, or any family members with spine conditions. Larry has tried physical therapy and has been prescribed strong pain medications in the past, but these only provided temporary relief. ",
+    "The patient's vitals are good. Musculoskeletal back exam reveals midline tenderness at the l4 l5 disk space with right-sided lumbar paravertebral tenderness. A supine straight leg test is positive. The neurological examination reveals decreased sensation to light touch at the right lateral thigh at l4 dermatome. Patellar and achilles reflexes are symmetrical. The MRI results reveal disk herniation with nerve impingement. ",
+    "Based on the symptoms, examination, and MRI results, Larry's chronic lumbar back pain is consistent with an l4 l5 herniated disk with radiculopathy. The doctor recommends a spinal injection of corticosteroid, which will help the inflammation that is causing the pain. Larry will be monitored to see how he responds to the injection, and the patient's intervals can be different. The doctor usually does not do more than four injections a year. "
+  ],
+  "gt_note": [
+    "HISTORY OF PRESENT ILLNESS\n\nLarry Garcia is a pleasant 41-year-old male who presents to the clinic today for the evaluation of back pain.\n\nThe onset of his pain began 2 years ago, after moving furniture. He denies any specific injury. The patient describes his pain as sharp and stabbing. He locates his pain to his lower back, which radiates distally into his right leg and occasionally into his great toe. Sitting will increase his pain and he notes he is unable to get comfortable. The patient also reports numbness and tingling, especially in his right leg that radiates distally to his foot. He adds that he tries to be as active as he can, however it has been difficult with his back pain. The patient adds that he has gained weight over the past year. He denies any loss of sensation in his genital or rectal area, weakness, or loss of bladder or bowel control.\n\nIn the past, he has attended physical therapy. The patient has also been prescribed pain medications, however they only provided temporary relief. He would like to avoid any surgical procedure at this time.\n\nSOCIAL HISTORY\n\nHe quit smoking 20 years ago.\n\nFAMILY HISTORY\n\nThe patient denies any family history of spine conditions.\n\nREVIEW OF SYSTEMS\n\nConstitutional: Reports weight gain.\nMusculoskeletal: Reports lower back pain.\nNeurological: Positive for numbness and tingling in the right leg and foot. Denies loss of bowl or bladder control, or loss of sensation in the genital or rectal area.\n\nVITALS\n\nVitals are within normal limits.\n\nPHYSICAL EXAM\n\nNEURO: Decreased sensation to light touch at the right lateral thigh at the L4 dermatome. Patellar and Achilles reflexes are symmetrical.\nMSK: Examination of the lumbar spine: No overlying erythema or ecchymosis. Midline tenderness at L4-5 disc space with right-sided lumbar paravertebral tenderness. Pain with lumbar flexion. Supine straight leg test is positive.\n\nRESULTS\n\nThe MRI of the lumbar spine was reviewed today. This revealed a disc herniation with nerve impingement.\n\nASSESSMENT\n\nL4-5 herniated disc with radiculopathy.\n\nPLAN\n\nAfter reviewing the patient's examination and MRI findings today, I have discussed with the patient that his symptoms are consistent with an L4-5 herniated disc with radiculopathy. I have recommended that we treat the patient conservatively with a corticosteroid injection under fluoroscopy. With the patient's consent, we will proceed with a cortisone injection into the lumbar spine today.",
+    "Larry Garcia is a pleasant 41-year-old male who presents to the clinic today for the evaluation of back pain.\n\nThe onset of his pain began 2 years ago, after moving furniture. He denies any specific injury. The patient describes his pain as sharp and stabbing. He locates his pain to his lower back, which radiates distally into his right leg and occasionally into his great toe. Sitting will increase his pain and he notes he is unable to get comfortable. The patient also reports numbness and tingling, especially in his right leg that radiates distally to his foot. He adds that he tries to be as active as he can, however it has been difficult with his back pain. The patient adds that he has gained weight over the past year. He denies any loss of sensation in his genital or rectal area, weakness, or loss of bladder or bowel control.\n\nIn the past, he has attended physical therapy. The patient has also been prescribed pain medications, however they only provided temporary relief. He would like to avoid any surgical procedure at this time. He quit smoking 20 years ago. The patient denies any family history of spine conditions. Constitutional: Reports weight gain.\nMusculoskeletal: Reports lower back pain.\nNeurological: Positive for numbness and tingling in the right leg and foot. Denies loss of bowl or bladder control, or loss of sensation in the genital or rectal area. ",
+    "Vitals are within normal limits. NEURO: Decreased sensation to light touch at the right lateral thigh at the L4 dermatome. Patellar and Achilles reflexes are symmetrical.\nMSK: Examination of the lumbar spine: No overlying erythema or ecchymosis. Midline tenderness at L4-5 disc space with right-sided lumbar paravertebral tenderness. Pain with lumbar flexion. Supine straight leg test is positive. The MRI of the lumbar spine was reviewed today. This revealed a disc herniation with nerve impingement. ",
+    "L4-5 herniated disc with radiculopathy. After reviewing the patient's examination and MRI findings today, I have discussed with the patient that his symptoms are consistent with an L4-5 herniated disc with radiculopathy. I have recommended that we treat the patient conservatively with a corticosteroid injection under fluoroscopy. With the patient's consent, we will proceed with a cortisone injection into the lumbar spine today. "
+  ]
+}

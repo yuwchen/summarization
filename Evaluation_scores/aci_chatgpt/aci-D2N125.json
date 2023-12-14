@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.445859872611465,
+    0.1879194630872483,
+    0.4306220095693781,
+    0.31451612903225806
+  ],
+  "rouge2": [
+    0.1597444089456869,
+    0.06802721088435375,
+    0.24154589371980675,
+    0.06504065040650407
+  ],
+  "rougeL": [
+    0.2356687898089172,
+    0.12080536912751677,
+    0.3062200956937799,
+    0.1935483870967742
+  ],
+  "rougeLsum": [
+    0.4012738853503185,
+    0.12080536912751677,
+    0.35406698564593303,
+    0.25
+  ],
+  "bertscore_precision": [
+    0.631885290145874,
+    0.4555242359638214,
+    0.6162475347518921,
+    0.6792271137237549
+  ],
+  "bertscore_recall": [
+    0.6154447197914124,
+    0.5054008960723877,
+    0.636600911617279,
+    0.5639819502830505
+  ],
+  "bertscore_f1": [
+    0.6235566735267639,
+    0.479168176651001,
+    0.626258909702301,
+    0.6162629127502441
+  ],
+  "bleurt": [
+    0.34829312562942505,
+    0.40775060653686523,
+    0.46120375394821167,
+    0.44814735651016235
+  ],
+  "pred_note": [
+    "\nHISTORY OF PRESENT ILLNESS\n  Mr. Edwards, a 54-year-old male, was evaluated for facial pain in his right cheek that was stabbing and shooting. He had the pain for the past two to three months, which gradually worsened, and he now had episodes of excruciating pain. The pain was confined to the right side of his face and was not accompanied by any numbness or weakness. The pain did not seem to be triggered by any specific activity, but certain temperatures or sensory inputs could aggravate the pain. Over-the-counter painkillers did not relieve his pain. Mr. Edwards presented to his family doctor, who referred him to a neurosurgeon.  \nPHYSICAL EXAM\n  Dr. Cruz conducted a physical examination on Mr. Edwards. The examination found no weakness or sensory loss in his right side of the face. The patient's smile, vision, and other facial expressions were normal. However, the cotton ball test showed some numbness on the right side of his face. The pinprick test showed that sharp sensations in the face were reduced on the right side of his face, compared to the left.   \nRESULTS\n  Dr. Cruz ordered an MRI and found that a small blood vessel was abutting and perhaps even pinching the trigeminal nerve, a nerve that comes from the brainstem that goes out to the face and provides sensory information. Dr. Cruz diagnosed Mr. Edwards with trigeminal neuralgia, a condition that causes shooting electrical pain in the face.  \nASSESSMENT AND PLAN\n  Dr. Cruz's plan was to start with medications (gabapentin or tegretol) that reduce the excitability of the nerve. If the medication was not effective, he recommended surgical intervention to decompress the nerve. Dr. Cruz prescribed tegretol for Mr. Edwards and scheduled a follow-up in one month to monitor the medication's effectiveness. If his pain did not subside after one month, they could consider surgical options to treat the pain.",
+    "Mr. Edwards, a 54-year-old male, was evaluated for facial pain in his right cheek that was stabbing and shooting. He had the pain for the past two to three months, which gradually worsened, and he now had episodes of excruciating pain. The pain was confined to the right side of his face and was not accompanied by any numbness or weakness. The pain did not seem to be triggered by any specific activity, but certain temperatures or sensory inputs could aggravate the pain. Over-the-counter painkillers did not relieve his pain. Mr. Edwards presented to his family doctor, who referred him to a neurosurgeon. ",
+    "Dr. Cruz conducted a physical examination on Mr. Edwards. The examination found no weakness or sensory loss in his right side of the face. The patient's smile, vision, and other facial expressions were normal. However, the cotton ball test showed some numbness on the right side of his face. The pinprick test showed that sharp sensations in the face were reduced on the right side of his face, compared to the left. Dr. Cruz ordered an MRI and found that a small blood vessel was abutting and perhaps even pinching the trigeminal nerve, a nerve that comes from the brainstem that goes out to the face and provides sensory information. Dr. Cruz diagnosed Mr. Edwards with trigeminal neuralgia, a condition that causes shooting electrical pain in the face. ",
+    "Dr. Cruz's plan was to start with medications (gabapentin or tegretol) that reduce the excitability of the nerve. If the medication was not effective, he recommended surgical intervention to decompress the nerve. Dr. Cruz prescribed tegretol for Mr. Edwards and scheduled a follow-up in one month to monitor the medication's effectiveness. If his pain did not subside after one month, they could consider surgical options to treat the pain. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nRight-sided facial pain.\n\nREVIEW OF SYSTEMS\n\nEyes: Denies vision changes or weakness in right eye.\nHENT: Reports right sided facial pain. Denies left sided facial pain. Neurological: Reports headaches. Denies sensory loss, numbness, or tingling in the right cheek. Denies right sided facial weakness.\n\nPHYSICAL EXAM\n\nNeurological\n- Orientation: Light touch testing of the right side of the face reveals numbness when compared to the contralateral side. Pinprick testing is sharp on the left side of the face; dull on the right side of the face.\n\nEars, Nose, Mouth, and Throat\nBilateral finger rub test is negative.\n- Examination of Mouth: Teeth are symmetric.\n\nRESULTS\n\nMRI of the head is reviewed today. This demonstrates a small blood vessel that is abutting, and perhaps even pinching, the right trigeminal nerve.\n\nASSESSMENT AND PLAN\n\n1. Trigeminal neuralgia.\n- Medical Reasoning: The patient has been experiencing facial pain for 2 to 3 months. A recent MRI revealed a small blood vessel abutting, or perhaps even pinching, the right trigeminal nerve. The root cause of his facial pain is the compression of the blood vessel against this nerve.\n- Patient Education and Counseling: The patient and I discussed treatment options including medicating with gabapentin or Tegretol. I explained the common side effects associated with these medications can include memory loss, tingling, and imbalance. We discussed the need for genetic testing due to the possible side effect of dermatologic reactions in people of East Asian descent. We also briefly discussed surgical treatment to decompress the nerve, but this is not recommended at this time.\n- Medical Treatment: A prescription for Tegretol will be sent to the patient\u2019s pharmacy.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n\nINSTRUCTIONS\n\nThe patient will follow up with me in 1 month. If at that time his facial pain persists, we may further discuss surgical options.",
+    "Right-sided facial pain. Eyes: Denies vision changes or weakness in right eye.\nHENT: Reports right sided facial pain. Denies left sided facial pain. Neurological: Reports headaches. Denies sensory loss, numbness, or tingling in the right cheek. Denies right sided facial weakness. ",
+    "Neurological\n- Orientation: Light touch testing of the right side of the face reveals numbness when compared to the contralateral side. Pinprick testing is sharp on the left side of the face; dull on the right side of the face.\n\nEars, Nose, Mouth, and Throat\nBilateral finger rub test is negative.\n- Examination of Mouth: Teeth are symmetric. MRI of the head is reviewed today. This demonstrates a small blood vessel that is abutting, and perhaps even pinching, the right trigeminal nerve. ",
+    "1. Trigeminal neuralgia.\n- Medical Reasoning: The patient has been experiencing facial pain for 2 to 3 months. A recent MRI revealed a small blood vessel abutting, or perhaps even pinching, the right trigeminal nerve. The root cause of his facial pain is the compression of the blood vessel against this nerve.\n- Patient Education and Counseling: The patient and I discussed treatment options including medicating with gabapentin or Tegretol. I explained the common side effects associated with these medications can include memory loss, tingling, and imbalance. We discussed the need for genetic testing due to the possible side effect of dermatologic reactions in people of East Asian descent. We also briefly discussed surgical treatment to decompress the nerve, but this is not recommended at this time.\n- Medical Treatment: A prescription for Tegretol will be sent to the patient\u2019s pharmacy.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. The patient will follow up with me in 1 month. If at that time his facial pain persists, we may further discuss surgical options. "
+  ]
+}

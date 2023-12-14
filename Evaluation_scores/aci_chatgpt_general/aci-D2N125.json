@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.43493761140819964,
+    0.12286689419795224,
+    0.24773413897280966,
+    0.4215456674473068
+  ],
+  "rouge2": [
+    0.1037567084078712,
+    0.03436426116838488,
+    0.060790273556231,
+    0.08941176470588236
+  ],
+  "rougeL": [
+    0.20320855614973263,
+    0.08191126279863481,
+    0.1510574018126888,
+    0.17798594847775176
+  ],
+  "rougeLsum": [
+    0.3351158645276292,
+    0.10238907849829353,
+    0.16314199395770393,
+    0.27634660421545665
+  ],
+  "bertscore_precision": [
+    0.6326494812965393,
+    0.422302782535553,
+    0.49606800079345703,
+    0.6291322708129883
+  ],
+  "bertscore_recall": [
+    0.570588231086731,
+    0.5385875105857849,
+    0.5627146363258362,
+    0.6578264832496643
+  ],
+  "bertscore_f1": [
+    0.600018322467804,
+    0.47340887784957886,
+    0.5272938013076782,
+    0.6431595087051392
+  ],
+  "bleurt": [
+    0.38790929317474365,
+    0.4651370644569397,
+    0.3919064998626709,
+    0.43261969089508057
+  ],
+  "pred_note": [
+    "Summary:\nThis dialogue is between a patient, Mr. Edwards, and Doctor Cruz. Mr. Edwards is a 54-year-old male who is seeking evaluation for facial pain. He describes the pain as stabbing and shooting, primarily located in his right cheekbone area. The pain can become intense and is sometimes triggered by certain temperatures or sensory stimuli. Mr. Edwards does not experience any numbness or tingling in his face, and there is no weakness or changes in vision. He has tried medications like ibuprofen and topical treatments like tiger balm, but they have not provided relief. The episodes of pain can last anywhere from a few minutes to an hour, with a peak severity of 10/10. The doctor performs a physical exam, finding normal motor and sensory functions, except for some numbness and a dull feeling on the right side of the face. Based on the results of an MRI, the doctor suspects trigeminal neuralgia, a condition caused by compression of the trigeminal nerve by a nearby blood vessel. The first line of treatment will be medications like gabapentin or tegretol to reduce the nerve's excitability. If these medications are not effective, surgical options may be considered. The doctor recommends starting with tegretol and informs Mr. Edwards about potential side effects such as memory loss, tingling, imbalance, and dermatological reactions. Genetic testing may be done to ensure safety. They agree to follow up in one month to evaluate the medication's effectiveness and discuss further treatment options if needed.",
+    "Summary:\nThis dialogue is between a patient, Mr. Edwards, and Doctor Cruz. Mr. Edwards is a 54-year-old male who is seeking evaluation for facial pain. He describes the pain as stabbing and shooting, primarily located in his right cheekbone area. The pain can become intense and is sometimes triggered by certain temperatures or sensory stimuli. Mr. Edwards does not experience any numbness or tingling in his face, and there is no weakness or changes in vision. He has tried medications like ibuprofen and topical treatments like tiger balm, but they have not provided relief. The episodes of pain can last anywhere from a few minutes to an hour, with a peak severity of 10/10. The doctor performs a physical exam, finding normal motor and sensory functions, except for some numbness and a dull feeling on the right side of the face. Based on the results of an MRI, the doctor suspects trigeminal neuralgia, a condition caused by compression of the trigeminal nerve by a nearby blood vessel. The first line of treatment will be medications like gabapentin or tegretol to reduce the nerve's excitability. If these medications are not effective, surgical options may be considered. The doctor recommends starting with tegretol and informs Mr. Edwards about potential side effects such as memory loss, tingling, imbalance, and dermatological reactions. Genetic testing may be done to ensure safety. They agree to follow up in one month to evaluate the medication's effectiveness and discuss further treatment options if needed.",
+    "Summary:\nThis dialogue is between a patient, Mr. Edwards, and Doctor Cruz. Mr. Edwards is a 54-year-old male who is seeking evaluation for facial pain. He describes the pain as stabbing and shooting, primarily located in his right cheekbone area. The pain can become intense and is sometimes triggered by certain temperatures or sensory stimuli. Mr. Edwards does not experience any numbness or tingling in his face, and there is no weakness or changes in vision. He has tried medications like ibuprofen and topical treatments like tiger balm, but they have not provided relief. The episodes of pain can last anywhere from a few minutes to an hour, with a peak severity of 10/10. The doctor performs a physical exam, finding normal motor and sensory functions, except for some numbness and a dull feeling on the right side of the face. Based on the results of an MRI, the doctor suspects trigeminal neuralgia, a condition caused by compression of the trigeminal nerve by a nearby blood vessel. The first line of treatment will be medications like gabapentin or tegretol to reduce the nerve's excitability. If these medications are not effective, surgical options may be considered. The doctor recommends starting with tegretol and informs Mr. Edwards about potential side effects such as memory loss, tingling, imbalance, and dermatological reactions. Genetic testing may be done to ensure safety. They agree to follow up in one month to evaluate the medication's effectiveness and discuss further treatment options if needed.",
+    "Summary:\nThis dialogue is between a patient, Mr. Edwards, and Doctor Cruz. Mr. Edwards is a 54-year-old male who is seeking evaluation for facial pain. He describes the pain as stabbing and shooting, primarily located in his right cheekbone area. The pain can become intense and is sometimes triggered by certain temperatures or sensory stimuli. Mr. Edwards does not experience any numbness or tingling in his face, and there is no weakness or changes in vision. He has tried medications like ibuprofen and topical treatments like tiger balm, but they have not provided relief. The episodes of pain can last anywhere from a few minutes to an hour, with a peak severity of 10/10. The doctor performs a physical exam, finding normal motor and sensory functions, except for some numbness and a dull feeling on the right side of the face. Based on the results of an MRI, the doctor suspects trigeminal neuralgia, a condition caused by compression of the trigeminal nerve by a nearby blood vessel. The first line of treatment will be medications like gabapentin or tegretol to reduce the nerve's excitability. If these medications are not effective, surgical options may be considered. The doctor recommends starting with tegretol and informs Mr. Edwards about potential side effects such as memory loss, tingling, imbalance, and dermatological reactions. Genetic testing may be done to ensure safety. They agree to follow up in one month to evaluate the medication's effectiveness and discuss further treatment options if needed."
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nRight-sided facial pain.\n\nREVIEW OF SYSTEMS\n\nEyes: Denies vision changes or weakness in right eye.\nHENT: Reports right sided facial pain. Denies left sided facial pain. Neurological: Reports headaches. Denies sensory loss, numbness, or tingling in the right cheek. Denies right sided facial weakness.\n\nPHYSICAL EXAM\n\nNeurological\n- Orientation: Light touch testing of the right side of the face reveals numbness when compared to the contralateral side. Pinprick testing is sharp on the left side of the face; dull on the right side of the face.\n\nEars, Nose, Mouth, and Throat\nBilateral finger rub test is negative.\n- Examination of Mouth: Teeth are symmetric.\n\nRESULTS\n\nMRI of the head is reviewed today. This demonstrates a small blood vessel that is abutting, and perhaps even pinching, the right trigeminal nerve.\n\nASSESSMENT AND PLAN\n\n1. Trigeminal neuralgia.\n- Medical Reasoning: The patient has been experiencing facial pain for 2 to 3 months. A recent MRI revealed a small blood vessel abutting, or perhaps even pinching, the right trigeminal nerve. The root cause of his facial pain is the compression of the blood vessel against this nerve.\n- Patient Education and Counseling: The patient and I discussed treatment options including medicating with gabapentin or Tegretol. I explained the common side effects associated with these medications can include memory loss, tingling, and imbalance. We discussed the need for genetic testing due to the possible side effect of dermatologic reactions in people of East Asian descent. We also briefly discussed surgical treatment to decompress the nerve, but this is not recommended at this time.\n- Medical Treatment: A prescription for Tegretol will be sent to the patient\u2019s pharmacy.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n\nINSTRUCTIONS\n\nThe patient will follow up with me in 1 month. If at that time his facial pain persists, we may further discuss surgical options.",
+    "Right-sided facial pain. Eyes: Denies vision changes or weakness in right eye.\nHENT: Reports right sided facial pain. Denies left sided facial pain. Neurological: Reports headaches. Denies sensory loss, numbness, or tingling in the right cheek. Denies right sided facial weakness. ",
+    "Neurological\n- Orientation: Light touch testing of the right side of the face reveals numbness when compared to the contralateral side. Pinprick testing is sharp on the left side of the face; dull on the right side of the face.\n\nEars, Nose, Mouth, and Throat\nBilateral finger rub test is negative.\n- Examination of Mouth: Teeth are symmetric. MRI of the head is reviewed today. This demonstrates a small blood vessel that is abutting, and perhaps even pinching, the right trigeminal nerve. ",
+    "1. Trigeminal neuralgia.\n- Medical Reasoning: The patient has been experiencing facial pain for 2 to 3 months. A recent MRI revealed a small blood vessel abutting, or perhaps even pinching, the right trigeminal nerve. The root cause of his facial pain is the compression of the blood vessel against this nerve.\n- Patient Education and Counseling: The patient and I discussed treatment options including medicating with gabapentin or Tegretol. I explained the common side effects associated with these medications can include memory loss, tingling, and imbalance. We discussed the need for genetic testing due to the possible side effect of dermatologic reactions in people of East Asian descent. We also briefly discussed surgical treatment to decompress the nerve, but this is not recommended at this time.\n- Medical Treatment: A prescription for Tegretol will be sent to the patient\u2019s pharmacy.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. The patient will follow up with me in 1 month. If at that time his facial pain persists, we may further discuss surgical options. "
+  ]
+}

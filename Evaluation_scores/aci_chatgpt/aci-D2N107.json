@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5120967741935484,
+    0.4636363636363636,
+    0.42276422764227645,
+    0.3125
+  ],
+  "rouge2": [
+    0.1781376518218623,
+    0.18348623853211007,
+    0.1487603305785124,
+    0.0634920634920635
+  ],
+  "rougeL": [
+    0.2741935483870968,
+    0.2636363636363636,
+    0.2926829268292683,
+    0.203125
+  ],
+  "rougeLsum": [
+    0.45967741935483875,
+    0.33636363636363636,
+    0.2926829268292683,
+    0.203125
+  ],
+  "bertscore_precision": [
+    0.6817564368247986,
+    0.7271036505699158,
+    0.6571523547172546,
+    0.6436350345611572
+  ],
+  "bertscore_recall": [
+    0.6735187768936157,
+    0.6322892904281616,
+    0.6916557550430298,
+    0.6897908449172974
+  ],
+  "bertscore_f1": [
+    0.6776126027107239,
+    0.6763899922370911,
+    0.6739627718925476,
+    0.6659141182899475
+  ],
+  "bleurt": [
+    0.435177206993103,
+    0.5519914627075195,
+    0.5345955491065979,
+    0.5898106098175049
+  ],
+  "pred_note": [
+    "\nHISTORY OF PRESENT ILLNESS\n The patient, Bryan, was raking leaves in his yard when he began to experience back pain and pins and needles in his right foot. This occurred about two hours after he finished raking the leaves. Bryan stated that he has experienced similar back pain once before, about three years ago, which resolved itself within a day. He has taken ice and two Advils for the current pain, but it provided no relief. Bryan described the pain as worse when he bends over than when standing up.  \nPHYSICAL EXAM\n Dr. _____ performed an examination of Bryan's low back area, asking Bryan to bend over and stand back up. There was pain during flexion, but no pain on extension. There was pain to palpation around the L5 vertebrae. Upon checking for dorsiflexion, Bryan's results were normal, with pulses equal in all extremities. Bryan mentioned that he was experiencing some tingling in his right leg.  \nRESULTS\n An x-ray was taken of Bryan's back which did not show anything abnormal.  \nASSESSMENT AND PLAN\n Dr. _____ believes Bryan's low back pain is due to a sprain, and will prescribe meloxicam to help with the pain. They will also prescribe physical therapy to help with stretching and exercise, as Bryan reported not being very active. If the pain doesn't improve, an MRI may be performed. Bryan's partner suggested getting an MRI immediately due to Bryan's recent surgery, but Dr. _____ suggests waiting two weeks before doing so.",
+    "The patient, Bryan, was raking leaves in his yard when he began to experience back pain and pins and needles in his right foot. This occurred about two hours after he finished raking the leaves. Bryan stated that he has experienced similar back pain once before, about three years ago, which resolved itself within a day. He has taken ice and two Advils for the current pain, but it provided no relief. Bryan described the pain as worse when he bends over than when standing up. ",
+    "Dr. _____ performed an examination of Bryan's low back area, asking Bryan to bend over and stand back up. There was pain during flexion, but no pain on extension. There was pain to palpation around the L5 vertebrae. Upon checking for dorsiflexion, Bryan's results were normal, with pulses equal in all extremities. Bryan mentioned that he was experiencing some tingling in his right leg. An x-ray was taken of Bryan's back which did not show anything abnormal. ",
+    "Dr. _____ believes Bryan's low back pain is due to a sprain, and will prescribe meloxicam to help with the pain. They will also prescribe physical therapy to help with stretching and exercise, as Bryan reported not being very active. If the pain doesn't improve, an MRI may be performed. Bryan's partner suggested getting an MRI immediately due to Bryan's recent surgery, but Dr. _____ suggests waiting two weeks before doing so. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nLow back pain.\n\nHISTORY OF PRESENT ILLNESS\n\nBryan Brooks is a pleasant 39-year-old male who presents to the clinic today for the evaluation of low back pain. He is accompanied today by his partner.\n\nApproximately 2 hours after he finished raking leaves yesterday, the patient began to feel a tightening sensation in his low back and tingling in his right foot. Prior to this, he recalls a similar episode approximately 3 years ago in which his symptoms resolved after 1 day. Ice and Advil provided no relief, but his pain is less severe when he is in a seated position and taking a hot shower helped alleviate his pain. The patient's partner reports that his pain seems to worsen when he stands up.\n\nREVIEW OF SYSTEMS\n\nMusculoskeletal: Reports low back pain.\nNeurological: Reports tingling in the right foot.\n\nPHYSICAL EXAM\n\nNEURO: Normal strength and sensation.\nMSK: Examination of the lumbar spine: No pain on extension. Some pain with flexion. Pain with palpation around L5. Dorsiflexion is normal. Pulses are equal in all extremities.\n\nRESULTS\n\nX-rays obtained and reviewed in office today were normal.\n\nASSESSMENT\n\nLow back sprain.\n\nPLAN\n\nThe examination findings and x-ray results were discussed with the patient and his partner today. I recommend we treat this conservatively with rest, meloxicam, and formal physical therapy. If he fails to improve, we can consider obtaining an MRI for further evaluation.\n\nINSTRUCTIONS\n\nThe patient will follow up in 2 weeks.",
+    "Low back pain. Bryan Brooks is a pleasant 39-year-old male who presents to the clinic today for the evaluation of low back pain. He is accompanied today by his partner.\n\nApproximately 2 hours after he finished raking leaves yesterday, the patient began to feel a tightening sensation in his low back and tingling in his right foot. Prior to this, he recalls a similar episode approximately 3 years ago in which his symptoms resolved after 1 day. Ice and Advil provided no relief, but his pain is less severe when he is in a seated position and taking a hot shower helped alleviate his pain. The patient's partner reports that his pain seems to worsen when he stands up. Musculoskeletal: Reports low back pain.\nNeurological: Reports tingling in the right foot. ",
+    "NEURO: Normal strength and sensation.\nMSK: Examination of the lumbar spine: No pain on extension. Some pain with flexion. Pain with palpation around L5. Dorsiflexion is normal. Pulses are equal in all extremities. X-rays obtained and reviewed in office today were normal. ",
+    "Low back sprain. The examination findings and x-ray results were discussed with the patient and his partner today. I recommend we treat this conservatively with rest, meloxicam, and formal physical therapy. If he fails to improve, we can consider obtaining an MRI for further evaluation. The patient will follow up in 2 weeks. "
+  ]
+}

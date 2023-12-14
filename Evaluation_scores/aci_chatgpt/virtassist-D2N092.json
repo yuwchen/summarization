@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.45970149253731346,
+    0.3783783783783784,
+    0.38554216867469876,
+    0.33870967741935487
+  ],
+  "rouge2": [
+    0.12612612612612614,
+    0.11009174311926605,
+    0.07407407407407408,
+    0.0983606557377049
+  ],
+  "rougeL": [
+    0.2865671641791045,
+    0.25225225225225223,
+    0.3373493975903615,
+    0.27419354838709675
+  ],
+  "rougeLsum": [
+    0.40597014925373137,
+    0.2702702702702703,
+    0.3373493975903615,
+    0.27419354838709675
+  ],
+  "bertscore_precision": [
+    0.6629086136817932,
+    0.7114271521568298,
+    0.6944668889045715,
+    0.6744015216827393
+  ],
+  "bertscore_recall": [
+    0.6847473978996277,
+    0.6543803811073303,
+    0.7627184987068176,
+    0.714720606803894
+  ],
+  "bertscore_f1": [
+    0.6736510396003723,
+    0.6817124485969543,
+    0.7269943356513977,
+    0.6939759254455566
+  ],
+  "bleurt": [
+    0.4617345333099365,
+    0.4344223141670227,
+    0.6111586689949036,
+    0.4544568657875061
+  ],
+  "pred_note": [
+    "\nHISTORY OF PRESENT ILLNESS\n A 43-year-old female presented with pain in the distal radius following a tennis injury. The patient mentioned that she was playing tennis when she hit the top of the net and jarred her arm. The patient reported some swelling but no numbness in the hand.   \nPHYSICAL EXAM\n The patient had some tenderness over her distal radius with pain when the physician pressed on it or moved it. There was also some pain when the physician stressed especially her thumb, and flexed her thumb.  \nRESULTS\n The X-ray of the arm showed no fractures or abnormalities.  \nASSESSMENT AND PLAN\n The patient has a strain and maybe a contusion to the muscle on the distal radius from hitting it on the net. The physician diagnosed the condition conservatively and instructed the patient to use ice for pain and swelling, along with Motrin 800mg three times a day with food. The physician also instructed the patient to follow up in a week if there is no improvement. The physician ordered procedures and medications as discussed.",
+    "A 43-year-old female presented with pain in the distal radius following a tennis injury. The patient mentioned that she was playing tennis when she hit the top of the net and jarred her arm. The patient reported some swelling but no numbness in the hand. ",
+    "The patient had some tenderness over her distal radius with pain when the physician pressed on it or moved it. There was also some pain when the physician stressed especially her thumb, and flexed her thumb. The X-ray of the arm showed no fractures or abnormalities. ",
+    "The patient has a strain and maybe a contusion to the muscle on the distal radius from hitting it on the net. The physician diagnosed the condition conservatively and instructed the patient to use ice for pain and swelling, along with Motrin 800mg three times a day with food. The physician also instructed the patient to follow up in a week if there is no improvement. The physician ordered procedures and medications as discussed. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT:\n\nRight arm pain.\n\nHPI:\n\nMs. Martinez is a 43-year-old female who presents today for an evaluation of right arm pain after she hitting her arm on a pole while playing tennis. She had mild swelling at the time. There is pain with motion. She denies any numbness or tingling in her hand. She has a past medical history of allergies and takes Flonase.\n\nEXAM\n\nExamination of the left wrist shows tenderness over the distal radius and pain with flexion of the wrist and thumb.\n\nRESULTS\n\nX-rays of the left wrist show no obvious signs of acute fracture or other abnormality.\n\nIMPRESSION\n\nRight wrist sprain.\n\nPLAN\n\nAt this point, I discussed the diagnosis and treatment options with the patient. I have recommended ice and anti-inflammatory medications. I am prescribing Motrin, 800 mg to take 3 times a day with food. She will follow up with me in 1 week or as needed.\n",
+    ":\n\nRight arm pain. :\n\nMs. Martinez is a 43-year-old female who presents today for an evaluation of right arm pain after she hitting her arm on a pole while playing tennis. She had mild swelling at the time. There is pain with motion. She denies any numbness or tingling in her hand. She has a past medical history of allergies and takes Flonase. ",
+    "Examination of the left wrist shows tenderness over the distal radius and pain with flexion of the wrist and thumb. X-rays of the left wrist show no obvious signs of acute fracture or other abnormality. ",
+    "Right wrist sprain. At this point, I discussed the diagnosis and treatment options with the patient. I have recommended ice and anti-inflammatory medications. I am prescribing Motrin, 800 mg to take 3 times a day with food. She will follow up with me in 1 week or as needed. "
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.4846526655896607,
+    0.3137254901960784,
+    0.5826771653543308,
+    0.39810426540284355
+  ],
+  "rouge2": [
+    0.17504051863857373,
+    0.05533596837944664,
+    0.31999999999999995,
+    0.1339712918660287
+  ],
+  "rougeL": [
+    0.2746365105008078,
+    0.17254901960784313,
+    0.44094488188976383,
+    0.24644549763033172
+  ],
+  "rougeLsum": [
+    0.39095315024232635,
+    0.18823529411764706,
+    0.45669291338582674,
+    0.24644549763033172
+  ],
+  "bertscore_precision": [
+    0.7114583253860474,
+    0.7060712575912476,
+    0.7503668665885925,
+    0.7623801231384277
+  ],
+  "bertscore_recall": [
+    0.6327306032180786,
+    0.5648532509803772,
+    0.7232955694198608,
+    0.6744303703308105
+  ],
+  "bertscore_f1": [
+    0.6697889566421509,
+    0.6276165843009949,
+    0.7365825772285461,
+    0.7157135009765625
+  ],
+  "bleurt": [
+    0.3636232018470764,
+    0.4180966019630432,
+    0.6013670563697815,
+    0.5964905619621277
+  ],
+  "pred_note": [
+    "\nHISTORY OF PRESENT ILLNESS\n The patient reports experiencing neck pain following a car accident that occurred a week ago. The patient's neck and head moved forward quickly when hit from behind, and they have been experiencing pain ever since. The pain is a seven on a scale from one to ten, and the pain is felt in the back of the neck. There is pain when the patient moves their neck, and headaches were experienced early on but not currently.  \nPHYSICAL EXAM\n The doctor performed a physical examination, palpating the soft tissues of the patient's neck and back. There was positive pain to palpation of the soft tissues of the neck but not the back or shoulders. There was also positive pain with flexion, severe positive pain to extension, positive pain with rotation, and positive pain on lateral bending.  \nRESULTS\n X-ray results showed no signs of fracture or bony abnormalities.  \nASSESSMENT AND PLAN\n The doctor believes that the patient has neck strain and will prescribe anti-inflammatory medication (motrin 600mg) and a muscle relaxant (flexeril 10mg) as needed. The patient is advised to avoid straining the neck further and to relax it as much as possible. An MRI will also be ordered to rule out a concussion, and referral to physical rehab or chiropractic treatment will be considered once MRI results are available.",
+    "The patient reports experiencing neck pain following a car accident that occurred a week ago. The patient's neck and head moved forward quickly when hit from behind, and they have been experiencing pain ever since. The pain is a seven on a scale from one to ten, and the pain is felt in the back of the neck. There is pain when the patient moves their neck, and headaches were experienced early on but not currently. ",
+    "The doctor performed a physical examination, palpating the soft tissues of the patient's neck and back. There was positive pain to palpation of the soft tissues of the neck but not the back or shoulders. There was also positive pain with flexion, severe positive pain to extension, positive pain with rotation, and positive pain on lateral bending. X-ray results showed no signs of fracture or bony abnormalities. ",
+    "The doctor believes that the patient has neck strain and will prescribe anti-inflammatory medication (motrin 600mg) and a muscle relaxant (flexeril 10mg) as needed. The patient is advised to avoid straining the neck further and to relax it as much as possible. An MRI will also be ordered to rule out a concussion, and referral to physical rehab or chiropractic treatment will be considered once MRI results are available. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nNeck pain\n\nHISTORY OF PRESENT ILLNESS\n\nJack Torres is a pleasant 40-year-old male who presents to the clinic today for the evaluation of neck pain. The onset of his pain began 1 week ago after he was involved in a motor vehicle accident. He states that he was hit in the back and experienced whiplash. Following the accident he did not present to the emergency room and he does not recall having any swelling or bruising at the neck. He localizes his pain to the posterior aspect of his neck. His pain level is rated at 7 out of 10. When taking ibuprofen he states his pain improves to 5 out of 10. He finds that neck range of motion exacerbates his pain. Initially after the accident he reports that he experienced a couple of headaches, but he states he has not had any recently. He denies any hearing problems or visual disturbances.\n\nSOCIAL HISTORY\n\nPatient reports that he played football years ago without any neck issues.\n\nREVIEW OF SYSTEMS\n\nEyes: Denies visual disturbances.\nHENT: Denies hearing loss.\nMusculoskeletal: Reports neck pain.\nNeurological: Denies headaches.\n\nPHYSICAL EXAM\n\nNECK: No swelling noted\nMSK: Examination of the cervical spine: Positive pain to palpation of the soft tissues of the neck. Shoulders and back are nontender to palpation. Positive pain with flexion, rotation, and lateral bending. Severe pain with extension.\n\nRESULTS\n\n3 views of the cervical spine were taken. These reveal no evidence of any fractures or bony abnormalities.\n\nASSESSMENT\n\nNeck strain.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. We discussed his x-rays did not reveal any signs of a fracture or bony abnormalities. Treatment options were discussed and conservative treatment has been recommended. He will begin taking Motrin 600 mg every 6 to 8 hours. A prescription for Flexeril 10 mg every 12 hours as needed was also provided. He was advised to be mindful of how he moves his neck and to be conservative to avoid straining his neck. I have also recommended that we obtain an MRI for further evaluation as the patient did not go to the emergency room following his accident. He will also be referred to either physical rehab or a chiropractor pending his MRI results.\n",
+    "Neck pain Jack Torres is a pleasant 40-year-old male who presents to the clinic today for the evaluation of neck pain. The onset of his pain began 1 week ago after he was involved in a motor vehicle accident. He states that he was hit in the back and experienced whiplash. Following the accident he did not present to the emergency room and he does not recall having any swelling or bruising at the neck. He localizes his pain to the posterior aspect of his neck. His pain level is rated at 7 out of 10. When taking ibuprofen he states his pain improves to 5 out of 10. He finds that neck range of motion exacerbates his pain. Initially after the accident he reports that he experienced a couple of headaches, but he states he has not had any recently. He denies any hearing problems or visual disturbances. Patient reports that he played football years ago without any neck issues. Eyes: Denies visual disturbances.\nHENT: Denies hearing loss.\nMusculoskeletal: Reports neck pain.\nNeurological: Denies headaches. ",
+    "NECK: No swelling noted\nMSK: Examination of the cervical spine: Positive pain to palpation of the soft tissues of the neck. Shoulders and back are nontender to palpation. Positive pain with flexion, rotation, and lateral bending. Severe pain with extension. 3 views of the cervical spine were taken. These reveal no evidence of any fractures or bony abnormalities. ",
+    "Neck strain. After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. We discussed his x-rays did not reveal any signs of a fracture or bony abnormalities. Treatment options were discussed and conservative treatment has been recommended. He will begin taking Motrin 600 mg every 6 to 8 hours. A prescription for Flexeril 10 mg every 12 hours as needed was also provided. He was advised to be mindful of how he moves his neck and to be conservative to avoid straining his neck. I have also recommended that we obtain an MRI for further evaluation as the patient did not go to the emergency room following his accident. He will also be referred to either physical rehab or a chiropractor pending his MRI results. "
+  ]
+}

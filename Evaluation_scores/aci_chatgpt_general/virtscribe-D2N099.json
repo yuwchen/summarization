@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.38888888888888895,
+    0.40625,
+    0.10434782608695652,
+    0.3154929577464789
+  ],
+  "rouge2": [
+    0.10452961672473868,
+    0.1413612565445026,
+    0.008771929824561403,
+    0.028328611898016994
+  ],
+  "rougeL": [
+    0.22569444444444445,
+    0.23958333333333334,
+    0.05217391304347826,
+    0.15211267605633802
+  ],
+  "rougeLsum": [
+    0.3229166666666667,
+    0.3020833333333333,
+    0.08695652173913045,
+    0.22535211267605634
+  ],
+  "bertscore_precision": [
+    0.6350299119949341,
+    0.6330969929695129,
+    0.4376995861530304,
+    0.5729811191558838
+  ],
+  "bertscore_recall": [
+    0.5788783431053162,
+    0.6447242498397827,
+    0.6049001216888428,
+    0.5964045524597168
+  ],
+  "bertscore_f1": [
+    0.6056554317474365,
+    0.6388577222824097,
+    0.5078930258750916,
+    0.5844582319259644
+  ],
+  "bleurt": [
+    0.4225943684577942,
+    0.3821180462837219,
+    0.39814478158950806,
+    0.34793341159820557
+  ],
+  "pred_note": [
+    "Patient Name: Randy Gutierrez\nDate of Birth: 8/10/2020\n\nSummary:\nThe doctor spoke with the patient's guest about Randy's symptoms. Randy has had a runny nose and stuffiness since last night. His mucus is currently clear. Randy also has a cough, pulls on his ears, and rubs his nose. He had a rectal temperature of 100.3, indicating a low-grade fever. Randy had a decreased appetite and seemed irritable. His energy level was high, but he had difficulty falling asleep. His older sister and a playmate with a sinus infection have been exposed to him. The guest has been using saline mist, Tylenol, baby Vick's, and a humidifier to alleviate Randy's symptoms. The doctor examined Randy's breathing, ears, and cradle cap. The cradle cap has worsened, and the guest has been using a cradle cap brush and regular Aveeno shampoo. The doctor prescribed medication for a potential barky cough and advised against giving honey. The guest also asked about treating cradle cap. The doctor recommended using regular strength dandruff shampoo twice a week and cautioned about avoiding contact with the eyes. The guest was instructed to monitor Randy's symptoms and return for a follow-up appointment.",
+    "Patient Name: Randy Gutierrez\nDate of Birth: 8/10/2020\n\nSummary:\nThe doctor spoke with the patient's guest about Randy's symptoms. Randy has had a runny nose and stuffiness since last night. His mucus is currently clear. Randy also has a cough, pulls on his ears, and rubs his nose. He had a rectal temperature of 100.3, indicating a low-grade fever. Randy had a decreased appetite and seemed irritable. His energy level was high, but he had difficulty falling asleep. His older sister and a playmate with a sinus infection have been exposed to him. The guest has been using saline mist, Tylenol, baby Vick's, and a humidifier to alleviate Randy's symptoms. The doctor examined Randy's breathing, ears, and cradle cap. The cradle cap has worsened, and the guest has been using a cradle cap brush and regular Aveeno shampoo. The doctor prescribed medication for a potential barky cough and advised against giving honey. The guest also asked about treating cradle cap. The doctor recommended using regular strength dandruff shampoo twice a week and cautioned about avoiding contact with the eyes. The guest was instructed to monitor Randy's symptoms and return for a follow-up appointment.",
+    "Patient Name: Randy Gutierrez\nDate of Birth: 8/10/2020\n\nSummary:\nThe doctor spoke with the patient's guest about Randy's symptoms. Randy has had a runny nose and stuffiness since last night. His mucus is currently clear. Randy also has a cough, pulls on his ears, and rubs his nose. He had a rectal temperature of 100.3, indicating a low-grade fever. Randy had a decreased appetite and seemed irritable. His energy level was high, but he had difficulty falling asleep. His older sister and a playmate with a sinus infection have been exposed to him. The guest has been using saline mist, Tylenol, baby Vick's, and a humidifier to alleviate Randy's symptoms. The doctor examined Randy's breathing, ears, and cradle cap. The cradle cap has worsened, and the guest has been using a cradle cap brush and regular Aveeno shampoo. The doctor prescribed medication for a potential barky cough and advised against giving honey. The guest also asked about treating cradle cap. The doctor recommended using regular strength dandruff shampoo twice a week and cautioned about avoiding contact with the eyes. The guest was instructed to monitor Randy's symptoms and return for a follow-up appointment.",
+    "Patient Name: Randy Gutierrez\nDate of Birth: 8/10/2020\n\nSummary:\nThe doctor spoke with the patient's guest about Randy's symptoms. Randy has had a runny nose and stuffiness since last night. His mucus is currently clear. Randy also has a cough, pulls on his ears, and rubs his nose. He had a rectal temperature of 100.3, indicating a low-grade fever. Randy had a decreased appetite and seemed irritable. His energy level was high, but he had difficulty falling asleep. His older sister and a playmate with a sinus infection have been exposed to him. The guest has been using saline mist, Tylenol, baby Vick's, and a humidifier to alleviate Randy's symptoms. The doctor examined Randy's breathing, ears, and cradle cap. The cradle cap has worsened, and the guest has been using a cradle cap brush and regular Aveeno shampoo. The doctor prescribed medication for a potential barky cough and advised against giving honey. The guest also asked about treating cradle cap. The doctor recommended using regular strength dandruff shampoo twice a week and cautioned about avoiding contact with the eyes. The guest was instructed to monitor Randy's symptoms and return for a follow-up appointment."
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nCough, nasal congestion, and rhinorrhea.\n\nHISTORY OF PRESENT ILLNESS\n\nRandy Gutierrez is a 9-month-old male who is being evaluated today for a cough, nasal congestion, and rhinorrhea. He is accompanied by his mother.\n\nSymptoms began yesterday around dinnertime with clear nasal drainage, pulling on his ears bilaterally, and rubbing his nose frequently. He does not have a barky cough or a sore throat. His rectal temperature was 100.3 degrees. The patient did consume a 7 ounce bottle this morning, but mostly denied the next offered bottle and declined cereal. He is irritable and having trouble falling asleep, described \u201clike he is fighting it\u201d.\n\nThe patient has been exposed to an older sister who is sick and a cousin who has a sinus infection.\n\nTreatment has included saline nasal spray, Tylenol, baby Vick's, and a humidifier. When the patient aroused this morning, he was warm to the touch. When his sleeper was removed, he was quite sweaty despite the air conditioner being on.\n\nThe patient's dandruff is also worsening. The only tried treatment is Aveeno shampoo.\n\nSOCIAL HISTORY\n\nOlder sister.\n\nCURRENT MEDICATIONS\n\nTylenol PRN.\n\nPHYSICAL EXAM\n\nTemperature 100.3 degrees.\n\nEars, Eyes, Nose, Throat\nNasal congestion, clear mucus, rhinorrhea. Bilateral pulling of ears, no sore throat or hoarseness.\n\nRespiratory\nPositive for cough.\n\nASSESSMENT\n\n\u2022 Viral infection\n\u2022 Dandruff\n\nPLAN\n\nViral infection\nThe patient presents with a viral infection and does not need antibiotics currently. I advised continuation of fluids, rest. Additionally, I suggested trying Zarbee\u2019s for children under 1 years old. If a croup cough develops, the patient will receive a 0.5 teaspoon.\n\nI also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.\n\nDandruff\nThe patient is experiencing worsening symptoms of dandruff. I recommended Head and Shoulders shampoo, Selsun Blue, or Nizoral A-D 2 times per week, combined with his usual shampoo. I counseled the mother that she should be careful not to get the shampoo in the patient eyes and to not use the extra strength shampoos. Additionally, he may also use baby oil and a soft brush on the area.\n\nINSTRUCTIONS\n\nReturn in one week for a re-check.\n",
+    "Cough, nasal congestion, and rhinorrhea. Randy Gutierrez is a 9-month-old male who is being evaluated today for a cough, nasal congestion, and rhinorrhea. He is accompanied by his mother.\n\nSymptoms began yesterday around dinnertime with clear nasal drainage, pulling on his ears bilaterally, and rubbing his nose frequently. He does not have a barky cough or a sore throat. His rectal temperature was 100.3 degrees. The patient did consume a 7 ounce bottle this morning, but mostly denied the next offered bottle and declined cereal. He is irritable and having trouble falling asleep, described \u201clike he is fighting it\u201d.\n\nThe patient has been exposed to an older sister who is sick and a cousin who has a sinus infection.\n\nTreatment has included saline nasal spray, Tylenol, baby Vick's, and a humidifier. When the patient aroused this morning, he was warm to the touch. When his sleeper was removed, he was quite sweaty despite the air conditioner being on.\n\nThe patient's dandruff is also worsening. The only tried treatment is Aveeno shampoo. Older sister. Tylenol PRN. ",
+    "Temperature 100.3 degrees.\n\nEars, Eyes, Nose, Throat\nNasal congestion, clear mucus, rhinorrhea. Bilateral pulling of ears, no sore throat or hoarseness.\n\nRespiratory\nPositive for cough. ",
+    "\u2022 Viral infection\n\u2022 Dandruff Viral infection\nThe patient presents with a viral infection and does not need antibiotics currently. I advised continuation of fluids, rest. Additionally, I suggested trying Zarbee\u2019s for children under 1 years old. If a croup cough develops, the patient will receive a 0.5 teaspoon.\n\nI also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.\n\nDandruff\nThe patient is experiencing worsening symptoms of dandruff. I recommended Head and Shoulders shampoo, Selsun Blue, or Nizoral A-D 2 times per week, combined with his usual shampoo. I counseled the mother that she should be careful not to get the shampoo in the patient eyes and to not use the extra strength shampoos. Additionally, he may also use baby oil and a soft brush on the area. Return in one week for a re-check. "
+  ]
+}
