@@ -45,7 +45,9 @@ python evalution_openai_mts.py
 python evalution_openai_soap_mts.py 
 
 ```
-
+```
+python count_num_token.py #cound number of token in the dir
+```
 ### Summarize evaluation scores
 ```
 python cross_domain_aci.py
