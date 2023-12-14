@@ -32,6 +32,7 @@ python run_flant5_seg.py    #run wanglab FLAN-T5 model on segmented ACI-BENCH da
 
 ### Run evaluation scores
 evaluation_{model_name}_{dataset}  
+
 sources: https://github.com/abachaa/MEDIQA-Chat-2023/blob/main/scripts/evaluate_summarization.py
 ```
 python evalution_gpt_aci.py          
