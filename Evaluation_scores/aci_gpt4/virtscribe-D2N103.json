@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5056179775280899,
+    0.408695652173913,
+    0.5974025974025975,
+    0.31404958677685946
+  ],
+  "rouge2": [
+    0.2030075187969925,
+    0.13157894736842105,
+    0.3157894736842105,
+    0.11764705882352941
+  ],
+  "rougeL": [
+    0.31086142322097376,
+    0.21739130434782608,
+    0.4805194805194805,
+    0.21487603305785125
+  ],
+  "rougeLsum": [
+    0.4382022471910112,
+    0.2956521739130435,
+    0.4935064935064935,
+    0.23140495867768593
+  ],
+  "bertscore_precision": [
+    0.6957623362541199,
+    0.6876669526100159,
+    0.7791784405708313,
+    0.6422781944274902
+  ],
+  "bertscore_recall": [
+    0.6543800830841064,
+    0.5749832987785339,
+    0.7279817461967468,
+    0.6353490352630615
+  ],
+  "bertscore_f1": [
+    0.6744369864463806,
+    0.6262969374656677,
+    0.7527105212211609,
+    0.6387948393821716
+  ],
+  "bleurt": [
+    0.3746054768562317,
+    0.47307848930358887,
+    0.55534827709198,
+    0.522726833820343
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS Ms. Sanchez is a 58-year-old female with a history of mitral regurgitation and atrial fibrillation, diabetes, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. She underwent mitral valve repair on 8/3/2020 and has been doing well from a cardiac standpoint since then. She reports occasional episodes of chest pain and dyspnea on exertion, which resolve with rest and do not interfere with her daily activities. She denies any new symptoms or complications.  \nPHYSICAL EXAM\n On examination, she is alert and oriented, with normal vital signs. Head and neck exam reveals no jugular venous distension. Chest exam reveals reduced breath sounds, but clear to auscultation and percussion. Cardiac exam reveals an irregularly irregular rhythm, with an accentuated S1 and no S3. Abdominal exam is benign. Extremities show trace peripheral edema.  \nRESULTS\n ECG taken on 12/26/2020 shows atrial fibrillation with a controlled ventricular response and T-wave inversion anteriorly, with no significant changes from the previous study.  \nASSESSMENT AND PLAN\n Ms. Sanchez is recovering well from her mitral valve repair and has no signs of heart failure or valve dysfunction. Her atrial fibrillation is well controlled with coumadin, lasix, and atenolol. She is advised to continue with her current medications and to monitor her symptoms and activity level. She is scheduled for a follow-up visit in six to nine months. She has no further questions or concerns.",
+    "Ms. Sanchez is a 58-year-old female with a history of mitral regurgitation and atrial fibrillation, diabetes, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. She underwent mitral valve repair on 8/3/2020 and has been doing well from a cardiac standpoint since then. She reports occasional episodes of chest pain and dyspnea on exertion, which resolve with rest and do not interfere with her daily activities. She denies any new symptoms or complications. ",
+    "On examination, she is alert and oriented, with normal vital signs. Head and neck exam reveals no jugular venous distension. Chest exam reveals reduced breath sounds, but clear to auscultation and percussion. Cardiac exam reveals an irregularly irregular rhythm, with an accentuated S1 and no S3. Abdominal exam is benign. Extremities show trace peripheral edema. ECG taken on 12/26/2020 shows atrial fibrillation with a controlled ventricular response and T-wave inversion anteriorly, with no significant changes from the previous study. ",
+    "Ms. Sanchez is recovering well from her mitral valve repair and has no signs of heart failure or valve dysfunction. Her atrial fibrillation is well controlled with coumadin, lasix, and atenolol. She is advised to continue with her current medications and to monitor her symptoms and activity level. She is scheduled for a follow-up visit in six to nine months. She has no further questions or concerns. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nStatus post mitral valve repair.\n\nHISTORY OF PRESENT ILLNESS\n\nMrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020.\n\nOn 09/17/20 we saw Mrs. Sanchez in office, and she was doing well and thus we recommended maintaining her current medications, she is using a reminder app to stay compliant with medications.\n\nThe patient reports feeling better and overall, pretty good. She denies experiencing new symptoms. She is still having chest pain intermittently, and her breathing \u201cgets shallow\u201d which results in her \u201cslowing down\u201d and decreasing her exertion. An episode of shortness of breath and chest pains may last a few minutes and will not recur for a few weeks.\n\nPAST HISTORY\n\nMedical\nMitral regurgitation.\nAtrial fibrillation.\nDiabetes Type II.\nAsthma.\n\nSurgical\nMitral valve repair 08/03/2020.\n\nCURRENT MEDICATIONS\n\nCoumadin 4 mg daily.\nLasix 40 mg daily.\nAtenolol 50 mg daily.\n\nPHYSICAL EXAM\n\nHead and Neck\nNo JVD detected.\n\nRespiratory\nLungs have reduced breath, but auscultation and percussion are clear.\n\nCardiovascular\nRhythm is irregularly irregular, S1 slightly accentuated, no S3.\n\nMusculoskeletal\nTrace peripheral edema on extremities.\n\nRESULTS\n\nECG, 12/26/2020.\nImpression: Atrial fibrillation with a controlled ventricular response, t-wave inversion anteriorly. Compared to the previous study, there are no significant changes. I also recommended that the patient continues to be active within her limits.\n\nASSESSMENT\n\n\u2022 Status post mitral valve repair\n\nMrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020.\n\nPLAN\n\nContinue with current medications. Coumadin 4 mg daily, Lasix 40 mg daily, and Atenolol 50 mg daily.\n\nINSTRUCTIONS\n\nReturn to clinic in 6-9 months.",
+    "Status post mitral valve repair. Mrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020.\n\nOn 09/17/20 we saw Mrs. Sanchez in office, and she was doing well and thus we recommended maintaining her current medications, she is using a reminder app to stay compliant with medications.\n\nThe patient reports feeling better and overall, pretty good. She denies experiencing new symptoms. She is still having chest pain intermittently, and her breathing \u201cgets shallow\u201d which results in her \u201cslowing down\u201d and decreasing her exertion. An episode of shortness of breath and chest pains may last a few minutes and will not recur for a few weeks. Medical\nMitral regurgitation.\nAtrial fibrillation.\nDiabetes Type II.\nAsthma.\n\nSurgical\nMitral valve repair 08/03/2020. Coumadin 4 mg daily.\nLasix 40 mg daily.\nAtenolol 50 mg daily. ",
+    "Head and Neck\nNo JVD detected.\n\nRespiratory\nLungs have reduced breath, but auscultation and percussion are clear.\n\nCardiovascular\nRhythm is irregularly irregular, S1 slightly accentuated, no S3.\n\nMusculoskeletal\nTrace peripheral edema on extremities. ECG, 12/26/2020.\nImpression: Atrial fibrillation with a controlled ventricular response, t-wave inversion anteriorly. Compared to the previous study, there are no significant changes. I also recommended that the patient continues to be active within her limits. ",
+    "\u2022 Status post mitral valve repair\n\nMrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020. Continue with current medications. Coumadin 4 mg daily, Lasix 40 mg daily, and Atenolol 50 mg daily. Return to clinic in 6-9 months. "
+  ]
+}

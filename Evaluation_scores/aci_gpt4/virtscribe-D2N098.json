@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5580448065173116,
+    0.3819095477386934,
+    0.7912087912087913,
+    0.4114285714285715
+  ],
+  "rouge2": [
+    0.3067484662576687,
+    0.16243654822335024,
+    0.6741573033707865,
+    0.19653179190751444
+  ],
+  "rougeL": [
+    0.3910386965376782,
+    0.2613065326633166,
+    0.7912087912087913,
+    0.3085714285714286
+  ],
+  "rougeLsum": [
+    0.5091649694501018,
+    0.30150753768844224,
+    0.7912087912087913,
+    0.3085714285714286
+  ],
+  "bertscore_precision": [
+    0.7075191736221313,
+    0.7519359588623047,
+    0.842589259147644,
+    0.6674396395683289
+  ],
+  "bertscore_recall": [
+    0.6803020238876343,
+    0.6329624652862549,
+    0.8379541039466858,
+    0.6593489050865173
+  ],
+  "bertscore_f1": [
+    0.6936437487602234,
+    0.6873388290405273,
+    0.8402652144432068,
+    0.6633695960044861
+  ],
+  "bleurt": [
+    0.40716731548309326,
+    0.501910388469696,
+    0.589176595211029,
+    0.5697953104972839
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS  Mr. James is a 63-year-old male who presents with chronic left shoulder and elbow pain for five months after a fall on ice. He reports constant pain that worsens with lifting weights and has limited his exercise routine. He has tried ice and rest but has not taken any medications for the pain. He denies any numbness or tingling in his upper extremity.  \nPHYSICAL EXAM\n  Left shoulder and elbow are tender to palpation, no warmth, erythema or deformity. Positive Hawkins-Kennedy and Neer's tests for impingement. Normal proximal and distal upper extremity strength. Intact median, radial and ulnar sensation and abduction to 90 degrees. Normal empty can test.  \nRESULTS\n  No imaging or laboratory tests were performed.  \nASSESSMENT AND PLAN\n  The patient is diagnosed with impingement syndrome of the left shoulder, likely due to the fall. The plan is to start with physical therapy two sessions per week and home exercises as prescribed by the therapist. If no improvement, consider cortisone injection. The patient is advised to continue ice and rest and to contact the clinic if symptoms worsen or do not improve. A referral is requested for Dr. Martha Rivera for physical therapy. The patient agrees with the plan and expresses appreciation for the help.",
+    "Mr. James is a 63-year-old male who presents with chronic left shoulder and elbow pain for five months after a fall on ice. He reports constant pain that worsens with lifting weights and has limited his exercise routine. He has tried ice and rest but has not taken any medications for the pain. He denies any numbness or tingling in his upper extremity. ",
+    "Left shoulder and elbow are tender to palpation, no warmth, erythema or deformity. Positive Hawkins-Kennedy and Neer's tests for impingement. Normal proximal and distal upper extremity strength. Intact median, radial and ulnar sensation and abduction to 90 degrees. Normal empty can test. No imaging or laboratory tests were performed. ",
+    "The patient is diagnosed with impingement syndrome of the left shoulder, likely due to the fall. The plan is to start with physical therapy two sessions per week and home exercises as prescribed by the therapist. If no improvement, consider cortisone injection. The patient is advised to continue ice and rest and to contact the clinic if symptoms worsen or do not improve. A referral is requested for Dr. Martha Rivera for physical therapy. The patient agrees with the plan and expresses appreciation for the help. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nLeft shoulder and elbow pain.\n\nHISTORY OF PRESENT ILLNESS\n\nMr. Jose James is a 64-year-old male who presents for left shoulder and elbow pain.\n\nThe patient reports falling on his hand while going up stairs 5 months ago and has been experiencing constant pain since. He admits he was continuing to complete strength training exercises at least 2 times per week, however, he was unable to lift more than 15-20 pounds due to the pain.\n\nDuring the past 1-2 weeks, Mr. James has discontinued strength training activities. Additionally, he has iced the inflicted areas, denies taking any pain medications, and reports his pain has slightly improved but it is still rather constant. He denies tingling and numbness.\n\nThe patient walks 30-minutes most days of the week.\n\nSOCIAL HISTORY\n\nRetired last year, was an office worker.\n\nPHYSICAL EXAM\n\nMusculoskeletal\nLeft shoulder and elbow, tender subacromial space. No warmth, erythema, or deformity. Positive Hawkins-Kennedy and Neer\u2019s test. Normal proximal and distal upper extremity strength. Intact median, radial, ulnar sensation. Abduction to 90 degrees. Normal empty can test.\n\nASSESSMENT\n\n\u2022 Impingement syndrome of left shoulder\n\nJose is a 64-year-old male who was seen today for impingement syndrome of his left shoulder, likely related to a fall he incurred 5 months ago.\n\nPLAN\n\nToday I discussed conservative options for left shoulder impingement with the patient, who opted to try physical therapy 2 session per week. Cortisone injection was discussed as an option if the physical therapy does not successfully reduce his pain. Additionally, I recommended continued ice and rest.\n\nINSTRUCTIONS\n\nemail, or call if symptoms worsen or do not resolve.\n",
+    "Left shoulder and elbow pain. Mr. Jose James is a 64-year-old male who presents for left shoulder and elbow pain.\n\nThe patient reports falling on his hand while going up stairs 5 months ago and has been experiencing constant pain since. He admits he was continuing to complete strength training exercises at least 2 times per week, however, he was unable to lift more than 15-20 pounds due to the pain.\n\nDuring the past 1-2 weeks, Mr. James has discontinued strength training activities. Additionally, he has iced the inflicted areas, denies taking any pain medications, and reports his pain has slightly improved but it is still rather constant. He denies tingling and numbness.\n\nThe patient walks 30-minutes most days of the week. Retired last year, was an office worker. ",
+    "Musculoskeletal\nLeft shoulder and elbow, tender subacromial space. No warmth, erythema, or deformity. Positive Hawkins-Kennedy and Neer\u2019s test. Normal proximal and distal upper extremity strength. Intact median, radial, ulnar sensation. Abduction to 90 degrees. Normal empty can test. ",
+    "\u2022 Impingement syndrome of left shoulder\n\nJose is a 64-year-old male who was seen today for impingement syndrome of his left shoulder, likely related to a fall he incurred 5 months ago. Today I discussed conservative options for left shoulder impingement with the patient, who opted to try physical therapy 2 session per week. Cortisone injection was discussed as an option if the physical therapy does not successfully reduce his pain. Additionally, I recommended continued ice and rest. email, or call if symptoms worsen or do not resolve. "
+  ]
+}

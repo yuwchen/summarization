@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5783783783783784,
+    0.5972222222222222,
+    0.4634146341463415,
+    0.47863247863247865
+  ],
+  "rouge2": [
+    0.2554347826086956,
+    0.295774647887324,
+    0.17499999999999996,
+    0.20869565217391306
+  ],
+  "rougeL": [
+    0.3837837837837838,
+    0.4583333333333333,
+    0.3170731707317073,
+    0.32478632478632485
+  ],
+  "rougeLsum": [
+    0.5135135135135136,
+    0.4722222222222222,
+    0.3170731707317073,
+    0.32478632478632485
+  ],
+  "bertscore_precision": [
+    0.7164030075073242,
+    0.7365482449531555,
+    0.6911872625350952,
+    0.7414673566818237
+  ],
+  "bertscore_recall": [
+    0.6974446773529053,
+    0.6561356782913208,
+    0.7827188968658447,
+    0.6762487888336182
+  ],
+  "bertscore_f1": [
+    0.7067967057228088,
+    0.6940204501152039,
+    0.734110951423645,
+    0.7073579430580139
+  ],
+  "bleurt": [
+    0.4341602921485901,
+    0.5276725888252258,
+    0.5366950631141663,
+    0.5212969183921814
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS  Ms. James is a 42-year-old female who presents with right index finger pain after a skiing accident last Saturday. She reports losing control and falling on the slope, and jamming her finger on something. She has taken ibuprofen without relief. She rates her pain as 7/10. She has no other injuries. She has a history of chronic constipation, for which she takes miralax. She had an appendectomy at age 7.  \nPHYSICAL EXAM\n  Vital signs are normal. Right hand x-ray shows no fractures or dislocations. Examination of the right index finger reveals tenderness and swelling over the distal interphalangeal (DIP) joint. There is pain with passive and active range of motion, and with compression of the joint.  \nRESULTS\n  The diagnosis is right index finger DIP joint sprain.  \nASSESSMENT AND PLAN\n  The patient is instructed to wear a splint on the right index finger for two weeks. She is prescribed mobic 15 mg once daily for 14 days. She is advised to follow up in two weeks for reevaluation and possible hand therapy. She has no questions and agrees with the plan.",
+    "Ms. James is a 42-year-old female who presents with right index finger pain after a skiing accident last Saturday. She reports losing control and falling on the slope, and jamming her finger on something. She has taken ibuprofen without relief. She rates her pain as 7/10. She has no other injuries. She has a history of chronic constipation, for which she takes miralax. She had an appendectomy at age 7. ",
+    "Vital signs are normal. Right hand x-ray shows no fractures or dislocations. Examination of the right index finger reveals tenderness and swelling over the distal interphalangeal (DIP) joint. There is pain with passive and active range of motion, and with compression of the joint. The diagnosis is right index finger DIP joint sprain. ",
+    "The patient is instructed to wear a splint on the right index finger for two weeks. She is prescribed mobic 15 mg once daily for 14 days. She is advised to follow up in two weeks for reevaluation and possible hand therapy. She has no questions and agrees with the plan. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT:\n\nRight index finger pain.\n\nHPI:\n\nMs. James is a 42-year-old female who presents today for an evaluation of right index finger pain. She states she injured it while skiing. She states she fell and jammed her finger. She took Ibuprofen on but it did not help her. She denies any icing it or wearing a splint. She rates her pain 7/10.\n\nCURRENT MEDICATIONS:\n\nMiraLAX\n\nPAST MEDICAL HISTORY:\n\nChronic constipation\n\nPAST SURGICAL HISTORY:\n\nAppendectomy at age 7.\n\nEXAM\n\nExamination of the right hand reveals pain to palpation of the MCP and DIP joints.\n\nRESULTS\n\nX-rays of the right index finger show no obvious signs of fracture.\n\nIMPRESSION\n\nRight index finger DIP joint sprain.\n\nPLAN\n\nAt this point, I discussed the diagnosis and treatment options with the patient. I have recommended a splint. A prescription is provided for Mobic 15 mg once a day, dispense 14. She will follow up with me in 2 weeks for a repeat evaluation. If she is unimproved, we will consider hand therapy at that time. All questions were answered.\n",
+    ":\n\nRight index finger pain. :\n\nMs. James is a 42-year-old female who presents today for an evaluation of right index finger pain. She states she injured it while skiing. She states she fell and jammed her finger. She took Ibuprofen on but it did not help her. She denies any icing it or wearing a splint. She rates her pain 7/10. :\n\nMiraLAX :\n\nChronic constipation\n\nPAST :\n\nAppendectomy at age 7. ",
+    "Examination of the right hand reveals pain to palpation of the MCP and DIP joints. X-rays of the right index finger show no obvious signs of fracture. ",
+    "Right index finger DIP joint sprain. At this point, I discussed the diagnosis and treatment options with the patient. I have recommended a splint. A prescription is provided for Mobic 15 mg once a day, dispense 14. She will follow up with me in 2 weeks for a repeat evaluation. If she is unimproved, we will consider hand therapy at that time. All questions were answered. "
+  ]
+}

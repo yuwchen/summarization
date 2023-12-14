@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.43830570902394106,
+    0.2388059701492537,
+    0.4264705882352941,
+    0.3548387096774194
+  ],
+  "rouge2": [
+    0.16635859519408505,
+    0.09090909090909091,
+    0.208955223880597,
+    0.13008130081300814
+  ],
+  "rougeL": [
+    0.25414364640883974,
+    0.1492537313432836,
+    0.338235294117647,
+    0.2419354838709677
+  ],
+  "rougeLsum": [
+    0.39042357274401474,
+    0.17910447761194026,
+    0.3529411764705882,
+    0.27419354838709675
+  ],
+  "bertscore_precision": [
+    0.6542633771896362,
+    0.4787173271179199,
+    0.6598464250564575,
+    0.74022376537323
+  ],
+  "bertscore_recall": [
+    0.615107536315918,
+    0.5324825644493103,
+    0.5851752161979675,
+    0.6129650473594666
+  ],
+  "bertscore_f1": [
+    0.6340815424919128,
+    0.5041705369949341,
+    0.620271623134613,
+    0.6706104874610901
+  ],
+  "bleurt": [
+    0.3693295121192932,
+    0.44552987813949585,
+    0.3903158903121948,
+    0.5039130449295044
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS Mr. Edwards is a 54-year-old male who presents with a history of right-sided facial pain for about two to three months. He describes the pain as stabbing, shooting, and excruciating, especially in the right cheekbone area. The pain is triggered by temperature changes, wind, and sometimes spontaneously. He has tried ibuprofen, motrin, and tiger balm without relief. He has no sensory loss, weakness, or other neurological symptoms. He has no history of multiple sclerosis, brain tumors, or migraines. He was referred by his family doctor to see a neurosurgeon.  \nPHYSICAL EXAM\n On examination, he has normal eye movements, facial symmetry, and hearing. He has mild sensory loss to light touch and dullness to pinprick on the right side of his face in the distribution of the trigeminal nerve.  \nRESULTS\n MRI of the brain shows a small blood vessel compressing the right trigeminal nerve at the root entry zone.  \nASSESSMENT AND PLAN\n The patient has a diagnosis of trigeminal neuralgia, likely due to vascular compression of the nerve. He is started on tegretol, with potential side effects of memory loss, tingling, imbalance, and skin rash. He is advised to undergo genetic testing to rule out any contraindications to the medication. He is scheduled for a follow-up visit in one month to evaluate the response to the medication and discuss surgical options if needed.",
+    "Mr. Edwards is a 54-year-old male who presents with a history of right-sided facial pain for about two to three months. He describes the pain as stabbing, shooting, and excruciating, especially in the right cheekbone area. The pain is triggered by temperature changes, wind, and sometimes spontaneously. He has tried ibuprofen, motrin, and tiger balm without relief. He has no sensory loss, weakness, or other neurological symptoms. He has no history of multiple sclerosis, brain tumors, or migraines. He was referred by his family doctor to see a neurosurgeon. ",
+    "On examination, he has normal eye movements, facial symmetry, and hearing. He has mild sensory loss to light touch and dullness to pinprick on the right side of his face in the distribution of the trigeminal nerve. MRI of the brain shows a small blood vessel compressing the right trigeminal nerve at the root entry zone. ",
+    "The patient has a diagnosis of trigeminal neuralgia, likely due to vascular compression of the nerve. He is started on tegretol, with potential side effects of memory loss, tingling, imbalance, and skin rash. He is advised to undergo genetic testing to rule out any contraindications to the medication. He is scheduled for a follow-up visit in one month to evaluate the response to the medication and discuss surgical options if needed. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nRight-sided facial pain.\n\nREVIEW OF SYSTEMS\n\nEyes: Denies vision changes or weakness in right eye.\nHENT: Reports right sided facial pain. Denies left sided facial pain. Neurological: Reports headaches. Denies sensory loss, numbness, or tingling in the right cheek. Denies right sided facial weakness.\n\nPHYSICAL EXAM\n\nNeurological\n- Orientation: Light touch testing of the right side of the face reveals numbness when compared to the contralateral side. Pinprick testing is sharp on the left side of the face; dull on the right side of the face.\n\nEars, Nose, Mouth, and Throat\nBilateral finger rub test is negative.\n- Examination of Mouth: Teeth are symmetric.\n\nRESULTS\n\nMRI of the head is reviewed today. This demonstrates a small blood vessel that is abutting, and perhaps even pinching, the right trigeminal nerve.\n\nASSESSMENT AND PLAN\n\n1. Trigeminal neuralgia.\n- Medical Reasoning: The patient has been experiencing facial pain for 2 to 3 months. A recent MRI revealed a small blood vessel abutting, or perhaps even pinching, the right trigeminal nerve. The root cause of his facial pain is the compression of the blood vessel against this nerve.\n- Patient Education and Counseling: The patient and I discussed treatment options including medicating with gabapentin or Tegretol. I explained the common side effects associated with these medications can include memory loss, tingling, and imbalance. We discussed the need for genetic testing due to the possible side effect of dermatologic reactions in people of East Asian descent. We also briefly discussed surgical treatment to decompress the nerve, but this is not recommended at this time.\n- Medical Treatment: A prescription for Tegretol will be sent to the patient\u2019s pharmacy.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n\nINSTRUCTIONS\n\nThe patient will follow up with me in 1 month. If at that time his facial pain persists, we may further discuss surgical options.",
+    "Right-sided facial pain. Eyes: Denies vision changes or weakness in right eye.\nHENT: Reports right sided facial pain. Denies left sided facial pain. Neurological: Reports headaches. Denies sensory loss, numbness, or tingling in the right cheek. Denies right sided facial weakness. ",
+    "Neurological\n- Orientation: Light touch testing of the right side of the face reveals numbness when compared to the contralateral side. Pinprick testing is sharp on the left side of the face; dull on the right side of the face.\n\nEars, Nose, Mouth, and Throat\nBilateral finger rub test is negative.\n- Examination of Mouth: Teeth are symmetric. MRI of the head is reviewed today. This demonstrates a small blood vessel that is abutting, and perhaps even pinching, the right trigeminal nerve. ",
+    "1. Trigeminal neuralgia.\n- Medical Reasoning: The patient has been experiencing facial pain for 2 to 3 months. A recent MRI revealed a small blood vessel abutting, or perhaps even pinching, the right trigeminal nerve. The root cause of his facial pain is the compression of the blood vessel against this nerve.\n- Patient Education and Counseling: The patient and I discussed treatment options including medicating with gabapentin or Tegretol. I explained the common side effects associated with these medications can include memory loss, tingling, and imbalance. We discussed the need for genetic testing due to the possible side effect of dermatologic reactions in people of East Asian descent. We also briefly discussed surgical treatment to decompress the nerve, but this is not recommended at this time.\n- Medical Treatment: A prescription for Tegretol will be sent to the patient\u2019s pharmacy.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. The patient will follow up with me in 1 month. If at that time his facial pain persists, we may further discuss surgical options. "
+  ]
+}

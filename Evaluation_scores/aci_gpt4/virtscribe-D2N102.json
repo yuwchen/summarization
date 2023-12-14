@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.4631268436578171,
+    0.4624277456647399,
+    0.41134751773049644,
+    0.3571428571428572
+  ],
+  "rouge2": [
+    0.1627218934911243,
+    0.14035087719298245,
+    0.12949640287769784,
+    0.11377245508982035
+  ],
+  "rougeL": [
+    0.2772861356932153,
+    0.3468208092485549,
+    0.19858156028368795,
+    0.25
+  ],
+  "rougeLsum": [
+    0.39823008849557523,
+    0.3468208092485549,
+    0.28368794326241137,
+    0.2738095238095238
+  ],
+  "bertscore_precision": [
+    0.6420416831970215,
+    0.7341009974479675,
+    0.6616342067718506,
+    0.712964653968811
+  ],
+  "bertscore_recall": [
+    0.6162908673286438,
+    0.6635713577270508,
+    0.5387433171272278,
+    0.6318856477737427
+  ],
+  "bertscore_f1": [
+    0.628902792930603,
+    0.6970566511154175,
+    0.5938981771469116,
+    0.6699811220169067
+  ],
+  "bleurt": [
+    0.38501012325286865,
+    0.5278575420379639,
+    0.4093253016471863,
+    0.48479777574539185
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS Mrs. Wood, a 42-year-old female, is an established patient who presented for a renal ultrasound because of hematuria. She reported passing two small stones last week and having episodes of bright red urine and dysuria for the past six weeks. She denied any flank pain or tenderness at present. She has a history of recurrent kidney stones and takes alavert 10 mg daily for allergies. She has no drug allergies.  \nPHYSICAL EXAM\n Vital signs are stable. Abdomen is soft and non-tender. No flank pain or masses palpated. GU exam is normal. Urine dipstick shows trace blood and normal other parameters.  \nRESULTS\n Renal ultrasound reveals a 6 mm non-obstructing left renal stone and normal right kidney. Bladder is empty post-void.  \nASSESSMENT AND PLAN\n The patient has hematuria due to chronic urolithiasis. She passed two stones last week and the bleeding has subsided. She has one remaining stone in the left kidney that is not causing obstruction or pain. No surgical intervention is indicated at this time. She was counseled on dietary and fluid intake modifications to reduce the risk of stone formation, such as increasing water intake, limiting sodium, oxalate, and animal protein intake, and avoiding sugary drinks. She was given a handout with detailed information and instructions. She was advised to follow up as needed and to seek emergency care if she develops severe pain or bright red blood in the urine. She had no further questions and was discharged in good condition.",
+    "Mrs. Wood, a 42-year-old female, is an established patient who presented for a renal ultrasound because of hematuria. She reported passing two small stones last week and having episodes of bright red urine and dysuria for the past six weeks. She denied any flank pain or tenderness at present. She has a history of recurrent kidney stones and takes alavert 10 mg daily for allergies. She has no drug allergies. ",
+    "Vital signs are stable. Abdomen is soft and non-tender. No flank pain or masses palpated. GU exam is normal. Urine dipstick shows trace blood and normal other parameters. Renal ultrasound reveals a 6 mm non-obstructing left renal stone and normal right kidney. Bladder is empty post-void. ",
+    "The patient has hematuria due to chronic urolithiasis. She passed two stones last week and the bleeding has subsided. She has one remaining stone in the left kidney that is not causing obstruction or pain. No surgical intervention is indicated at this time. She was counseled on dietary and fluid intake modifications to reduce the risk of stone formation, such as increasing water intake, limiting sodium, oxalate, and animal protein intake, and avoiding sugary drinks. She was given a handout with detailed information and instructions. She was advised to follow up as needed and to seek emergency care if she develops severe pain or bright red blood in the urine. She had no further questions and was discharged in good condition. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nHematuria.\nChronic urolithiasis.\n\nHISTORY OF PRESENT ILLNESS\n\nMrs. Kelly Wood is a 41-year-old female established patient with chronic urolithiasis who returns in follow up for renal ultrasound due to hematuria.\n\nThe patient reports having intermittent episodes of gross hematuria over the past several months. she states she had multiple voids in one day where the color of her urine was like cherry Kool-Aid last week; then passed 2 small stone like structures. Pain at the time was 8 out of 10 on a scale of 10. she currently denies any flank pain.\n\nCURRENT MEDICATIONS\n\nAlavert 10 mg tablet once daily.\n\nALLERGIES\n\nNo known drug allergies.\n\nPHYSICAL EXAM\n\nGenitourinary: Normal vaginal exam.\n\nRESULTS\n\nRenal Ultrasound\nImpression: Right kidney is 10 cm in length by 5 cm wide. There are no stones, masses, or hydronephrosis. The left kidney is 10.8 cm in length and 5 cm wide. There is a 6 mm left renal stone, non-obstructing. 533 ml pre void and 0 ml post void.\n\nUrine Dipstick without Micro\nColor: Yellow.\nAppearance: Clear.\nLeukocytes: Negative.\nNitrate: Negative.\nUrobilinogen: 0.2 EU/dL.\nProtein: Negative.\npH: 5.5\nBlood: Trace, intact.\nSpecific gravity: 1.020\nKetone: Negative.\nBilirubin: Negative.\nGlucose: Negative.\n\nASSESSMENT\n\n\u2022 Hematuria.\n\u2022 Chronic urolithiasis.\n\nMrs. Wood presents today for renal ultrasound. The patient has had recurrent episodes of hematuria over the past few months secondary to chronic urolithiasis. Mrs. Wood reports passing two small stone like structures last week. Urinalysis today was notable for only a trace amount of blood and the renal ultrasound revealed a 6 mm non-obstructing renal stone in the left kidney.\n\nPLAN\n\nNo surgical intervention is recommended, and the patient would like to discuss urolithiasis prevention. We had a very lengthy discussion with regards to urolithiasis formation and treating the underlying cause to prevent reoccurrence and associated potential dietary factors that could be involved with urolithiasis formation.\n\nIt is recommended that the patient maintain a healthy diet; limit salt, and animal protein. she should increase fluid consumption; adequate intake is half of her body weight in ounces of water daily and avoid sugary drinks. A copy of the dietary recommendations and avoidances was provided to the patient for reference. We will continue to monitor annually with renal ultrasound unless new symptoms develop. The patient voiced understanding and agreed with the recommended medical treatment plan.\n\nINSTRUCTIONS\n\nFollow up in 1 year with renal ultrasound, sooner should symptoms arise. Should you develop sudden onset of severe pain or gross hematuria go to the emergency room.\n",
+    "Hematuria.\nChronic urolithiasis. Mrs. Kelly Wood is a 41-year-old female established patient with chronic urolithiasis who returns in follow up for renal ultrasound due to hematuria.\n\nThe patient reports having intermittent episodes of gross hematuria over the past several months. she states she had multiple voids in one day where the color of her urine was like cherry Kool-Aid last week; then passed 2 small stone like structures. Pain at the time was 8 out of 10 on a scale of 10. she currently denies any flank pain. Alavert 10 mg tablet once daily. No known drug allergies. ",
+    "Genitourinary: Normal vaginal exam. Renal Ultrasound\nImpression: Right kidney is 10 cm in length by 5 cm wide. There are no stones, masses, or hydronephrosis. The left kidney is 10.8 cm in length and 5 cm wide. There is a 6 mm left renal stone, non-obstructing. 533 ml pre void and 0 ml post void.\n\nUrine Dipstick without Micro\nColor: Yellow.\nAppearance: Clear.\nLeukocytes: Negative.\nNitrate: Negative.\nUrobilinogen: 0.2 EU/dL.\nProtein: Negative.\npH: 5.5\nBlood: Trace, intact.\nSpecific gravity: 1.020\nKetone: Negative.\nBilirubin: Negative.\nGlucose: Negative. ",
+    "\u2022 Hematuria.\n\u2022 Chronic urolithiasis.\n\nMrs. Wood presents today for renal ultrasound. The patient has had recurrent episodes of hematuria over the past few months secondary to chronic urolithiasis. Mrs. Wood reports passing two small stone like structures last week. Urinalysis today was notable for only a trace amount of blood and the renal ultrasound revealed a 6 mm non-obstructing renal stone in the left kidney. No surgical intervention is recommended, and the patient would like to discuss urolithiasis prevention. We had a very lengthy discussion with regards to urolithiasis formation and treating the underlying cause to prevent reoccurrence and associated potential dietary factors that could be involved with urolithiasis formation.\n\nIt is recommended that the patient maintain a healthy diet; limit salt, and animal protein. she should increase fluid consumption; adequate intake is half of her body weight in ounces of water daily and avoid sugary drinks. A copy of the dietary recommendations and avoidances was provided to the patient for reference. We will continue to monitor annually with renal ultrasound unless new symptoms develop. The patient voiced understanding and agreed with the recommended medical treatment plan. Follow up in 1 year with renal ultrasound, sooner should symptoms arise. Should you develop sudden onset of severe pain or gross hematuria go to the emergency room. "
+  ]
+}

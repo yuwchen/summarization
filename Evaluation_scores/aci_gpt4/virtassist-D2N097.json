@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5408805031446541,
+    0.4491228070175439,
+    0.3902439024390244,
+    0.45643153526970953
+  ],
+  "rouge2": [
+    0.2870662460567823,
+    0.33215547703180215,
+    0.275,
+    0.13389121338912133
+  ],
+  "rougeL": [
+    0.31446540880503143,
+    0.32982456140350874,
+    0.2682926829268293,
+    0.2738589211618257
+  ],
+  "rougeLsum": [
+    0.5220125786163523,
+    0.4350877192982456,
+    0.36585365853658536,
+    0.3900414937759336
+  ],
+  "bertscore_precision": [
+    0.6783498525619507,
+    0.7793667316436768,
+    0.6955673694610596,
+    0.6551876068115234
+  ],
+  "bertscore_recall": [
+    0.6381832361221313,
+    0.616857647895813,
+    0.6530461311340332,
+    0.5693191885948181
+  ],
+  "bertscore_f1": [
+    0.65765380859375,
+    0.6886548399925232,
+    0.6736364364624023,
+    0.6092426180839539
+  ],
+  "bleurt": [
+    0.2690732181072235,
+    0.5099363327026367,
+    0.45166921615600586,
+    0.47841542959213257
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS The patient is a 66-year-old female with a past medical history significant for depression and hypertension who presents for her annual exam. She reports doing well overall, enjoying more social activities since getting vaccinated, and attending therapy once a week for her depression. She denies any chest pain, shortness of breath, abdominal pain, nausea, or vomiting. She has been monitoring her blood pressure at home and taking lisinopril as prescribed.  \nPHYSICAL EXAM\n Vital signs are within normal limits. The patient has a 2/6 systolic ejection murmur, clear lungs, and trace lower extremity edema bilaterally. No carotid bruits are appreciated. EKG is normal.  \nRESULTS\n The patient's blood work is pending. She is due for a mammogram.  \nASSESSMENT AND PLAN\n The patient has three problems depression, hypertension, and annual exam maintenance. For depression, the patient is doing well with therapy and does not require medication at this time. For hypertension, the patient is controlled on lisinopril and should continue to monitor her blood pressure at home and contact the provider if it rises. For annual exam maintenance, the patient should schedule a mammogram. The patient has no questions and is advised to take her medications as directed. She is scheduled for a follow-up visit in one year or sooner if needed.",
+    "The patient is a 66-year-old female with a past medical history significant for depression and hypertension who presents for her annual exam. She reports doing well overall, enjoying more social activities since getting vaccinated, and attending therapy once a week for her depression. She denies any chest pain, shortness of breath, abdominal pain, nausea, or vomiting. She has been monitoring her blood pressure at home and taking lisinopril as prescribed. ",
+    "Vital signs are within normal limits. The patient has a 2/6 systolic ejection murmur, clear lungs, and trace lower extremity edema bilaterally. No carotid bruits are appreciated. EKG is normal. The patient's blood work is pending. She is due for a mammogram. ",
+    "The patient has three problems depression, hypertension, and annual exam maintenance. For depression, the patient is doing well with therapy and does not require medication at this time. For hypertension, the patient is controlled on lisinopril and should continue to monitor her blood pressure at home and contact the provider if it rises. For annual exam maintenance, the patient should schedule a mammogram. The patient has no questions and is advised to take her medications as directed. She is scheduled for a follow-up visit in one year or sooner if needed. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nAnnual exam.\n\nHISTORY OF PRESENT ILLNESS\n\nElizabeth Peterson is a 66-year-old female with a past medical history significant for depression and hypertension, who presents for her annual exam. It has been a year since I last saw the patient.\n\nThe patient reports that she is doing well. She has been to multiple events now that she has been able to get vaccinated for COVID-19. She reports that she has been able to see her grandchildren again and attend birthday parties.\n\nRegarding her depression, she has been going to therapy once a week for the past year. She reports that she is starting to go in person rather than virtual, which has helped even more. The patient has a good support system at home with her husband and her children live down the street.\n\nThe patient reports that her blood pressure has been doing well. She has been using the blood pressure cuff once a day and her readings seem normal. She has continued to utilize Lisinopril 20 mg daily, as prescribed.\n\nThe patient endorses nasal congestion. She denies any other symptoms of chest pain, shortness of breath, abdominal pain, nausea, or vomiting.\n\nREVIEW OF SYSTEMS\n\n\u2022 Ears, Nose, Mouth and Throat: Endorses nasal congestion.\n\u2022 Cardiovascular: Denies chest pain or dyspnea.\n\u2022 Respiratory: Denies shortness of breath.\n\u2022 Psychiatric: Endorses depression.\n\nPHYSICAL EXAMINATION\n\n\u2022 Neck: No carotid bruits appreciable.\n\u2022 Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.\n\u2022 Cardiovascular: Slight 2/6 systolic ejection murmur, stable.\n\u2022 Musculoskeletal: Trace lower extremity edema bilaterally.\n\nRESULTS\n\nElectrocardiogram stable in comparison to last year.\n\nASSESSMENT AND PLAN\n\nElizabeth Peterson is a 66-year-old female with a past medical history significant for depression and hypertension. She presents today for her annual exam.\n\nDepression.\n\u2022 Medical Reasoning: She is doing well with weekly therapy. She also has a solid support system at home.\n\u2022 Medical Treatment: Continue with therapy and current management strategies. We will defer medication at this time.\n\nHypertension.\n\u2022 Medical Reasoning: This is well controlled based on daily home monitoring. She has been compliant with lisinopril.\n\u2022 Medical Treatment: Continue lisinopril 20 mg daily.\n\u2022 Patient Education and Counseling: I advised her to continue with daily home monitoring of her blood pressures. She will contact me via the patient portal for any elevation in these readings.\n\nHealthcare maintenance.\n\u2022 Medical Reasoning: She is due for her annual mammogram.\n\u2022 Additional Testing: We will order a mammogram for her.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n",
+    "Annual exam. Elizabeth Peterson is a 66-year-old female with a past medical history significant for depression and hypertension, who presents for her annual exam. It has been a year since I last saw the patient.\n\nThe patient reports that she is doing well. She has been to multiple events now that she has been able to get vaccinated for COVID-19. She reports that she has been able to see her grandchildren again and attend birthday parties.\n\nRegarding her depression, she has been going to therapy once a week for the past year. She reports that she is starting to go in person rather than virtual, which has helped even more. The patient has a good support system at home with her husband and her children live down the street.\n\nThe patient reports that her blood pressure has been doing well. She has been using the blood pressure cuff once a day and her readings seem normal. She has continued to utilize Lisinopril 20 mg daily, as prescribed.\n\nThe patient endorses nasal congestion. She denies any other symptoms of chest pain, shortness of breath, abdominal pain, nausea, or vomiting. \u2022 Ears, Nose, Mouth and Throat: Endorses nasal congestion.\n\u2022 Cardiovascular: Denies chest pain or dyspnea.\n\u2022 Respiratory: Denies shortness of breath.\n\u2022 Psychiatric: Endorses depression. ",
+    "\u2022 Neck: No carotid bruits appreciable.\n\u2022 Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.\n\u2022 Cardiovascular: Slight 2/6 systolic ejection murmur, stable.\n\u2022 Musculoskeletal: Trace lower extremity edema bilaterally. Electrocardiogram stable in comparison to last year. ",
+    "Elizabeth Peterson is a 66-year-old female with a past medical history significant for depression and hypertension. She presents today for her annual exam.\n\nDepression.\n\u2022 Medical Reasoning: She is doing well with weekly therapy. She also has a solid support system at home.\n\u2022 Medical Treatment: Continue with therapy and current management strategies. We will defer medication at this time.\n\nHypertension.\n\u2022 Medical Reasoning: This is well controlled based on daily home monitoring. She has been compliant with lisinopril.\n\u2022 Medical Treatment: Continue lisinopril 20 mg daily.\n\u2022 Patient Education and Counseling: I advised her to continue with daily home monitoring of her blood pressures. She will contact me via the patient portal for any elevation in these readings.\n\nHealthcare maintenance.\n\u2022 Medical Reasoning: She is due for her annual mammogram.\n\u2022 Additional Testing: We will order a mammogram for her.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. "
+  ]
+}

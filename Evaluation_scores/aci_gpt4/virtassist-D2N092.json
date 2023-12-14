@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5723270440251572,
+    0.5882352941176472,
+    0.5194805194805195,
+    0.47058823529411764
+  ],
+  "rouge2": [
+    0.20253164556962025,
+    0.32478632478632474,
+    0.16,
+    0.12
+  ],
+  "rougeL": [
+    0.42138364779874216,
+    0.5042016806722689,
+    0.4415584415584415,
+    0.3333333333333333
+  ],
+  "rougeLsum": [
+    0.5283018867924528,
+    0.5210084033613446,
+    0.4415584415584415,
+    0.3333333333333333
+  ],
+  "bertscore_precision": [
+    0.7003724575042725,
+    0.7791423201560974,
+    0.7458370923995972,
+    0.7267009615898132
+  ],
+  "bertscore_recall": [
+    0.7088955044746399,
+    0.7261699438095093,
+    0.7897946238517761,
+    0.7160549759864807
+  ],
+  "bertscore_f1": [
+    0.7046082615852356,
+    0.751724123954773,
+    0.76718670129776,
+    0.72133868932724
+  ],
+  "bleurt": [
+    0.4089694619178772,
+    0.4896245002746582,
+    0.5717886090278625,
+    0.5685341954231262
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS The patient is a 43-year-old female who presents with pain in her right distal radius after hitting it on the net while playing tennis. She reports some swelling and pain with wrist movement, but no numbness in her hand. She has a history of allergies and a previous surgery for a rake injury.  \nPHYSICAL EXAM\n The patient has tenderness over the right distal radius, especially with thumb stress and flexion. No deformity, crepitus, or fracture is appreciated. The rest of the exam is unremarkable.  \nRESULTS\n The x-ray of the right forearm shows no fracture or abnormality.  \nASSESSMENT AND PLAN\n The patient has a right distal radius strain and contusion, likely from the trauma. She is advised to use ice, anti-inflammatory medication (motrin 800 mg TID with food), and rest the arm. She is to follow up in a week if no improvement. The procedures and medications are ordered as discussed.",
+    "The patient is a 43-year-old female who presents with pain in her right distal radius after hitting it on the net while playing tennis. She reports some swelling and pain with wrist movement, but no numbness in her hand. She has a history of allergies and a previous surgery for a rake injury. ",
+    "The patient has tenderness over the right distal radius, especially with thumb stress and flexion. No deformity, crepitus, or fracture is appreciated. The rest of the exam is unremarkable. The x-ray of the right forearm shows no fracture or abnormality. ",
+    "The patient has a right distal radius strain and contusion, likely from the trauma. She is advised to use ice, anti-inflammatory medication (motrin 800 mg TID with food), and rest the arm. She is to follow up in a week if no improvement. The procedures and medications are ordered as discussed. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT:\n\nRight arm pain.\n\nHPI:\n\nMs. Martinez is a 43-year-old female who presents today for an evaluation of right arm pain after she hitting her arm on a pole while playing tennis. She had mild swelling at the time. There is pain with motion. She denies any numbness or tingling in her hand. She has a past medical history of allergies and takes Flonase.\n\nEXAM\n\nExamination of the left wrist shows tenderness over the distal radius and pain with flexion of the wrist and thumb.\n\nRESULTS\n\nX-rays of the left wrist show no obvious signs of acute fracture or other abnormality.\n\nIMPRESSION\n\nRight wrist sprain.\n\nPLAN\n\nAt this point, I discussed the diagnosis and treatment options with the patient. I have recommended ice and anti-inflammatory medications. I am prescribing Motrin, 800 mg to take 3 times a day with food. She will follow up with me in 1 week or as needed.\n",
+    ":\n\nRight arm pain. :\n\nMs. Martinez is a 43-year-old female who presents today for an evaluation of right arm pain after she hitting her arm on a pole while playing tennis. She had mild swelling at the time. There is pain with motion. She denies any numbness or tingling in her hand. She has a past medical history of allergies and takes Flonase. ",
+    "Examination of the left wrist shows tenderness over the distal radius and pain with flexion of the wrist and thumb. X-rays of the left wrist show no obvious signs of acute fracture or other abnormality. ",
+    "Right wrist sprain. At this point, I discussed the diagnosis and treatment options with the patient. I have recommended ice and anti-inflammatory medications. I am prescribing Motrin, 800 mg to take 3 times a day with food. She will follow up with me in 1 week or as needed. "
+  ]
+}

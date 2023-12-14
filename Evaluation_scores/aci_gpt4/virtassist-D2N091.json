@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.45384615384615384,
+    0.4647302904564316,
+    0.5517241379310345,
+    0.2303030303030303
+  ],
+  "rouge2": [
+    0.2471042471042471,
+    0.24267782426778242,
+    0.32941176470588235,
+    0.11042944785276074
+  ],
+  "rougeL": [
+    0.3,
+    0.2987551867219917,
+    0.36781609195402293,
+    0.20606060606060608
+  ],
+  "rougeLsum": [
+    0.423076923076923,
+    0.3817427385892116,
+    0.36781609195402293,
+    0.20606060606060608
+  ],
+  "bertscore_precision": [
+    0.6960715055465698,
+    0.7473233938217163,
+    0.7834776639938354,
+    0.6294195055961609
+  ],
+  "bertscore_recall": [
+    0.6256576180458069,
+    0.5771292448043823,
+    0.6681292653083801,
+    0.5306655168533325
+  ],
+  "bertscore_f1": [
+    0.658988893032074,
+    0.6512912511825562,
+    0.7212205529212952,
+    0.5758392214775085
+  ],
+  "bleurt": [
+    0.4116808772087097,
+    0.5282571315765381,
+    0.4954608678817749,
+    0.4250815510749817
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS Jerry is a 54 year old male with a past medical history of osteoporosis and multiple sclerosis who presents for an annual exam. He reports traveling a lot during the summer and having insomnia due to stress. He denies any chest pain, shortness of breath, or other symptoms. He has been taking fosamax for osteoporosis and a medication for multiple sclerosis as prescribed by his neurologist.  \nPHYSICAL EXAM\n Vital signs are normal. Heart and lungs are clear. He has some weakness of his lower extremities, more on the left than the right. He has some arthritic changes of the right knee.  \nRESULTS\n Right knee x-ray shows osteoarthritis.  \nASSESSMENT AND PLAN\n  - Osteoporosis Continue fosamax 1 tab per week, refill ordered. - Multiple sclerosis Continue to see neurologist and take medication, no changes needed. - Insomnia Discuss non-pharmacological strategies, such as relaxation, exercise, and sleep hygiene. - Follow up as needed.",
+    "Jerry is a 54 year old male with a past medical history of osteoporosis and multiple sclerosis who presents for an annual exam. He reports traveling a lot during the summer and having insomnia due to stress. He denies any chest pain, shortness of breath, or other symptoms. He has been taking fosamax for osteoporosis and a medication for multiple sclerosis as prescribed by his neurologist. ",
+    "Vital signs are normal. Heart and lungs are clear. He has some weakness of his lower extremities, more on the left than the right. He has some arthritic changes of the right knee. Right knee x-ray shows osteoarthritis. ",
+    "- Osteoporosis Continue fosamax 1 tab per week, refill ordered. - Multiple sclerosis Continue to see neurologist and take medication, no changes needed. - Insomnia Discuss non-pharmacological strategies, such as relaxation, exercise, and sleep hygiene. - Follow up as needed. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nAnnual exam.\n\nHISTORY OF PRESENT ILLNESS\n\nJerry Nguyen a 54-year-old male with a past medical history significant for osteoporosis, and multiple sclerosis, who presents for an annual exam.\n\nThe patient states he has been traveling all over the country. He notes it has been a stressful summer and adjusting to everything in the fall.\n\nThe patient reports a lack of sleep. He has tried melatonin, meditation, and stretching every morning, but nothing has helped.\n\nFor treatment of his osteoporosis, he is on Fosamax. He denies any issues with his joints. He denies any recent broken bones.\n\nRegarding his multiple sclerosis, he last saw the neurologist 6 months ago. He is taking his medication and denies any issues with this. Previously, he experienced right leg weakness, however, this has resolved.\n\nHe does have some lingering issues with his right knee after previous surgery, but nothing out of the ordinary.\n\nThe patient denies any chest pain or shortness of breath.\n\nREVIEW OF SYSTEMS\n\n\u2022 Cardiovascular: Denies chest pain or dyspnea.\n\u2022 Respiratory: Denies shortness of breath.\n\u2022 Musculoskeletal: Endorses right knee discomfort.\n\u2022 Neurological: Endorses insomnia.\n\nPHYSICAL EXAMINATION\n\n\u2022 Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.\n\u2022 Musculoskeletal: Weakness in the lower extremities, 4/5 on the right and 3/5 on the left. Reflexes are good. Arthritic changes in the right knee.\n\nRESULTS\n\nX-ray of the right knee demonstrates some arthritic changes.\n\nASSESSMENT\n\nJerry Nguyen a 54-year-old male with a past medical history significant for osteoporosis, and multiple sclerosis, who presents for an annual exam.\n\nPLAN\n\nOsteoporosis.\n\u2022 Medical Reasoning: The patient is doing well with Fosamax.\n\u2022 Medical Treatment: Continue Fosamax 1 tab per week. Eleven refills were ordered today.\n\nMultiple Sclerosis.\n\u2022 Medical Reasoning: The patient is experiencing weakness of the bilateral lower extremities. He has been seeing his neurologist on a consistent basis and has been compliant with medication.\n\u2022 Medical Treatment: He will continue to follow up with his neurologist and comply with his medication regimen.\n\nRight knee arthritis.\n\u2022 Medical Reasoning: The patient recently underwent knee surgery. A recent right knee x-ray demonstrated some arthritic changes.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n",
+    "Annual exam. Jerry Nguyen a 54-year-old male with a past medical history significant for osteoporosis, and multiple sclerosis, who presents for an annual exam.\n\nThe patient states he has been traveling all over the country. He notes it has been a stressful summer and adjusting to everything in the fall.\n\nThe patient reports a lack of sleep. He has tried melatonin, meditation, and stretching every morning, but nothing has helped.\n\nFor treatment of his osteoporosis, he is on Fosamax. He denies any issues with his joints. He denies any recent broken bones.\n\nRegarding his multiple sclerosis, he last saw the neurologist 6 months ago. He is taking his medication and denies any issues with this. Previously, he experienced right leg weakness, however, this has resolved.\n\nHe does have some lingering issues with his right knee after previous surgery, but nothing out of the ordinary.\n\nThe patient denies any chest pain or shortness of breath. \u2022 Cardiovascular: Denies chest pain or dyspnea.\n\u2022 Respiratory: Denies shortness of breath.\n\u2022 Musculoskeletal: Endorses right knee discomfort.\n\u2022 Neurological: Endorses insomnia. ",
+    "\u2022 Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.\n\u2022 Musculoskeletal: Weakness in the lower extremities, 4/5 on the right and 3/5 on the left. Reflexes are good. Arthritic changes in the right knee. X-ray of the right knee demonstrates some arthritic changes. ",
+    "Jerry Nguyen a 54-year-old male with a past medical history significant for osteoporosis, and multiple sclerosis, who presents for an annual exam. Osteoporosis.\n\u2022 Medical Reasoning: The patient is doing well with Fosamax.\n\u2022 Medical Treatment: Continue Fosamax 1 tab per week. Eleven refills were ordered today.\n\nMultiple Sclerosis.\n\u2022 Medical Reasoning: The patient is experiencing weakness of the bilateral lower extremities. He has been seeing his neurologist on a consistent basis and has been compliant with medication.\n\u2022 Medical Treatment: He will continue to follow up with his neurologist and comply with his medication regimen.\n\nRight knee arthritis.\n\u2022 Medical Reasoning: The patient recently underwent knee surgery. A recent right knee x-ray demonstrated some arthritic changes.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. "
+  ]
+}

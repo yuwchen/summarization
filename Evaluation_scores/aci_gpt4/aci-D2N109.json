@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5152838427947598,
+    0.3125,
+    0.49006622516556286,
+    0.45263157894736844
+  ],
+  "rouge2": [
+    0.21021897810218976,
+    0.12698412698412698,
+    0.2550335570469799,
+    0.1693121693121693
+  ],
+  "rougeL": [
+    0.296943231441048,
+    0.203125,
+    0.3841059602649007,
+    0.2842105263157895
+  ],
+  "rougeLsum": [
+    0.4978165938864629,
+    0.203125,
+    0.4503311258278146,
+    0.39473684210526316
+  ],
+  "bertscore_precision": [
+    0.655390739440918,
+    0.6009262800216675,
+    0.6973770260810852,
+    0.6807326674461365
+  ],
+  "bertscore_recall": [
+    0.6415784955024719,
+    0.681703507900238,
+    0.6035574078559875,
+    0.5867314338684082
+  ],
+  "bertscore_f1": [
+    0.6484110951423645,
+    0.6387712955474854,
+    0.6470842361450195,
+    0.6302462220191956
+  ],
+  "bleurt": [
+    0.3917139172554016,
+    0.479513943195343,
+    0.4910455346107483,
+    0.5093262791633606
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS Stephanie Morales is a 36-year-old female who presents with left ankle pain after slipping on ice two days ago. She reports twisting her ankle on the outside and falling down. She has been taking ibuprofen, ice, and elevation for pain and swelling, with minimal relief. She denies any pain above her ankle, bleeding, or other injuries. She has a history of diabetes and hypertension, which are well controlled with metformin and norvasc. She is due for an eye exam for her diabetes in the next couple of weeks.  \nPHYSICAL EXAM\n Vital signs are stable. Neck exam is normal, no bruits. Lungs are clear. Heart exam reveals a 2/6 systolic ejection murmur, unchanged from previous. Abdomen is soft and nontender. Left ankle exam shows tenderness over the lateral malleolus and the fifth metatarsal, swelling, redness, and pain with valgus stress. Sensation and pulses are intact.  \nRESULTS\n Ankle x-ray is ordered to rule out fracture. Hemoglobin A1c and other baseline labs are ordered for diabetes and hypertension management.  \nASSESSMENT AND PLAN\n The most likely diagnosis is ankle sprain, but fracture cannot be excluded. The patient is placed in an air splint and given crutches, and advised to avoid weightbearing until x-ray results are available. She is prescribed naprosyn 500 mg twice a day for pain control, and instructed to continue ice and elevation. She will be contacted if the x-ray shows a fracture and referred to orthopedics. Otherwise, she will be advised to remove the air splint and do partial weightbearing as tolerated. She is encouraged to keep her eye appointment for diabetes, and to continue with her metformin and norvasc. She is given a refill for norvasc and a follow-up appointment in four weeks. She is educated about the signs and symptoms of infection, compartment syndrome, and deep vein thrombosis, and instructed to call the office or go to the emergency department if she develops any of them.",
+    "Stephanie Morales is a 36-year-old female who presents with left ankle pain after slipping on ice two days ago. She reports twisting her ankle on the outside and falling down. She has been taking ibuprofen, ice, and elevation for pain and swelling, with minimal relief. She denies any pain above her ankle, bleeding, or other injuries. She has a history of diabetes and hypertension, which are well controlled with metformin and norvasc. She is due for an eye exam for her diabetes in the next couple of weeks. ",
+    "Vital signs are stable. Neck exam is normal, no bruits. Lungs are clear. Heart exam reveals a 2/6 systolic ejection murmur, unchanged from previous. Abdomen is soft and nontender. Left ankle exam shows tenderness over the lateral malleolus and the fifth metatarsal, swelling, redness, and pain with valgus stress. Sensation and pulses are intact. Ankle x-ray is ordered to rule out fracture. Hemoglobin A1c and other baseline labs are ordered for diabetes and hypertension management. ",
+    "The most likely diagnosis is ankle sprain, but fracture cannot be excluded. The patient is placed in an air splint and given crutches, and advised to avoid weightbearing until x-ray results are available. She is prescribed naprosyn 500 mg twice a day for pain control, and instructed to continue ice and elevation. She will be contacted if the x-ray shows a fracture and referred to orthopedics. Otherwise, she will be advised to remove the air splint and do partial weightbearing as tolerated. She is encouraged to keep her eye appointment for diabetes, and to continue with her metformin and norvasc. She is given a refill for norvasc and a follow-up appointment in four weeks. She is educated about the signs and symptoms of infection, compartment syndrome, and deep vein thrombosis, and instructed to call the office or go to the emergency department if she develops any of them. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nLeft ankle pain.\n\nMEDICAL HISTORY\n\nPatient reports history significant for type 2 diabetes and hypertension.\n\nMEDICATIONS\n\nPatient reports taking metformin and Norvasc.\n\nREVIEW OF SYSTEMS\n\nMusculoskeletal: Reports left ankle pain and swelling.\\ Denies left calf pain, lower left leg pain, or left knee pain.\n\nVITALS\n\nBlood pressure: 120/70 mmHg\n\nPHYSICAL EXAM\n\nNeurological\n- Examination: Sensation intact in left lower extremity.\n\nNeck\n- General Examination: No bruits.\n\nRespiratory\n- Auscultation of Lungs: Clear bilaterally.\n\nCardiovascular\n- Examination: Pulses are normal in left lower extremity.\n- Auscultation of Heart: 2/6 systolic ejection murmur, unchanged from previous exam.\n\nMusculoskeletal\n- Examination of the left ankle: Tender to palpation over the lateral malleolus and fifth metatarsal. Trace edema. Mild erythema. Pain with valgus stress testing.\n\nRESULTS\n\nHemoglobin A1c: 6.8\n\nASSESSMENT AND PLAN\n\n1. Left ankle pain.\n- Medical Reasoning: Given the nature of her injury, I believe this is an ankle sprain.\n- Patient Education and Counseling: I advised the patient that I will contact her with the results of her x-ray, and that if these reveal a fracture, we will put in a referral to orthopedics for further evaluation.\n- Medical Treatment: X-ray ordered to rule out fracture. We will place her in an air splint and have her ambulate with crutches to avoid weightbearing until we get the x-ray results. She will start Naprosyn 500 mg twice daily for pain control. Continue with ice and elevation.\n\n2. Diabetes type 2.\n- Medical Reasoning: This appears to be well controlled with her current regimen.\n- Patient Education and Counseling: I encouraged her to keep her appointment with ophthalmology for her diabetic eye exam.\n- Medical Treatment: We will keep her on her current dose of metformin and order a repeat hemoglobin A1c. We will also obtain a set of baseline labs.\n\n3. Hypertension.\n- Medical Reasoning: She is doing well with Norvasc.\n- Patient Education and Counseling: I encouraged her to continue with home monitoring and knows to contact the office if needed.\n- Medical Treatment: We will keep her on her current dose of Norvasc. A refill was sent for this today.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n",
+    "Left ankle pain. Patient reports history significant for type 2 diabetes and hypertension. Patient reports taking metformin and Norvasc. Musculoskeletal: Reports left ankle pain and swelling.\\ Denies left calf pain, lower left leg pain, or left knee pain. ",
+    "Blood pressure: 120/70 mmHg Neurological\n- Examination: Sensation intact in left lower extremity.\n\nNeck\n- General Examination: No bruits.\n\nRespiratory\n- Auscultation of Lungs: Clear bilaterally.\n\nCardiovascular\n- Examination: Pulses are normal in left lower extremity.\n- Auscultation of Heart: 2/6 systolic ejection murmur, unchanged from previous exam.\n\nMusculoskeletal\n- Examination of the left ankle: Tender to palpation over the lateral malleolus and fifth metatarsal. Trace edema. Mild erythema. Pain with valgus stress testing. Hemoglobin A1c: 6.8 ",
+    "1. Left ankle pain.\n- Medical Reasoning: Given the nature of her injury, I believe this is an ankle sprain.\n- Patient Education and Counseling: I advised the patient that I will contact her with the results of her x-ray, and that if these reveal a fracture, we will put in a referral to orthopedics for further evaluation.\n- Medical Treatment: X-ray ordered to rule out fracture. We will place her in an air splint and have her ambulate with crutches to avoid weightbearing until we get the x-ray results. She will start Naprosyn 500 mg twice daily for pain control. Continue with ice and elevation.\n\n2. Diabetes type 2.\n- Medical Reasoning: This appears to be well controlled with her current regimen.\n- Patient Education and Counseling: I encouraged her to keep her appointment with ophthalmology for her diabetic eye exam.\n- Medical Treatment: We will keep her on her current dose of metformin and order a repeat hemoglobin A1c. We will also obtain a set of baseline labs.\n\n3. Hypertension.\n- Medical Reasoning: She is doing well with Norvasc.\n- Patient Education and Counseling: I encouraged her to continue with home monitoring and knows to contact the office if needed.\n- Medical Treatment: We will keep her on her current dose of Norvasc. A refill was sent for this today.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. "
+  ]
+}

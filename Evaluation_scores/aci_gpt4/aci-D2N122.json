@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5296251511487304,
+    0.3977900552486188,
+    0.5217391304347826,
+    0.4843749999999999
+  ],
+  "rouge2": [
+    0.22787878787878788,
+    0.1340782122905028,
+    0.28947368421052627,
+    0.18324607329842932
+  ],
+  "rougeL": [
+    0.2998790810157195,
+    0.1988950276243094,
+    0.3652173913043478,
+    0.2916666666666667
+  ],
+  "rougeLsum": [
+    0.48609431680773885,
+    0.1988950276243094,
+    0.43478260869565216,
+    0.36979166666666663
+  ],
+  "bertscore_precision": [
+    0.6523952484130859,
+    0.617076575756073,
+    0.7614351511001587,
+    0.6942502856254578
+  ],
+  "bertscore_recall": [
+    0.6424596309661865,
+    0.6580299735069275,
+    0.6311956644058228,
+    0.6191036105155945
+  ],
+  "bertscore_f1": [
+    0.64738929271698,
+    0.6368955969810486,
+    0.69022536277771,
+    0.6545270681381226
+  ],
+  "bleurt": [
+    0.3749796748161316,
+    0.46352672576904297,
+    0.5373420715332031,
+    0.5304916501045227
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS  The patient is a 52-year-old male who presented with a cough that was diagnosed as bronchitis by his primary care provider. A chest x-ray revealed a lung nodule that was confirmed by a CT scan. He was referred to the thoracic surgery clinic for further evaluation. He has no symptoms of pain, shortness of breath, or hemoptysis. He has a history of rheumatoid arthritis that is managed with methotrexate. He quit smoking seven years ago after a 20-pack-year history. He has no family history of lung cancer. He is an avid cyclist and enjoys riding on the trails.  \nPHYSICAL EXAM\n  The patient is alert and oriented. His vital signs are stable. His lungs are clear and equal bilaterally. His heart is regular and without murmurs. His skin is pink, warm, and dry. He has some swelling of his third finger knuckles consistent with his RA. His pulses are intact and his capillary refill is brisk. He has no edema or clubbing.  \nRESULTS\n  The chest CT scan showed a solitary 2 cm nodule in the lateral aspect of the right upper lobe. The nodule is smooth and without calcifications or spiculations. There is no evidence of lymphadenopathy, pleural effusion, or emphysema.  \nASSESSMENT AND PLAN\n  The patient has an incidentally found right upper lobe lung nodule that is suspicious for malignancy given his smoking history. He will undergo pulmonary function tests and a PET-CT scan to assess his lung function and the metabolic activity of the nodule. He will be scheduled for a video-assisted thoracoscopic surgery (VATS) to remove the nodule and a wedge resection of the lung. He will be admitted for one night and have a chest tube until the next day. He will be counseled on the risks and benefits of the procedure and the possible outcomes. He will continue to follow up with his rheumatologist for his RA and take his methotrexate as prescribed. He will be encouraged to maintain his physical activity and quit smoking. He will be reassured and supported by the surgical team.",
+    "The patient is a 52-year-old male who presented with a cough that was diagnosed as bronchitis by his primary care provider. A chest x-ray revealed a lung nodule that was confirmed by a CT scan. He was referred to the thoracic surgery clinic for further evaluation. He has no symptoms of pain, shortness of breath, or hemoptysis. He has a history of rheumatoid arthritis that is managed with methotrexate. He quit smoking seven years ago after a 20-pack-year history. He has no family history of lung cancer. He is an avid cyclist and enjoys riding on the trails. ",
+    "The patient is alert and oriented. His vital signs are stable. His lungs are clear and equal bilaterally. His heart is regular and without murmurs. His skin is pink, warm, and dry. He has some swelling of his third finger knuckles consistent with his RA. His pulses are intact and his capillary refill is brisk. He has no edema or clubbing. The chest CT scan showed a solitary 2 cm nodule in the lateral aspect of the right upper lobe. The nodule is smooth and without calcifications or spiculations. There is no evidence of lymphadenopathy, pleural effusion, or emphysema. ",
+    "The patient has an incidentally found right upper lobe lung nodule that is suspicious for malignancy given his smoking history. He will undergo pulmonary function tests and a PET-CT scan to assess his lung function and the metabolic activity of the nodule. He will be scheduled for a video-assisted thoracoscopic surgery (VATS) to remove the nodule and a wedge resection of the lung. He will be admitted for one night and have a chest tube until the next day. He will be counseled on the risks and benefits of the procedure and the possible outcomes. He will continue to follow up with his rheumatologist for his RA and take his methotrexate as prescribed. He will be encouraged to maintain his physical activity and quit smoking. He will be reassured and supported by the surgical team. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nCough.\n\nMEDICAL HISTORY\n\nPatient reports a history of rheumatoid arthritis. He denies any previous history of lung infections or pneumonia.\n\nSOCIAL HISTORY\n\nPatient reports he stopped smoking tobacco 7 years ago and has felt better since doing so. He notes that he enjoys biking.\n\nFAMILY HISTORY\n\nPatient reports his mother has a history of breast cancer, but is doing well. He denies any family history of lung cancer.\n\nMEDICATIONS\n\nPatient reports taking methotrexate 7.5 mg every week.\n\nREVIEW OF SYSTEMS\n\nRespiratory: Denies cough or shortness of breath.\n\nVITALS\n\nBlood Pressure: 124/76 mmHg.\nHeart Rate: 70 beats per minute.\nRespiratory Rate: 16 breaths per minute.\nOxygen Saturation: 98% on room air.\nBody Temperature: Afebrile.\n\nPHYSICAL EXAM\n\nRespiratory\n- Auscultation of Lungs: Clear and equal bilaterally.\n\nCardiovascular\n- Auscultation of Heart: Regular rate and rhythm. No clicks, rubs, or murmurs. Pulses are intact in all extremities.\n\nMusculoskeletal\n- Examination: No lower extremity edema. Mild swelling to the 3rd digit knuckles on the bilateral hands, consistent with RA.\n\nIntegumentary\n- Examination: Skin is pink, warm, and dry. Capillary refill is brisk.\n\nRESULTS\n\nCT scan of chest, obtained at an outside facility, is reviewed today and demonstrates a solitary 2 cm nodule in the lateral aspect of the right upper lobe. It appears the nodule is smooth in appearance. No evidence of any type of emphysematous disease is present.\n\nASSESSMENT AND PLAN\n\n1. Right upper lobe lung nodule.\n- Medical Reasoning: The patient has incidentally found right upper lobe lung nodule visible on his chest CT. It could be a benign nodule, but because of his smoking history, I think it is best that he has it surgically removed.\n- Patient Education and Counseling: I had a thorough discussion with the patient concerning surgical treatment. Surgery will require general anesthesia and will take approximately 1.5 hours. I explained to the patient that his procedure will consist of 3 small incisions being made on the side of his right chest. I will then insert a camera and scope to assist in removing the nodule along with a very small portion of his lung. He was advised that he will be admitted for most likely an overnight stay. He will have a chest tube in until the following day when I remove it at his bedside. All questions were answered.\n- Medical Treatment: Pulmonary function test ordered today to obtain patient's baseline. PET CT will also be scheduled to determine if the nodule is metabolically active, which can suggest if it is cancerous or inflammatory. Nodule will be removed via video assisted thoracoscopy.\n\n2. Rheumatoid arthritis.\n- Medical Reasoning: Stable.\n- Patient Education and Counseling: I encouraged the patient to continue to follow up with his rheumatologist.\n- Medical Treatment: Continue medication therapy and routine follow up with rheumatologist as previously outlined.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n",
+    "Cough. Patient reports a history of rheumatoid arthritis. He denies any previous history of lung infections or pneumonia. Patient reports he stopped smoking tobacco 7 years ago and has felt better since doing so. He notes that he enjoys biking. Patient reports his mother has a history of breast cancer, but is doing well. He denies any family history of lung cancer. Patient reports taking methotrexate 7.5 mg every week. Respiratory: Denies cough or shortness of breath. ",
+    "Blood Pressure: 124/76 mmHg.\nHeart Rate: 70 beats per minute.\nRespiratory Rate: 16 breaths per minute.\nOxygen Saturation: 98% on room air.\nBody Temperature: Afebrile. Respiratory\n- Auscultation of Lungs: Clear and equal bilaterally.\n\nCardiovascular\n- Auscultation of Heart: Regular rate and rhythm. No clicks, rubs, or murmurs. Pulses are intact in all extremities.\n\nMusculoskeletal\n- Examination: No lower extremity edema. Mild swelling to the 3rd digit knuckles on the bilateral hands, consistent with RA.\n\nIntegumentary\n- Examination: Skin is pink, warm, and dry. Capillary refill is brisk. CT scan of chest, obtained at an outside facility, is reviewed today and demonstrates a solitary 2 cm nodule in the lateral aspect of the right upper lobe. It appears the nodule is smooth in appearance. No evidence of any type of emphysematous disease is present. ",
+    "1. Right upper lobe lung nodule.\n- Medical Reasoning: The patient has incidentally found right upper lobe lung nodule visible on his chest CT. It could be a benign nodule, but because of his smoking history, I think it is best that he has it surgically removed.\n- Patient Education and Counseling: I had a thorough discussion with the patient concerning surgical treatment. Surgery will require general anesthesia and will take approximately 1.5 hours. I explained to the patient that his procedure will consist of 3 small incisions being made on the side of his right chest. I will then insert a camera and scope to assist in removing the nodule along with a very small portion of his lung. He was advised that he will be admitted for most likely an overnight stay. He will have a chest tube in until the following day when I remove it at his bedside. All questions were answered.\n- Medical Treatment: Pulmonary function test ordered today to obtain patient's baseline. PET CT will also be scheduled to determine if the nodule is metabolically active, which can suggest if it is cancerous or inflammatory. Nodule will be removed via video assisted thoracoscopy.\n\n2. Rheumatoid arthritis.\n- Medical Reasoning: Stable.\n- Patient Education and Counseling: I encouraged the patient to continue to follow up with his rheumatologist.\n- Medical Treatment: Continue medication therapy and routine follow up with rheumatologist as previously outlined.\n\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan. "
+  ]
+}

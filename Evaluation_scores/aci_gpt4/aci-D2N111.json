@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.4580152671755725,
+    0.40131578947368424,
+    0.47407407407407404,
+    0.3510971786833856
+  ],
+  "rouge2": [
+    0.20153061224489796,
+    0.1920529801324503,
+    0.22556390977443608,
+    0.1451104100946372
+  ],
+  "rougeL": [
+    0.2824427480916031,
+    0.2631578947368421,
+    0.4,
+    0.23824451410658307
+  ],
+  "rougeLsum": [
+    0.42748091603053434,
+    0.3223684210526316,
+    0.4148148148148148,
+    0.2884012539184953
+  ],
+  "bertscore_precision": [
+    0.7114861607551575,
+    0.762420654296875,
+    0.737094521522522,
+    0.714314341545105
+  ],
+  "bertscore_recall": [
+    0.6553829908370972,
+    0.6032325029373169,
+    0.6821851134300232,
+    0.5754359364509583
+  ],
+  "bertscore_f1": [
+    0.6822831630706787,
+    0.6735486388206482,
+    0.7085776925086975,
+    0.6373980045318604
+  ],
+  "bleurt": [
+    0.33604303002357483,
+    0.5056400895118713,
+    0.5420082211494446,
+    0.5638121366500854
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS The patient is a 45-year-old male who presented with right knee pain after landing on a trampoline a week ago. He heard a pop and felt immediate pain on the lateral aspect of his knee. He has been taking Tylenol for pain relief but with no significant improvement. He has a history of hypertension and diabetes, which he is not managing well. He does not exercise regularly or follow a specific diet.  \nPHYSICAL EXAM\n The patient's vital signs are BP 180/80, HR 72, RR 16, T 36.8. His heart sounds are normal and his lungs are clear. His right knee has ecchymosis and edema on the lateral side, but no effusion or deformity. He has pain with palpation and movement of the knee. He has a limp when walking.  \nRESULTS\n The right knee x-ray showed no fracture or bony abnormality.  \nASSESSMENT AND PLAN\n The patient has a lateral ligament strain of the right knee, hypertension, and diabetes. The plan is to prescribe meloxicam 15 mg daily for pain and swelling, refer to physical therapy for knee rehabilitation, order an echo for hypertension evaluation, continue lisinopril 20 mg daily, order an A1C and lipid panel for diabetes management, and advise the patient to monitor his blood pressure and blood sugars more regularly, exercise more, and follow a low-salt and low-carb diet.",
+    "The patient is a 45-year-old male who presented with right knee pain after landing on a trampoline a week ago. He heard a pop and felt immediate pain on the lateral aspect of his knee. He has been taking Tylenol for pain relief but with no significant improvement. He has a history of hypertension and diabetes, which he is not managing well. He does not exercise regularly or follow a specific diet. ",
+    "The patient's vital signs are BP 180/80, HR 72, RR 16, T 36.8. His heart sounds are normal and his lungs are clear. His right knee has ecchymosis and edema on the lateral side, but no effusion or deformity. He has pain with palpation and movement of the knee. He has a limp when walking. The right knee x-ray showed no fracture or bony abnormality. ",
+    "The patient has a lateral ligament strain of the right knee, hypertension, and diabetes. The plan is to prescribe meloxicam 15 mg daily for pain and swelling, refer to physical therapy for knee rehabilitation, order an echo for hypertension evaluation, continue lisinopril 20 mg daily, order an A1C and lipid panel for diabetes management, and advise the patient to monitor his blood pressure and blood sugars more regularly, exercise more, and follow a low-salt and low-carb diet. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nRight knee injury.\n\nHISTORY OF PRESENT ILLNESS\n\nWilliam Russell is a pleasant 57-year-old male who presents to the clinic today for the evaluation of a right knee injury. He has a past medical history significant for hypertension and type 2 diabetes.\n\nApproximately 1 week ago, the patient sustained an injury to his right knee while at a trampoline park. He explains that he was jumping on a trampoline when he heard a snap, followed by instant pain in the lateral aspect of his knee. This is not a common activity for him, and he admits that he is inconsistent with exercise. As far as treatment, he has been elevating his knee and taking Tylenol without significant relief of his pain. He has not tried applying heat or ice to the area.\n\nIn terms of his hypertension, the patient admits that he did not purchase a blood pressure cuff as previously recommended. While he does not monitor his blood pressures at home, he has been compliant with lisinopril 20 mg.\n\nHis diabetes appears to be stable based on home monitoring, although he is only checking his blood glucose levels 4 to 5 times per week. He does not follow any specific diet plan, but he does try to make healthier choices such as limiting his carbohydrate intake. He has also been taking his metformin 500 mg as prescribed.\n\nREVIEW OF SYSTEMS\n\nMusculoskeletal: Reports right knee pain.\n\nVITALS\n\nBlood pressure: 180/80 mmHg\n\nPHYSICAL EXAM\n\nCV: Regular rate and rhythm. No murmurs.\nRESPIRATORY:\nLungs are clear bilaterally.\nMSK: Examination of the right knee: Mild tenderness to palpation at the lateral aspect. Ecchymosis and edema along the lateral aspect. No effusion. Decent range of motion. Pain with movement.\n\nRESULTS\n\nX-rays of the right knee were obtained and reviewed. These reveal no evidence of fracture or bony abnormality.\n\nASSESSMENT\n\n1. Right knee pain, lateral ligament strain.\n2. Hypertension.\n3. Diabetes type 2.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, his symptoms appear to be consistent with a lateral ligament strain of the right knee. I am going to prescribe meloxicam 15 mg once daily for pain and swelling. I also put in a referral for physical therapy so he can work on strengthening the muscles around the area and prevent any further injury. We can consider further imaging if he continues to have pain, but I explained that this is a common injury that typically heals on it's own.\n\nFor his hypertension, I'm concerned that his blood pressure is not well controlled at this time, so we may need to modify his medication. I'm going to order an echocardiogram for further evaluation, but I want him to continue taking his lisinopril 20 mg for now.\n\nFor his diabetes, he stated that he has been measuring his blood glucose levels 4 to 5 times per week, but I want him to start measuring them 2 to 3 times per day. His hemoglobin A1c levels should provide more detail as far as his long-term progress so we will order that today. I'm also going to order a lipid panel and we can determine if any adjustments need to be made to his medication. In the meantime, he should continue taking metformin 500 mg.\n",
+    "Right knee injury. William Russell is a pleasant 57-year-old male who presents to the clinic today for the evaluation of a right knee injury. He has a past medical history significant for hypertension and type 2 diabetes.\n\nApproximately 1 week ago, the patient sustained an injury to his right knee while at a trampoline park. He explains that he was jumping on a trampoline when he heard a snap, followed by instant pain in the lateral aspect of his knee. This is not a common activity for him, and he admits that he is inconsistent with exercise. As far as treatment, he has been elevating his knee and taking Tylenol without significant relief of his pain. He has not tried applying heat or ice to the area.\n\nIn terms of his hypertension, the patient admits that he did not purchase a blood pressure cuff as previously recommended. While he does not monitor his blood pressures at home, he has been compliant with lisinopril 20 mg.\n\nHis diabetes appears to be stable based on home monitoring, although he is only checking his blood glucose levels 4 to 5 times per week. He does not follow any specific diet plan, but he does try to make healthier choices such as limiting his carbohydrate intake. He has also been taking his metformin 500 mg as prescribed. Musculoskeletal: Reports right knee pain. ",
+    "Blood pressure: 180/80 mmHg CV: Regular rate and rhythm. No murmurs.\nRESPIRATORY:\nLungs are clear bilaterally.\nMSK: Examination of the right knee: Mild tenderness to palpation at the lateral aspect. Ecchymosis and edema along the lateral aspect. No effusion. Decent range of motion. Pain with movement. X-rays of the right knee were obtained and reviewed. These reveal no evidence of fracture or bony abnormality. ",
+    "1. Right knee pain, lateral ligament strain.\n2. Hypertension.\n3. Diabetes type 2. After reviewing the patient's examination and radiographic findings today, his symptoms appear to be consistent with a lateral ligament strain of the right knee. I am going to prescribe meloxicam 15 mg once daily for pain and swelling. I also put in a referral for physical therapy so he can work on strengthening the muscles around the area and prevent any further injury. We can consider further imaging if he continues to have pain, but I explained that this is a common injury that typically heals on it's own.\n\nFor his hypertension, I'm concerned that his blood pressure is not well controlled at this time, so we may need to modify his medication. I'm going to order an echocardiogram for further evaluation, but I want him to continue taking his lisinopril 20 mg for now.\n\nFor his diabetes, he stated that he has been measuring his blood glucose levels 4 to 5 times per week, but I want him to start measuring them 2 to 3 times per day. His hemoglobin A1c levels should provide more detail as far as his long-term progress so we will order that today. I'm also going to order a lipid panel and we can determine if any adjustments need to be made to his medication. In the meantime, he should continue taking metformin 500 mg. "
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.55,
+    0.42424242424242425,
+    0.5669291338582677,
+    0.49230769230769234
+  ],
+  "rouge2": [
+    0.24483775811209438,
+    0.15267175572519082,
+    0.368,
+    0.21705426356589147
+  ],
+  "rougeL": [
+    0.31176470588235294,
+    0.2196969696969697,
+    0.4251968503937008,
+    0.3153846153846154
+  ],
+  "rougeLsum": [
+    0.47058823529411764,
+    0.2424242424242424,
+    0.45669291338582674,
+    0.3153846153846154
+  ],
+  "bertscore_precision": [
+    0.7093428373336792,
+    0.7450516819953918,
+    0.7334483861923218,
+    0.7312948703765869
+  ],
+  "bertscore_recall": [
+    0.6687381267547607,
+    0.6317868828773499,
+    0.7185176610946655,
+    0.698028564453125
+  ],
+  "bertscore_f1": [
+    0.6884422898292542,
+    0.6837604641914368,
+    0.725906252861023,
+    0.7142746448516846
+  ],
+  "bleurt": [
+    0.36134088039398193,
+    0.42499762773513794,
+    0.566277265548706,
+    0.6039555668830872
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS The patient is a 35-year-old male who presents with neck pain following a rear-end car accident a week ago. He reports a sudden onset of pain when his neck and head jerked forward. He rates the pain as 7/10 and says it worsens with neck movement. He has tried ibuprofen with minimal relief. He denies any swelling, bruising, hearing or visual problems, or previous neck injuries. He did not seek medical attention at the time of the accident due to cost concerns.  \nPHYSICAL EXAM\n The patient has positive pain to palpation of the soft tissues of the neck, especially on the posterior aspect. He also has positive pain with flexion, extension, rotation, and lateral bending of the neck. There is no tenderness or deformity of the cervical spine. The cranial nerves are intact and the rest of the neurological exam is normal.  \nRESULTS\n The cervical spine x-ray shows no fracture or bony abnormality.  \nASSESSMENT AND PLAN\n The patient is diagnosed with neck strain, likely due to whiplash injury. He is prescribed anti-inflammatory medication (motrin 600 mg every 6-8 hours) and muscle relaxant (flexeril 10 mg every 12 hours as needed) for pain management. He is advised to avoid further neck strain and to use a soft collar if needed. He is ordered an MRI of the cervical spine to rule out any soft tissue damage or concussion. He is referred to either physical rehab or a chiropractor for further evaluation and treatment once the MRI results are available. He is instructed to follow up in a week or sooner if his symptoms worsen or change. He has no questions and understands the plan.",
+    "The patient is a 35-year-old male who presents with neck pain following a rear-end car accident a week ago. He reports a sudden onset of pain when his neck and head jerked forward. He rates the pain as 7/10 and says it worsens with neck movement. He has tried ibuprofen with minimal relief. He denies any swelling, bruising, hearing or visual problems, or previous neck injuries. He did not seek medical attention at the time of the accident due to cost concerns. ",
+    "The patient has positive pain to palpation of the soft tissues of the neck, especially on the posterior aspect. He also has positive pain with flexion, extension, rotation, and lateral bending of the neck. There is no tenderness or deformity of the cervical spine. The cranial nerves are intact and the rest of the neurological exam is normal. The cervical spine x-ray shows no fracture or bony abnormality. ",
+    "The patient is diagnosed with neck strain, likely due to whiplash injury. He is prescribed anti-inflammatory medication (motrin 600 mg every 6-8 hours) and muscle relaxant (flexeril 10 mg every 12 hours as needed) for pain management. He is advised to avoid further neck strain and to use a soft collar if needed. He is ordered an MRI of the cervical spine to rule out any soft tissue damage or concussion. He is referred to either physical rehab or a chiropractor for further evaluation and treatment once the MRI results are available. He is instructed to follow up in a week or sooner if his symptoms worsen or change. He has no questions and understands the plan. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nNeck pain\n\nHISTORY OF PRESENT ILLNESS\n\nJack Torres is a pleasant 40-year-old male who presents to the clinic today for the evaluation of neck pain. The onset of his pain began 1 week ago after he was involved in a motor vehicle accident. He states that he was hit in the back and experienced whiplash. Following the accident he did not present to the emergency room and he does not recall having any swelling or bruising at the neck. He localizes his pain to the posterior aspect of his neck. His pain level is rated at 7 out of 10. When taking ibuprofen he states his pain improves to 5 out of 10. He finds that neck range of motion exacerbates his pain. Initially after the accident he reports that he experienced a couple of headaches, but he states he has not had any recently. He denies any hearing problems or visual disturbances.\n\nSOCIAL HISTORY\n\nPatient reports that he played football years ago without any neck issues.\n\nREVIEW OF SYSTEMS\n\nEyes: Denies visual disturbances.\nHENT: Denies hearing loss.\nMusculoskeletal: Reports neck pain.\nNeurological: Denies headaches.\n\nPHYSICAL EXAM\n\nNECK: No swelling noted\nMSK: Examination of the cervical spine: Positive pain to palpation of the soft tissues of the neck. Shoulders and back are nontender to palpation. Positive pain with flexion, rotation, and lateral bending. Severe pain with extension.\n\nRESULTS\n\n3 views of the cervical spine were taken. These reveal no evidence of any fractures or bony abnormalities.\n\nASSESSMENT\n\nNeck strain.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. We discussed his x-rays did not reveal any signs of a fracture or bony abnormalities. Treatment options were discussed and conservative treatment has been recommended. He will begin taking Motrin 600 mg every 6 to 8 hours. A prescription for Flexeril 10 mg every 12 hours as needed was also provided. He was advised to be mindful of how he moves his neck and to be conservative to avoid straining his neck. I have also recommended that we obtain an MRI for further evaluation as the patient did not go to the emergency room following his accident. He will also be referred to either physical rehab or a chiropractor pending his MRI results.\n",
+    "Neck pain Jack Torres is a pleasant 40-year-old male who presents to the clinic today for the evaluation of neck pain. The onset of his pain began 1 week ago after he was involved in a motor vehicle accident. He states that he was hit in the back and experienced whiplash. Following the accident he did not present to the emergency room and he does not recall having any swelling or bruising at the neck. He localizes his pain to the posterior aspect of his neck. His pain level is rated at 7 out of 10. When taking ibuprofen he states his pain improves to 5 out of 10. He finds that neck range of motion exacerbates his pain. Initially after the accident he reports that he experienced a couple of headaches, but he states he has not had any recently. He denies any hearing problems or visual disturbances. Patient reports that he played football years ago without any neck issues. Eyes: Denies visual disturbances.\nHENT: Denies hearing loss.\nMusculoskeletal: Reports neck pain.\nNeurological: Denies headaches. ",
+    "NECK: No swelling noted\nMSK: Examination of the cervical spine: Positive pain to palpation of the soft tissues of the neck. Shoulders and back are nontender to palpation. Positive pain with flexion, rotation, and lateral bending. Severe pain with extension. 3 views of the cervical spine were taken. These reveal no evidence of any fractures or bony abnormalities. ",
+    "Neck strain. After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. We discussed his x-rays did not reveal any signs of a fracture or bony abnormalities. Treatment options were discussed and conservative treatment has been recommended. He will begin taking Motrin 600 mg every 6 to 8 hours. A prescription for Flexeril 10 mg every 12 hours as needed was also provided. He was advised to be mindful of how he moves his neck and to be conservative to avoid straining his neck. I have also recommended that we obtain an MRI for further evaluation as the patient did not go to the emergency room following his accident. He will also be referred to either physical rehab or a chiropractor pending his MRI results. "
+  ]
+}

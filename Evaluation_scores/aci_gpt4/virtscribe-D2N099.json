@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.3838926174496644,
+    0.3657587548638132,
+    0.10869565217391305,
+    0.4057971014492754
+  ],
+  "rouge2": [
+    0.10228802153432033,
+    0.13333333333333333,
+    0.01098901098901099,
+    0.06569343065693432
+  ],
+  "rougeL": [
+    0.22013422818791945,
+    0.26459143968871596,
+    0.09782608695652174,
+    0.2246376811594203
+  ],
+  "rougeLsum": [
+    0.34093959731543627,
+    0.31906614785992216,
+    0.09782608695652174,
+    0.2681159420289855
+  ],
+  "bertscore_precision": [
+    0.5914711952209473,
+    0.7553791999816895,
+    0.4990958571434021,
+    0.646957278251648
+  ],
+  "bertscore_recall": [
+    0.616385817527771,
+    0.6076505184173584,
+    0.6066684722900391,
+    0.6193734407424927
+  ],
+  "bertscore_f1": [
+    0.6036715507507324,
+    0.6735092401504517,
+    0.547649621963501,
+    0.6328649520874023
+  ],
+  "bleurt": [
+    0.3584655523300171,
+    0.3758466839790344,
+    0.2790173292160034,
+    0.4183790683746338
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS Randy Gutierrez, a 10-month-old male, presented with his mother for a sick visit. He has had a runny nose, congestion, cough, and low-grade fever since last night. He has been pulling on his ears and rubbing his nose. He has decreased appetite and is irritable. His older sister has been sick and he had a play date with a nephew who had a sinus infection. He has also had cradle cap that has worsened.  \nPHYSICAL EXAM\n Vital signs T 100.3 rectal, HR 120, RR 24, BP 90/60, O2 98% on room air. Weight 8.5 kg (25th percentile). General Alert, active, fussy, and in no acute distress. HEENT Normocephalic, atraumatic. Eyes PERRL, EOMI, conjunctivae clear, no discharge. Ears Tympanic membranes intact, clear, no bulging or erythema. Nose Mucosa moist, clear rhinorrhea, no polyps or septal deviation. Mouth Moist, pink, no lesions, pharynx without erythema or exudate. Neck Supple, no lymphadenopathy or thyromegaly. Chest Symmetric, no retractions or wheezes. Lungs Clear to auscultation bilaterally. Heart Regular rate and rhythm, no murmurs, rubs, or gallops. Abdomen Soft, non-tender, non-distended, no masses or organomegaly. Bowel sounds normal. Genitourinary Normal male genitalia, no hernias, testes descended bilaterally. Skin Warm, dry, no rashes, except for cradle cap on scalp. Neurologic Cranial nerves II-XII intact, grossly normal tone, strength, sensation, and reflexes. Developmental Appropriate for age, smiles, babbles, sits, crawls, and pulls to stand.  \nRESULTS\n None.  \nASSESSMENT AND PLAN\n Randy has a viral upper respiratory infection, likely rhinovirus, and cradle cap. No signs of bacterial sinusitis, otitis media, or croup. Plan is to provide supportive care with fluids, rest, saline mist, tylenol, zarbee's, and humidifier. Prescribe oral steroid for possible croup, to be used only if he develops a barky cough, half a teaspoon for five days. Advise to use dandruff shampoo for cradle cap, twice a week, and continue to use soft brush and baby oil. Educate mother on avoiding honey for infants under one year, and using agave instead. Reassure mother that symptoms should improve in 7-10 days, and to call or return if they worsen or persist. Schedule follow-up visit in one week. No covid-19 testing needed.",
+    "Randy Gutierrez, a 10-month-old male, presented with his mother for a sick visit. He has had a runny nose, congestion, cough, and low-grade fever since last night. He has been pulling on his ears and rubbing his nose. He has decreased appetite and is irritable. His older sister has been sick and he had a play date with a nephew who had a sinus infection. He has also had cradle cap that has worsened. ",
+    "Vital signs T 100.3 rectal, HR 120, RR 24, BP 90/60, O2 98% on room air. Weight 8.5 kg (25th percentile). General Alert, active, fussy, and in no acute distress. HEENT Normocephalic, atraumatic. Eyes PERRL, EOMI, conjunctivae clear, no discharge. Ears Tympanic membranes intact, clear, no bulging or erythema. Nose Mucosa moist, clear rhinorrhea, no polyps or septal deviation. Mouth Moist, pink, no lesions, pharynx without erythema or exudate. Neck Supple, no lymphadenopathy or thyromegaly. Chest Symmetric, no retractions or wheezes. Lungs Clear to auscultation bilaterally. Heart Regular rate and rhythm, no murmurs, rubs, or gallops. Abdomen Soft, non-tender, non-distended, no masses or organomegaly. Bowel sounds normal. Genitourinary Normal male genitalia, no hernias, testes descended bilaterally. Skin Warm, dry, no rashes, except for cradle cap on scalp. Neurologic Cranial nerves II-XII intact, grossly normal tone, strength, sensation, and reflexes. Developmental Appropriate for age, smiles, babbles, sits, crawls, and pulls to stand. None. ",
+    "Randy has a viral upper respiratory infection, likely rhinovirus, and cradle cap. No signs of bacterial sinusitis, otitis media, or croup. Plan is to provide supportive care with fluids, rest, saline mist, tylenol, zarbee's, and humidifier. Prescribe oral steroid for possible croup, to be used only if he develops a barky cough, half a teaspoon for five days. Advise to use dandruff shampoo for cradle cap, twice a week, and continue to use soft brush and baby oil. Educate mother on avoiding honey for infants under one year, and using agave instead. Reassure mother that symptoms should improve in 7-10 days, and to call or return if they worsen or persist. Schedule follow-up visit in one week. No covid-19 testing needed. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nCough, nasal congestion, and rhinorrhea.\n\nHISTORY OF PRESENT ILLNESS\n\nRandy Gutierrez is a 9-month-old male who is being evaluated today for a cough, nasal congestion, and rhinorrhea. He is accompanied by his mother.\n\nSymptoms began yesterday around dinnertime with clear nasal drainage, pulling on his ears bilaterally, and rubbing his nose frequently. He does not have a barky cough or a sore throat. His rectal temperature was 100.3 degrees. The patient did consume a 7 ounce bottle this morning, but mostly denied the next offered bottle and declined cereal. He is irritable and having trouble falling asleep, described \u201clike he is fighting it\u201d.\n\nThe patient has been exposed to an older sister who is sick and a cousin who has a sinus infection.\n\nTreatment has included saline nasal spray, Tylenol, baby Vick's, and a humidifier. When the patient aroused this morning, he was warm to the touch. When his sleeper was removed, he was quite sweaty despite the air conditioner being on.\n\nThe patient's dandruff is also worsening. The only tried treatment is Aveeno shampoo.\n\nSOCIAL HISTORY\n\nOlder sister.\n\nCURRENT MEDICATIONS\n\nTylenol PRN.\n\nPHYSICAL EXAM\n\nTemperature 100.3 degrees.\n\nEars, Eyes, Nose, Throat\nNasal congestion, clear mucus, rhinorrhea. Bilateral pulling of ears, no sore throat or hoarseness.\n\nRespiratory\nPositive for cough.\n\nASSESSMENT\n\n\u2022 Viral infection\n\u2022 Dandruff\n\nPLAN\n\nViral infection\nThe patient presents with a viral infection and does not need antibiotics currently. I advised continuation of fluids, rest. Additionally, I suggested trying Zarbee\u2019s for children under 1 years old. If a croup cough develops, the patient will receive a 0.5 teaspoon.\n\nI also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.\n\nDandruff\nThe patient is experiencing worsening symptoms of dandruff. I recommended Head and Shoulders shampoo, Selsun Blue, or Nizoral A-D 2 times per week, combined with his usual shampoo. I counseled the mother that she should be careful not to get the shampoo in the patient eyes and to not use the extra strength shampoos. Additionally, he may also use baby oil and a soft brush on the area.\n\nINSTRUCTIONS\n\nReturn in one week for a re-check.\n",
+    "Cough, nasal congestion, and rhinorrhea. Randy Gutierrez is a 9-month-old male who is being evaluated today for a cough, nasal congestion, and rhinorrhea. He is accompanied by his mother.\n\nSymptoms began yesterday around dinnertime with clear nasal drainage, pulling on his ears bilaterally, and rubbing his nose frequently. He does not have a barky cough or a sore throat. His rectal temperature was 100.3 degrees. The patient did consume a 7 ounce bottle this morning, but mostly denied the next offered bottle and declined cereal. He is irritable and having trouble falling asleep, described \u201clike he is fighting it\u201d.\n\nThe patient has been exposed to an older sister who is sick and a cousin who has a sinus infection.\n\nTreatment has included saline nasal spray, Tylenol, baby Vick's, and a humidifier. When the patient aroused this morning, he was warm to the touch. When his sleeper was removed, he was quite sweaty despite the air conditioner being on.\n\nThe patient's dandruff is also worsening. The only tried treatment is Aveeno shampoo. Older sister. Tylenol PRN. ",
+    "Temperature 100.3 degrees.\n\nEars, Eyes, Nose, Throat\nNasal congestion, clear mucus, rhinorrhea. Bilateral pulling of ears, no sore throat or hoarseness.\n\nRespiratory\nPositive for cough. ",
+    "\u2022 Viral infection\n\u2022 Dandruff Viral infection\nThe patient presents with a viral infection and does not need antibiotics currently. I advised continuation of fluids, rest. Additionally, I suggested trying Zarbee\u2019s for children under 1 years old. If a croup cough develops, the patient will receive a 0.5 teaspoon.\n\nI also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.\n\nDandruff\nThe patient is experiencing worsening symptoms of dandruff. I recommended Head and Shoulders shampoo, Selsun Blue, or Nizoral A-D 2 times per week, combined with his usual shampoo. I counseled the mother that she should be careful not to get the shampoo in the patient eyes and to not use the extra strength shampoos. Additionally, he may also use baby oil and a soft brush on the area. Return in one week for a re-check. "
+  ]
+}

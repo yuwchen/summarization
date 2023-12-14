@@ -1,0 +1,62 @@
+{
+  "rouge1": [
+    0.5623268698060943,
+    0.6496815286624205,
+    0.4444444444444445,
+    0.3700440528634361
+  ],
+  "rouge2": [
+    0.29444444444444445,
+    0.36538461538461536,
+    0.304635761589404,
+    0.14222222222222225
+  ],
+  "rougeL": [
+    0.3739612188365651,
+    0.42038216560509556,
+    0.4052287581699347,
+    0.2731277533039648
+  ],
+  "rougeLsum": [
+    0.48476454293628807,
+    0.4777070063694268,
+    0.4313725490196078,
+    0.2995594713656388
+  ],
+  "bertscore_precision": [
+    0.7178645133972168,
+    0.7795981168746948,
+    0.7565646767616272,
+    0.7073736190795898
+  ],
+  "bertscore_recall": [
+    0.6736257076263428,
+    0.7061874270439148,
+    0.6292538046836853,
+    0.632960855960846
+  ],
+  "bertscore_f1": [
+    0.695041835308075,
+    0.7410792708396912,
+    0.6870614290237427,
+    0.6681016683578491
+  ],
+  "bleurt": [
+    0.41114872694015503,
+    0.5259163975715637,
+    0.45481717586517334,
+    0.5473208427429199
+  ],
+  "pred_note": [
+    "Possible clinical note  HISTORY OF PRESENT ILLNESS The patient is a 45-year-old male who presents with right shoulder pain that he has had for a few weeks. He reports that he was doing some work in his backyard and felt sore all over the next couple of days, but his right shoulder pain persisted. He has a history of rotator cuff injury in the same shoulder from playing baseball when he was younger. He denies any numbness, tingling, or weakness in his arm or hand. He says the pain is worse with movement and at night, and he has been taking Advil and icing the shoulder for relief. He also complains of bilateral foot and ankle pain that he attributes to his yard work. He has been elevating and icing his feet as well.  \nPHYSICAL EXAM\n Vitals are within normal limits. Right shoulder exam reveals limited active and passive range of motion and tenderness at the greater tuberosity of the humerus. No tenderness at the sternoclavicular or acromioclavicular joints. Good hand grip. Neurovascular exam of the right arm is normal. Bilateral foot and ankle exam is deferred.  \nRESULTS\n Shoulder x-ray shows no fracture.  \nASSESSMENT AND PLAN\n The patient has right shoulder rotator cuff tendinopathy, likely aggravated by his yard work. He will have an MRI of the shoulder to rule out any other pathology and will be referred to physical therapy for six to eight weeks. He will continue Advil and ice as needed and will be offered a steroid injection if no improvement. He will also try soaking his feet in epsom salts for his foot and ankle pain. He will follow up as needed.",
+    "The patient is a 45-year-old male who presents with right shoulder pain that he has had for a few weeks. He reports that he was doing some work in his backyard and felt sore all over the next couple of days, but his right shoulder pain persisted. He has a history of rotator cuff injury in the same shoulder from playing baseball when he was younger. He denies any numbness, tingling, or weakness in his arm or hand. He says the pain is worse with movement and at night, and he has been taking Advil and icing the shoulder for relief. He also complains of bilateral foot and ankle pain that he attributes to his yard work. He has been elevating and icing his feet as well. ",
+    "Vitals are within normal limits. Right shoulder exam reveals limited active and passive range of motion and tenderness at the greater tuberosity of the humerus. No tenderness at the sternoclavicular or acromioclavicular joints. Good hand grip. Neurovascular exam of the right arm is normal. Bilateral foot and ankle exam is deferred. Shoulder x-ray shows no fracture. ",
+    "The patient has right shoulder rotator cuff tendinopathy, likely aggravated by his yard work. He will have an MRI of the shoulder to rule out any other pathology and will be referred to physical therapy for six to eight weeks. He will continue Advil and ice as needed and will be offered a steroid injection if no improvement. He will also try soaking his feet in epsom salts for his foot and ankle pain. He will follow up as needed. "
+  ],
+  "gt_note": [
+    "CHIEF COMPLAINT\n\nRight shoulder pain.\n\nHISTORY OF PRESENT ILLNESS\n\nBobby Flores is a 56-year-old male, right-hand-dominant, male who presents to the clinic today for the evaluation of right shoulder pain.\n\nThe onset of his pain began a few weeks ago, when he was performing different projects in his backyard. He states that he was sore all over the next couple of days. He locates his pain to the lateral aspect of his right shoulder. His pain is aggravated with movement. The patient denies any restriction with his arm. He also reports pain at night when he sleeps on his right side. The patient denies any numbness in his arm or hands. He has been taking Advil and icing his shoulder, which provides some relief. The patient reports a history of right shoulder pain when he was younger while playing baseball.\n\nThe patient also has complaints of bilateral foot and ankle pain. He attributes this pain to the yard work he has been doing. For treatment, he has iced and elevated them, which provided some relief.\n\nREVIEW OF SYSTEMS\n\nMusculoskeletal: Positive for right shoulder pain.\nNeurological: Negative for numbness in hands.\n\nVITALS\n\nTemperature: 97.8 degrees F.\nHeart Rate: 62 BPM.\nRespirations:16.\nBlood pressure: 116/84 mm Hg.\nOxygen saturation: 99 percent on room air.\n\nPHYSICAL EXAM\n\nCV: >Capillary refill is less than 3 seconds.\nNEURO: Normal sensation. Neurovascularly intact on the right. Sensation to touch is intact on the right shoulder.\nMSK: Examination of the right shoulder: Limited active and passive ROM. Tenderness at the greater tuberosity of the humerus. No tenderness at the sternoclavicular or AC joints. Good hand grip.\n\nRESULTS\n\n3 views of the right shoulder were taken. These reveal no fracture or dislocation. No abnormalities noted.\n\nASSESSMENT\n\n1. Right shoulder rotator cuff tendinopathy.\n2. Bilateral foot pain.\n\nPLAN\n\nAfter reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. I have explained to him that his x-rays did not reveal any signs of a fracture. I have recommended that we obtain an MRI of the right shoulder to evaluate for a possible rotator cuff tear. I have also recommended that the patient attend formal physical therapy for 6 to 8 weeks. He can continue taking Tylenol as needed for pain. If his symptoms do not improve with physical therapy, I will recommend a cortisone injection.\n\nIn regards to his bilateral feet pain, I have recommended that we treat the patient conservatively. I am recommending the patient soak his feet in an Epsom salt soak as well as elevate as needed.\n",
+    "Right shoulder pain. Bobby Flores is a 56-year-old male, right-hand-dominant, male who presents to the clinic today for the evaluation of right shoulder pain.\n\nThe onset of his pain began a few weeks ago, when he was performing different projects in his backyard. He states that he was sore all over the next couple of days. He locates his pain to the lateral aspect of his right shoulder. His pain is aggravated with movement. The patient denies any restriction with his arm. He also reports pain at night when he sleeps on his right side. The patient denies any numbness in his arm or hands. He has been taking Advil and icing his shoulder, which provides some relief. The patient reports a history of right shoulder pain when he was younger while playing baseball.\n\nThe patient also has complaints of bilateral foot and ankle pain. He attributes this pain to the yard work he has been doing. For treatment, he has iced and elevated them, which provided some relief. Musculoskeletal: Positive for right shoulder pain.\nNeurological: Negative for numbness in hands. ",
+    "Temperature: 97.8 degrees F.\nHeart Rate: 62 BPM.\nRespirations:16.\nBlood pressure: 116/84 mm Hg.\nOxygen saturation: 99 percent on room air. CV: >Capillary refill is less than 3 seconds.\nNEURO: Normal sensation. Neurovascularly intact on the right. Sensation to touch is intact on the right shoulder.\nMSK: Examination of the right shoulder: Limited active and passive ROM. Tenderness at the greater tuberosity of the humerus. No tenderness at the sternoclavicular or AC joints. Good hand grip. 3 views of the right shoulder were taken. These reveal no fracture or dislocation. No abnormalities noted. ",
+    "1. Right shoulder rotator cuff tendinopathy.\n2. Bilateral foot pain. After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. I have explained to him that his x-rays did not reveal any signs of a fracture. I have recommended that we obtain an MRI of the right shoulder to evaluate for a possible rotator cuff tear. I have also recommended that the patient attend formal physical therapy for 6 to 8 weeks. He can continue taking Tylenol as needed for pain. If his symptoms do not improve with physical therapy, I will recommend a cortisone injection.\n\nIn regards to his bilateral feet pain, I have recommended that we treat the patient conservatively. I am recommending the patient soak his feet in an Epsom salt soak as well as elevate as needed. "
+  ]
+}
