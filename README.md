@@ -8,7 +8,7 @@ Code for Doctor-patient conversation summarization.
 
 ## Code
 
-### OpanAI-model
+### Run OpanAI-model
 (1) Set up API-key. 
 ```
 sudo vim ~/.bash_profile
