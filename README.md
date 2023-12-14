@@ -46,7 +46,7 @@ python evalution_openai_soap_mts.py
 
 ```
 ```
-python count_num_token.py #cound number of token in the dir
+python count_num_token.py #cound number of tokens
 ```
 ### Summarize evaluation scores
 ```
