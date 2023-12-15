@@ -58,7 +58,7 @@ python cross_domain_mts.py
 - [data](https://drive.google.com/drive/folders/1myB-eChZwRmXPg3hMP0_gaHQLC5OBimh?usp=drive_link)      #data copied from the dataset
 - [Results](https://drive.google.com/drive/folders/1oEnUc2vNg6UNnHxV1gfIsPI5kvl8m3e2?usp=drive_link)   #generated notes
 - [Evaluation_scores](https://drive.google.com/drive/folders/1VTri9HjcTR0w2O3MdpLUT9c0_7xO6Ljx?usp=sharing) #evaluation scores
-- [LIWC] (https://drive.google.com/drive/folders/1BYNkQ6ely_bnsFUnCa41uUO6lb4ZpCts?usp=drive_link) #LIWC features
+- [LIWC](https://drive.google.com/drive/folders/1BYNkQ6ely_bnsFUnCa41uUO6lb4ZpCts?usp=drive_link) #LIWC features
 
 
 ------
